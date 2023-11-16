@@ -1,0 +1,41 @@
+2023-11-16 10:46:29.722 [info] Log level: Info
+2023-11-16 10:46:29.722 [info] Validating found git in: "git"
+2023-11-16 10:46:29.722 [info] Using git "2.39.2" from "git"
+2023-11-16 10:46:29.722 [info] > git rev-parse --show-toplevel [78ms]
+2023-11-16 10:46:29.722 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-16 10:46:29.722 [info] > git rev-parse --show-toplevel [23ms]
+2023-11-16 10:46:29.722 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-16 10:46:30.404 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-16 10:46:30.404 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-16 10:46:30.447 [info] > git rev-parse --show-toplevel [34ms]
+2023-11-16 10:46:30.447 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-16 10:46:30.618 [info] > git rev-parse --show-toplevel [7ms]
+2023-11-16 10:46:30.618 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-16 11:25:34.777 [info] Log level: Info
+2023-11-16 11:25:34.777 [info] Validating found git in: "git"
+2023-11-16 11:25:34.777 [info] Using git "2.39.2" from "git"
+2023-11-16 11:25:34.777 [info] > git rev-parse --show-toplevel [4ms]
+2023-11-16 11:25:34.793 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2023-11-16 11:25:34.797 [info] Open repository: /home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/02_Homeworks
+2023-11-16 11:25:34.813 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-16 11:25:34.814 [info] > git config --get commit.template [8ms]
+2023-11-16 11:25:34.830 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-11-16 11:25:34.838 [info] > git rev-parse --show-toplevel [18ms]
+2023-11-16 11:25:34.846 [info] > git status -z -uall [9ms]
+2023-11-16 11:25:34.846 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-16 11:25:34.871 [info] > git config --get commit.template [2ms]
+2023-11-16 11:25:34.871 [info] > git rev-parse --show-toplevel [9ms]
+2023-11-16 11:25:34.887 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-16 11:25:34.923 [info] > git status -z -uall [30ms]
+2023-11-16 11:25:35.265 [info] > git show --textconv :05_Homework5/PlanarArmCollocation/find_throwing_trajectory.py [10ms]
+2023-11-16 11:25:35.271 [info] > git ls-files --stage -- /home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/02_Homeworks/05_Homework5/PlanarArmCollocation/find_throwing_trajectory.py [7ms]
+2023-11-16 11:25:35.381 [info] > git check-ignore -v -z --stdin [1ms]
+2023-11-16 11:25:59.356 [info] > git config --get commit.template [2ms]
+2023-11-16 11:25:59.366 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-11-16 11:25:59.374 [info] > git status -z -uall [1ms]
+2023-11-16 11:26:24.502 [info] > git check-ignore -v -z --stdin [1ms]
+2023-11-16 11:26:25.073 [info] > git config --get commit.template [6ms]
+2023-11-16 11:26:25.073 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-11-16 11:26:25.078 [info] > git status -z -uall [2ms]
+2023-11-16 11:26:33.504 [info] > git show --textconv :05_Homework5/PlanarArmCollocation/find_throwing_trajectory.py [9ms]
+2023-11-16 11:26:33.505 [info] > git ls-files --stage -- /home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/02_Homeworks/05_Homework5/PlanarArmCollocation/find_throwing_trajectory.py [2ms]

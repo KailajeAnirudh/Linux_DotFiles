@@ -1,0 +1,31 @@
+2023-11-14 11:05:27.945 [info] [Info  - 11:05:27 AM] (94341) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-14 11:05:27.945 [info] [Info  - 11:05:27 AM] (94341) Server root directory: /home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-14 11:05:27.945 [info] [Info  - 11:05:27 AM] (94341) Starting service instance "02_Homework"
+2023-11-14 11:05:27.968 [info] [Info  - 11:05:27 AM] (94341) Setting pythonPath for service "02_Homework": "/bin/python3"
+2023-11-14 11:05:27.969 [info] [Info  - 11:05:27 AM] (94341) Setting environmentName for service "02_Homework": "3.11.2 (global)"
+2023-11-14 11:05:27.984 [info] [Info  - 11:05:27 AM] (94341) Assuming Python version 3.11
+2023-11-14 11:05:28.017 [info] [Info  - 11:05:28 AM] (94341) Found 14 source files
+2023-11-14 11:05:28.030 [info] [Info  - 11:05:28 AM] (94341) Starting service instance "02_Homework"
+2023-11-14 11:05:28.045 [info] [Info  - 11:05:28 AM] (94341) Setting environmentName for service "02_Homework": "3.11.2 (global)"
+2023-11-14 11:05:28.075 [info] [Info  - 11:05:28 AM] (94341) Found 14 source files
+2023-11-14 11:05:30.926 [info] [Info  - 11:05:30 AM] (94341) [IDX(3)] Long operation: index execution environment /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework (2029ms)
+2023-11-14 11:05:30.939 [info] [Info  - 11:05:30 AM] (94341) [IDX(3)] Long operation: index packages /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework (2050ms)
+2023-11-14 11:06:37.224 [info] [Info  - 11:06:37 AM] (94341) Found 15 source files
+2023-11-14 17:34:05.353 [info] [Info  - 5:34:05 PM] (94341) Starting service instance "02_Homework"
+2023-11-14 17:34:05.473 [info] [Info  - 5:34:05 PM] (94341) Setting environmentName for service "02_Homework": "3.11.2 (global)"
+2023-11-14 17:34:05.525 [info] [Info  - 5:34:05 PM] (94341) Found 15 source files
+2023-11-14 17:40:31.093 [info] [Info  - 5:40:31 PM] (94341) Found 15 source files
+2023-11-14 17:40:31.102 [info] [Info  - 5:40:31 PM] (94341) Found 35 source files
+2023-11-14 18:30:46.145 [info] [Info  - 6:30:46 PM] (94341) Starting service instance "02_Homework"
+2023-11-14 18:30:46.234 [info] [Info  - 6:30:46 PM] (94341) Setting environmentName for service "02_Homework": "3.11.2 (global)"
+2023-11-14 18:30:46.284 [info] [Info  - 6:30:46 PM] (94341) Found 15 source files
+2023-11-14 19:21:42.119 [info] [Info  - 7:21:42 PM] (94341) Setting pythonPath for service "02_Homework": "/bin/python3"
+2023-11-14 19:21:42.123 [info] [Info  - 7:21:42 PM] (94341) Setting environmentName for service "02_Homework": "3.11.2 (global)"
+2023-11-14 19:21:42.156 [info] [Info  - 7:21:42 PM] (94341) Assuming Python version 3.11
+2023-11-14 19:21:42.206 [info] [Info  - 7:21:42 PM] (94341) Found 15 source files
+2023-11-14 19:21:49.944 [info] [Info  - 7:21:49 PM] (94341) Starting service instance "02_Homework"
+2023-11-14 19:21:50.028 [info] [Info  - 7:21:50 PM] (94341) Setting environmentName for service "02_Homework": "3.11.2 (global)"
+2023-11-14 19:21:50.081 [info] [Info  - 7:21:50 PM] (94341) Found 15 source files
+2023-11-14 19:45:12.042 [info] [Info  - 7:45:12 PM] (94341) Starting service instance "02_Homework"
+2023-11-14 19:45:12.128 [info] [Info  - 7:45:12 PM] (94341) Setting environmentName for service "02_Homework": "3.11.2 (global)"
+2023-11-14 19:45:12.183 [info] [Info  - 7:45:12 PM] (94341) Found 15 source files

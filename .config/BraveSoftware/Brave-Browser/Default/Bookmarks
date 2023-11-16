@@ -1,0 +1,91 @@
+{
+   "checksum": "a2e5cc24aea8a51c38cb06fa815d5364",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13343805174751231",
+            "date_last_used": "0",
+            "guid": "d4ec5273-2198-407b-a1b8-45f436a03ed2",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Drake: Model-Based Design and Verification for Robotics",
+            "type": "url",
+            "url": "https://drake.mit.edu/"
+         }, {
+            "date_added": "13344048335673700",
+            "date_last_used": "13344387046333896",
+            "guid": "f9314f8c-f7a6-4f40-a485-be5eb461af7b",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PTB-XL, a large publicly available electrocardiography dataset v1.0.1",
+            "type": "url",
+            "url": "https://physionet.org/content/ptb-xl/1.0.1/"
+         }, {
+            "date_added": "13344051176934290",
+            "date_last_used": "0",
+            "guid": "1d94991b-fd86-4543-aa22-a0b5bcb34ef5",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "2023C - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/2/folders/1yN4PdDgKdUwXA6jmfA4T5UehyJzcw-OV"
+         }, {
+            "date_added": "13344305617275165",
+            "date_last_used": "13344536557668606",
+            "guid": "d22a4fe5-00c3-4d5d-897e-139f03ded732",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zen Flowchart - My Documents",
+            "type": "url",
+            "url": "https://app.zenflowchart.com/app"
+         }, {
+            "date_added": "13344380279706853",
+            "date_last_used": "13344448864701523",
+            "guid": "12fc2da3-a648-4584-aa69-805305ac17b4",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zen Flowchart - Mindmap/UVl2nssxDV567RKoZ7U5",
+            "type": "url",
+            "url": "https://app.zenflowchart.com/mindmap/UVl2nssxDV567RKoZ7U5"
+         } ],
+         "date_added": "13343800985349818",
+         "date_last_used": "0",
+         "date_modified": "13344380279706853",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13343800985349820",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13343800985349821",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

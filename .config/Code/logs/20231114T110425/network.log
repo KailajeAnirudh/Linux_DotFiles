@@ -1,0 +1,13 @@
+2023-11-15 10:28:46.938 [error] electron #1425: https://update.code.visualstudio.com/api/update/linux-x64/stable/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e - error undefined net::ERR_INTERNET_DISCONNECTED
+2023-11-15 10:28:46.941 [error] electron #1426: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2023-11-15 10:28:48.953 [error] electron #1427: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2023-11-15 10:28:52.145 [error] electron #1428: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2023-11-15 10:29:21.605 [error] electron #1429: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2023-11-15 10:29:24.602 [error] electron #1430: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2023-11-15 10:29:48.383 [error] electron #1431: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2023-11-15 10:29:51.942 [error] electron #1432: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2023-11-15 10:30:12.861 [error] electron #1433: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2023-11-15 10:30:16.482 [error] electron #1434: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2023-11-15 10:31:07.396 [error] electron #1435: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2023-11-15 10:31:10.477 [error] electron #1436: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2023-11-15 23:27:42.533 [error] electron #3780: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED

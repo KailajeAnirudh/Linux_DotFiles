@@ -1,0 +1,4 @@
+2023-11-16 10:46:27.960 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-16 10:46:32.178 [info] [perf] Render performance baseline is 135ms
+2023-11-16 10:49:43.966 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-11-16 10:49:43.974 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/02_Homeworks/05_Homework5/PlanarArmCollocation/dynamics_constraints.py 

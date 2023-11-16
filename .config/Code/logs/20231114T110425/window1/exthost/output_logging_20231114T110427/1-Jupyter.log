@@ -1,0 +1,27 @@
+Visual Studio Code (1.84.2, undefined, desktop)
+Jupyter Extension Version: 2023.10.1003070148.
+Python Extension Version: 2023.20.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject, Home = /home/anirudhkailaje
+11:04:28.044 [info] Start refreshing Kernel Picker (1699977868044)
+11:04:28.046 [info] Using Pylance
+11:04:28.080 [info] Start refreshing Interpreter Kernel Picker
+11:04:28.532 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb' (disableUI=true)
+11:04:28.990 [warn] Failed to get activated env vars for /bin/python3 in 664ms
+11:04:28.992 [warn] Failed to get activated env vars for /bin/python3 in 453ms
+11:04:28.999 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+11:04:29.017 [info] Process Execution: /bin/python3 -m pip list
+11:04:29.021 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:04:29.027 [info] Process Execution: /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"6cd0e263-7dc4-4436-ae03-5be8047c0384" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-92168aEH8zligiTgs.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src
+11:04:29.179 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+11:04:29.500 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+11:04:29.720 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1003070148-linux-x64/pythonFiles/printJupyterDataDir.py
+11:04:29.978 [info] End refreshing Kernel Picker (1699977868044)
+11:04:35.128 [info] Disposing HostJupyterExecution
+11:04:35.128 [info] Dispose Kernel '~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb' associated with '~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb'
+11:04:35.128 [info] Dispose Kernel process 92326.
+11:04:35.135 [info] Disposing HostJupyterExecution

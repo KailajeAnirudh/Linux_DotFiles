@@ -1,0 +1,100 @@
+2023-11-14 11:04:25.146 [info] update#setState idle
+2023-11-14 11:04:35.144 [info] Extension host with pid 92168 exited with code: 0, signal: unknown.
+2023-11-14 11:04:54.100 [info] Extension host with pid 92146 exited with code: 0, signal: unknown.
+2023-11-14 11:04:55.149 [info] update#setState checking for updates
+2023-11-14 11:04:55.260 [info] update#setState idle
+2023-11-14 11:05:18.247 [info] Extension host with pid 93217 exited with code: 0, signal: unknown.
+2023-11-14 12:04:55.151 [info] update#setState checking for updates
+2023-11-14 12:04:55.396 [info] update#setState idle
+2023-11-14 13:04:55.156 [info] update#setState checking for updates
+2023-11-14 13:04:55.382 [info] update#setState idle
+2023-11-14 14:04:55.159 [info] update#setState checking for updates
+2023-11-14 14:04:55.388 [info] update#setState idle
+2023-11-14 15:04:55.162 [info] update#setState checking for updates
+2023-11-14 15:04:55.407 [info] update#setState idle
+2023-11-14 16:04:55.168 [info] update#setState checking for updates
+2023-11-14 16:04:55.757 [info] update#setState idle
+2023-11-14 16:46:06.864 [error] [UtilityProcess id: 3, type: fileWatcher, pid: 612337]: crashed with code 15 and reason 'killed'
+2023-11-14 16:46:06.865 [info] Extension host with pid 612350 exited with code: 0, signal: unknown.
+2023-11-14 17:04:55.172 [info] update#setState checking for updates
+2023-11-14 17:04:55.519 [info] update#setState idle
+2023-11-14 18:04:55.179 [info] update#setState checking for updates
+2023-11-14 18:04:55.429 [info] update#setState idle
+2023-11-14 19:04:55.184 [info] update#setState checking for updates
+2023-11-14 19:04:55.438 [info] update#setState idle
+2023-11-14 19:21:25.619 [info] Extension host with pid 614614 exited with code: 0, signal: unknown.
+2023-11-14 19:21:25.638 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#editorWorkerService
+2023-11-14 19:21:25.643 [error] [UtilityProcess id: 3, type: fileWatcher, pid: 614672]: crashed with code 15 and reason 'killed'
+2023-11-14 20:04:55.188 [info] update#setState checking for updates
+2023-11-14 20:04:55.469 [info] update#setState idle
+2023-11-14 21:04:55.194 [info] update#setState checking for updates
+2023-11-14 21:04:55.431 [info] update#setState idle
+2023-11-14 22:04:55.196 [info] update#setState checking for updates
+2023-11-14 22:04:55.407 [info] update#setState idle
+2023-11-14 23:04:55.201 [info] update#setState checking for updates
+2023-11-14 23:04:55.446 [info] update#setState idle
+2023-11-15 00:04:55.204 [info] update#setState checking for updates
+2023-11-15 00:04:55.474 [info] update#setState idle
+2023-11-15 10:28:46.932 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-15 10:28:46.932 [info] update#setState checking for updates
+2023-11-15 10:28:46.939 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-11-15 10:28:46.941 [info] update#setState idle
+2023-11-15 11:28:46.934 [info] update#setState checking for updates
+2023-11-15 11:28:47.513 [info] update#setState idle
+2023-11-15 12:15:52.868 [info] Extension host with pid 1588181 exited with code: 0, signal: unknown.
+2023-11-15 12:25:40.143 [info] Extension host with pid 1588348 exited with code: 0, signal: unknown.
+2023-11-15 12:25:40.161 [error] [UtilityProcess id: 4, type: fileWatcher, pid: 1588397]: crashed with code 15 and reason 'killed'
+2023-11-15 12:37:39.668 [info] Extension host with pid 1621841 exited with code: 0, signal: unknown.
+2023-11-15 12:37:42.375 [info] update#setState checking for updates
+2023-11-15 12:37:42.469 [info] update#setState idle
+2023-11-15 13:37:42.377 [info] update#setState checking for updates
+2023-11-15 13:37:42.515 [info] update#setState idle
+2023-11-15 13:52:46.058 [info] Extension host with pid 1621991 exited with code: 0, signal: unknown.
+2023-11-15 13:52:46.072 [error] [UtilityProcess id: 5, type: fileWatcher, pid: 1622035]: crashed with code 15 and reason 'killed'
+2023-11-15 14:22:11.643 [info] Extension host with pid 1788170 exited with code: 0, signal: unknown.
+2023-11-15 14:37:42.379 [info] update#setState checking for updates
+2023-11-15 14:37:42.512 [info] update#setState idle
+2023-11-15 15:37:42.381 [info] update#setState checking for updates
+2023-11-15 15:37:42.535 [info] update#setState idle
+2023-11-15 16:37:42.385 [info] update#setState checking for updates
+2023-11-15 16:37:42.513 [info] update#setState idle
+2023-11-15 17:37:42.388 [info] update#setState checking for updates
+2023-11-15 17:37:42.540 [info] update#setState idle
+2023-11-15 18:37:42.391 [info] update#setState checking for updates
+2023-11-15 18:37:42.554 [info] update#setState idle
+2023-11-15 19:37:42.393 [info] update#setState checking for updates
+2023-11-15 19:37:42.613 [info] update#setState idle
+2023-11-16 00:17:13.158 [info] update#setState checking for updates
+2023-11-16 00:17:13.341 [info] update#setState idle
+2023-11-16 00:48:41.225 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-11-16 00:48:41.225 [error] [UtilityProcess id: 5, type: fileWatcher, pid: 1738632]: crashed with code 15 and reason 'killed'
+2023-11-16 00:48:41.229 [info] Extension host with pid 1738574 exited with code: 0, signal: unknown.
+2023-11-16 01:17:13.161 [info] update#setState checking for updates
+2023-11-16 01:17:13.407 [info] update#setState idle
+2023-11-16 02:17:13.164 [info] update#setState checking for updates
+2023-11-16 02:17:13.397 [info] update#setState idle
+2023-11-16 03:17:13.167 [info] update#setState checking for updates
+2023-11-16 03:17:13.404 [info] update#setState idle
+2023-11-16 04:17:13.171 [info] update#setState checking for updates
+2023-11-16 04:17:13.400 [info] update#setState idle
+2023-11-16 05:17:13.172 [info] update#setState checking for updates
+2023-11-16 05:17:13.419 [info] update#setState idle
+2023-11-16 06:17:13.178 [info] update#setState checking for updates
+2023-11-16 06:17:13.416 [info] update#setState idle
+2023-11-16 07:17:13.185 [info] update#setState checking for updates
+2023-11-16 07:17:13.374 [info] update#setState idle
+2023-11-16 08:17:13.190 [info] update#setState checking for updates
+2023-11-16 08:17:13.401 [info] update#setState idle
+2023-11-16 09:17:13.195 [info] update#setState checking for updates
+2023-11-16 09:17:13.412 [info] update#setState idle
+2023-11-16 10:17:13.200 [info] update#setState checking for updates
+2023-11-16 10:17:13.471 [info] update#setState idle
+2023-11-16 10:39:14.023 [error] ptyHost terminated unexpectedly with code 0
+2023-11-16 10:39:14.036 [error] [UtilityProcess type: shared-process, pid: 92126]: crashed with code 15 and reason 'killed'
+2023-11-16 10:39:14.070 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-11-16 10:39:14.070 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 93991]: crashed with code 15 and reason 'killed'
+2023-11-16 10:39:14.106 [info] Extension host with pid 94001 exited with code: 15, signal: unknown.
+2023-11-16 10:39:14.106 [error] [UtilityProcess id: 4, type: extensionHost, pid: 94001]: crashed with code 15 and reason 'killed'
+2023-11-16 10:39:14.113 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

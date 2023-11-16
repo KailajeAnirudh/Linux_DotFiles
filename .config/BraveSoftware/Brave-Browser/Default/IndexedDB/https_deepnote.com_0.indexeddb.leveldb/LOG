@@ -1,0 +1,57 @@
+2023/11/09-17:22:23.787 9c5 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_deepnote.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/09-17:22:23.787 9c5 Recovering log #64
+2023/11/09-17:22:23.799 9c5 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_deepnote.com_0.indexeddb.leveldb/000064.log 
+2023/11/09-17:22:25.352 9c5 Level-0 table #69: started
+2023/11/09-17:22:25.365 9c5 Level-0 table #69: 1157601 bytes OK
+2023/11/09-17:22:25.366 9c5 Delete type=0 #64
+2023/11/09-17:22:25.863 9c5 Compacting 1@1 + 1@2 files
+2023/11/09-17:22:25.884 9c5 Generated table #70@1: 15320 keys, 1248007 bytes
+2023/11/09-17:22:25.884 9c5 Compacted 1@1 + 1@2 files => 1248007 bytes
+2023/11/09-17:22:25.886 9c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/09-17:22:25.886 9c5 Delete type=2 #66
+2023/11/09-17:22:25.886 9c5 Delete type=2 #69
+2023/11/09-17:23:13.595 9c5 Level-0 table #72: started
+2023/11/09-17:23:13.612 9c5 Level-0 table #72: 1214970 bytes OK
+2023/11/09-17:23:13.614 9c5 Delete type=0 #68
+2023/11/09-17:23:14.093 9c5 Compacting 1@1 + 1@2 files
+2023/11/09-17:23:14.114 9c5 Generated table #73@1: 20801 keys, 2001436 bytes
+2023/11/09-17:23:14.114 9c5 Compacted 1@1 + 1@2 files => 2001436 bytes
+2023/11/09-17:23:14.116 9c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/09-17:23:14.116 9c5 Delete type=2 #72
+2023/11/09-17:23:14.116 9c5 Delete type=2 #70
+2023/11/09-17:31:06.208 9c5 Level-0 table #75: started
+2023/11/09-17:31:06.220 9c5 Level-0 table #75: 1308302 bytes OK
+2023/11/09-17:31:06.221 9c5 Delete type=0 #71
+2023/11/09-17:32:06.205 9c5 Compacting 1@1 + 1@2 files
+2023/11/09-17:32:06.223 9c5 Generated table #76@1: 18036 keys, 1414152 bytes
+2023/11/09-17:32:06.223 9c5 Compacted 1@1 + 1@2 files => 1414152 bytes
+2023/11/09-17:32:06.224 9c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/09-17:32:06.224 9c5 Delete type=2 #75
+2023/11/09-17:32:06.224 9c5 Delete type=2 #73
+2023/11/09-18:24:03.074 9c4 Level-0 table #78: started
+2023/11/09-18:24:03.088 9c4 Level-0 table #78: 1210640 bytes OK
+2023/11/09-18:24:03.091 9c4 Delete type=0 #74
+2023/11/09-18:24:26.517 9c5 Compacting 1@1 + 1@2 files
+2023/11/09-18:24:26.539 9c5 Generated table #79@1: 19167 keys, 1555520 bytes
+2023/11/09-18:24:26.539 9c5 Compacted 1@1 + 1@2 files => 1555520 bytes
+2023/11/09-18:24:26.541 9c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/09-18:24:26.541 9c5 Delete type=2 #78
+2023/11/09-18:24:26.541 9c5 Delete type=2 #76
+2023/11/09-18:52:00.070 9c5 Level-0 table #81: started
+2023/11/09-18:52:00.083 9c5 Level-0 table #81: 1226390 bytes OK
+2023/11/09-18:52:00.084 9c5 Delete type=0 #77
+2023/11/09-18:52:26.511 9c4 Compacting 1@1 + 1@2 files
+2023/11/09-18:52:26.536 9c4 Generated table #82@1: 19467 keys, 1486075 bytes
+2023/11/09-18:52:26.536 9c4 Compacted 1@1 + 1@2 files => 1486075 bytes
+2023/11/09-18:52:26.537 9c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/09-18:52:26.537 9c4 Delete type=2 #79
+2023/11/09-18:52:26.537 9c4 Delete type=2 #81
+2023/11/09-19:23:26.512 9c5 Level-0 table #84: started
+2023/11/09-19:23:26.525 9c5 Level-0 table #84: 1196668 bytes OK
+2023/11/09-19:23:26.527 9c5 Delete type=0 #80
+2023/11/09-19:23:52.069 9c4 Compacting 1@1 + 1@2 files
+2023/11/09-19:23:52.096 9c4 Generated table #85@1: 20713 keys, 1604667 bytes
+2023/11/09-19:23:52.096 9c4 Compacted 1@1 + 1@2 files => 1604667 bytes
+2023/11/09-19:23:52.097 9c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/09-19:23:52.097 9c4 Delete type=2 #84
+2023/11/09-19:23:52.097 9c4 Delete type=2 #82

@@ -1,0 +1,216 @@
+Visual Studio Code (1.84.2, undefined, desktop)
+Jupyter Extension Version: 2023.10.1100000000.
+Python Extension Version: 2023.20.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/01_UPenn/02_MEAM5170/05_Madness, Home = /home/anirudhkailaje
+10:46:29.363 [info] Start refreshing Kernel Picker (1700149589363)
+10:46:29.367 [info] Using Pylance
+10:46:29.893 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb' (disableUI=true)
+10:46:29.894 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb' (disableUI=true)
+10:46:30.597 [warn] Failed to get activated env vars for /bin/python3 in 889ms
+10:46:30.599 [warn] Failed to get activated env vars for /bin/python3 in 672ms
+10:46:30.602 [warn] Failed to get activated env vars for /bin/python3 in 665ms
+10:46:30.619 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+10:46:30.662 [info] Process Execution: /bin/python3 -m pip list
+10:46:30.671 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:46:30.680 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:46:30.701 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-13276HsZggMQy3hvZ.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src
+10:46:30.718 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-13276MTmZFATGwngV.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src
+10:46:30.725 [info] End refreshing Kernel Picker (1700149589363)
+10:46:30.943 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+10:46:30.958 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+10:46:31.099 [info] Start refreshing Interpreter Kernel Picker
+10:46:31.099 [info] Start refreshing Kernel Picker (1700149591099)
+10:46:31.619 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10:46:31.664 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+10:46:31.665 [warn] StdErr from Kernel Process 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10:46:32.128 [warn] StdErr from Kernel Process [IPKernelApp] ERROR | Invalid Message
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/ipykernel/kernelbase.py", line 365, in dispatch_shell
+    msg = self.session.deserialize(msg, content=True, copy=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/jupyter_client/session.py", line 1060, in deserialize
+    raise ValueError("Invalid Signature: %r" % signature)
+ValueError: Invalid Signature: b'2345a9e182293eb8fe5bd66e33abf0a72254006f55a5c3868b00d0e3c2f11e48'
+10:46:32.142 [warn] StdErr from Kernel Process [IPKernelApp] ERROR | Invalid Message
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/ipykernel/kernelbase.py", line 365, in dispatch_shell
+    msg = self.session.deserialize(msg, content=True, copy=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/jupyter_client/session.py", line 1060, in deserialize
+    raise ValueError("Invalid Signature: %r" % signature)
+ValueError: Invalid Signature: b'a363e1fe04e842e35522c06cacd50b5e593e77d5500e392d6187a5647eb8bc99'
+10:46:32.180 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/pythonFiles/printJupyterDataDir.py
+10:46:32.202 [warn] StdErr from Kernel Process [IPKernelApp] ERROR | Invalid Message
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/ipykernel/kernelbase.py", line 365, in dispatch_shell
+    msg = self.session.deserialize(msg, content=True, copy=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/jupyter_client/session.py", line 1060, in deserialize
+    raise ValueError("Invalid Signature: %r" % signature)
+ValueError: Invalid Signature: b'fce5db2eeae0252a98342f46c9a17faeea9443fa390cbd62f0a0c9986d1a6aed'
+[IPKernelApp] ERROR | Invalid Message
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/ipykernel/kernelbase.py", line 365, in dispatch_shell
+    msg = self.session.deserialize(msg, content=True, copy=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/jupyter_client/session.py", line 1060, in deserialize
+    raise ValueError("Invalid Signature: %r" % signature)
+ValueError: Invalid Signature: b'6bdf8054b140aa20bd7f5e950eec8e2b1f23f6db2f3a10b7d9ddcb436e3dd582'
+10:46:32.230 [error] Failed to get baseUrl [Error: ENOENT: no such file or directory, unlink '~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/temp/scripts/1f7c703007101d3e4fda002bcef33f81e2e54f0ab57c1903d0a977dbed01b35b/jupyter/nbextensions/jupyter-js-widgets/extension.js.map'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/temp/scripts/1f7c703007101d3e4fda002bcef33f81e2e54f0ab57c1903d0a977dbed01b35b/jupyter/nbextensions/jupyter-js-widgets/extension.js.map'
+}
+10:46:32.291 [info] End refreshing Kernel Picker (1700149591099)
+10:46:32.953 [error] Failed to get baseUrl [Error: ENOENT: no such file or directory, unlink '~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/temp/scripts/1f7c703007101d3e4fda002bcef33f81e2e54f0ab57c1903d0a977dbed01b35b/jupyter/nbextensions/jupyter-js-widgets/extension.js.map'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/temp/scripts/1f7c703007101d3e4fda002bcef33f81e2e54f0ab57c1903d0a977dbed01b35b/jupyter/nbextensions/jupyter-js-widgets/extension.js.map'
+}
+10:46:32.954 [warn] Failed to fetch script sources [Error: ENOENT: no such file or directory, unlink '~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/temp/scripts/1f7c703007101d3e4fda002bcef33f81e2e54f0ab57c1903d0a977dbed01b35b/jupyter/nbextensions/jupyter-js-widgets/extension.js.map'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/temp/scripts/1f7c703007101d3e4fda002bcef33f81e2e54f0ab57c1903d0a977dbed01b35b/jupyter/nbextensions/jupyter-js-widgets/extension.js.map'
+}
+10:50:15.540 [error] Failed to get baseUrl [Error: ENOENT: no such file or directory, unlink '~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/temp/scripts/1f7c703007101d3e4fda002bcef33f81e2e54f0ab57c1903d0a977dbed01b35b/jupyter/nbextensions/jupyter-js-widgets/extension.js.map'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/temp/scripts/1f7c703007101d3e4fda002bcef33f81e2e54f0ab57c1903d0a977dbed01b35b/jupyter/nbextensions/jupyter-js-widgets/extension.js.map'
+}
+11:18:51.906 [info] Handle Execution of Cells 9 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:18:51.913 [info] Kernel acknowledged execution of cell 9 @ 1700151531912
+11:18:51.980 [info] End cell 9 execution @ 1700151531980, started @ 1700151531912, elapsed time = 0.068s
+11:18:51.981 [warn] Cancel all remaining cells due to cancellation or failure in execution
+11:19:26.511 [info] Restart requested ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:19:26.514 [info] Dispose Kernel process 13629.
+11:19:26.552 [warn] Failed to get activated env vars for /bin/python3 in 27ms
+11:19:26.561 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:19:26.567 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-132764sdsJW5A75P2.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src
+11:19:26.673 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+11:19:26.849 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+11:19:26.989 [info] Restarted 7d19c19d-f6eb-4d99-bb12-e3e72bfd735b
+11:19:32.645 [info] Handle Execution of Cells 4 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:19:32.649 [info] Kernel acknowledged execution of cell 4 @ 1700151572649
+11:19:33.204 [info] End cell 4 execution @ 1700151573204, started @ 1700151572649, elapsed time = 0.555s
+11:19:34.028 [info] Handle Execution of Cells 5 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:19:34.049 [info] Kernel acknowledged execution of cell 5 @ 1700151574049
+11:19:34.066 [info] End cell 5 execution @ 1700151574066, started @ 1700151574049, elapsed time = 0.017s
+11:19:35.630 [info] Handle Execution of Cells 6 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:19:35.638 [info] Kernel acknowledged execution of cell 6 @ 1700151575638
+11:19:35.640 [info] End cell 6 execution @ 1700151575640, started @ 1700151575638, elapsed time = 0.002s
+11:19:40.133 [info] Handle Execution of Cells 7 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:19:40.143 [info] Kernel acknowledged execution of cell 7 @ 1700151580143
+11:19:40.144 [info] End cell 7 execution @ 1700151580144, started @ 1700151580143, elapsed time = 0.001s
+11:19:42.835 [info] Handle Execution of Cells 8 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:19:42.839 [info] Kernel acknowledged execution of cell 8 @ 1700151582839
+11:19:42.842 [info] End cell 8 execution @ 1700151582842, started @ 1700151582839, elapsed time = 0.003s
+11:19:44.825 [info] Handle Execution of Cells 9 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:19:44.829 [info] Kernel acknowledged execution of cell 9 @ 1700151584829
+11:19:44.833 [info] End cell 9 execution @ 1700151584833, started @ 1700151584829, elapsed time = 0.004s
+11:19:51.084 [info] Handle Execution of Cells 9 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:19:51.089 [info] Kernel acknowledged execution of cell 9 @ 1700151591088
+11:19:51.091 [info] End cell 9 execution @ 1700151591091, started @ 1700151591088, elapsed time = 0.003s
+11:20:01.505 [info] Handle Execution of Cells 9 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:20:01.510 [info] Kernel acknowledged execution of cell 9 @ 1700151601510
+11:20:01.513 [info] End cell 9 execution @ 1700151601513, started @ 1700151601510, elapsed time = 0.003s
+11:20:08.796 [info] Handle Execution of Cells 9 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:20:08.801 [info] Kernel acknowledged execution of cell 9 @ 1700151608801
+11:20:08.803 [info] End cell 9 execution @ 1700151608803, started @ 1700151608801, elapsed time = 0.002s
+11:20:12.834 [info] Handle Execution of Cells 9 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:20:12.838 [info] Kernel acknowledged execution of cell 9 @ 1700151612838
+11:20:12.917 [info] End cell 9 execution @ 1700151612917, started @ 1700151612838, elapsed time = 0.079s
+11:20:12.918 [warn] Cancel all remaining cells due to cancellation or failure in execution
+11:20:33.661 [info] Handle Execution of Cells 9 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:20:33.669 [info] Kernel acknowledged execution of cell 9 @ 1700151633669
+11:20:33.672 [info] End cell 9 execution @ 1700151633672, started @ 1700151633669, elapsed time = 0.003s
+11:20:33.672 [warn] Cancel all remaining cells due to cancellation or failure in execution
+11:21:10.134 [info] Handle Execution of Cells 6 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb
+11:21:10.140 [info] Kernel acknowledged execution of cell 6 @ 1700151670140
+11:21:10.209 [info] End cell 6 execution @ 1700151670209, started @ 1700151670140, elapsed time = 0.069s
+11:21:10.209 [warn] Cancel all remaining cells due to cancellation or failure in execution
+11:21:12.920 [info] Handle Execution of Cells 5 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb
+11:21:12.926 [info] Kernel acknowledged execution of cell 5 @ 1700151672925
+11:21:13.250 [info] End cell 5 execution @ 1700151673250, started @ 1700151672925, elapsed time = 0.325s
+11:21:13.502 [info] Handle Execution of Cells 6 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb
+11:21:13.568 [info] Kernel acknowledged execution of cell 6 @ 1700151673568
+11:21:13.575 [info] End cell 6 execution @ 1700151673575, started @ 1700151673568, elapsed time = 0.007s
+11:21:15.288 [info] Handle Execution of Cells 8 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb
+11:21:15.296 [info] Kernel acknowledged execution of cell 8 @ 1700151675296
+11:21:15.297 [info] End cell 8 execution @ 1700151675297, started @ 1700151675296, elapsed time = 0.001s
+11:21:21.073 [info] Handle Execution of Cells 11 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb
+11:21:21.082 [info] Kernel acknowledged execution of cell 11 @ 1700151681082
+11:21:21.084 [info] End cell 11 execution @ 1700151681084, started @ 1700151681082, elapsed time = 0.002s
+11:21:22.300 [info] Handle Execution of Cells 12 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb
+11:21:22.305 [info] Kernel acknowledged execution of cell 12 @ 1700151682305
+11:21:22.308 [info] End cell 12 execution @ 1700151682308, started @ 1700151682305, elapsed time = 0.003s
+11:21:26.901 [info] Handle Execution of Cells 12 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb
+11:21:26.906 [info] Kernel acknowledged execution of cell 12 @ 1700151686906
+11:21:26.908 [info] End cell 12 execution @ 1700151686908, started @ 1700151686906, elapsed time = 0.002s
+11:21:30.555 [info] Handle Execution of Cells 12 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb
+11:21:30.560 [info] Kernel acknowledged execution of cell 12 @ 1700151690559
+11:21:30.562 [info] End cell 12 execution @ 1700151690561, started @ 1700151690559, elapsed time = 0.002s
+11:21:35.176 [info] Handle Execution of Cells 9 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:21:35.181 [info] Kernel acknowledged execution of cell 9 @ 1700151695181
+11:21:35.183 [info] End cell 9 execution @ 1700151695183, started @ 1700151695181, elapsed time = 0.002s
+11:23:06.762 [info] Restart requested ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:06.764 [info] Dispose Kernel process 68412.
+11:23:06.814 [warn] Failed to get activated env vars for /bin/python3 in 39ms
+11:23:06.821 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:23:06.828 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-13276zNJlDxUbs2Uq.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src
+11:23:06.931 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+11:23:07.122 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+11:23:07.239 [info] Restarted 7d19c19d-f6eb-4d99-bb12-e3e72bfd735b
+11:23:09.304 [info] Handle Execution of Cells 4 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:09.311 [info] Kernel acknowledged execution of cell 4 @ 1700151789311
+11:23:09.625 [info] End cell 4 execution @ 1700151789625, started @ 1700151789311, elapsed time = 0.314s
+11:23:09.910 [info] Handle Execution of Cells 5 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:09.927 [info] Kernel acknowledged execution of cell 5 @ 1700151789927
+11:23:09.929 [info] End cell 5 execution @ 1700151789929, started @ 1700151789927, elapsed time = 0.002s
+11:23:10.882 [info] Handle Execution of Cells 6 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:10.893 [info] Kernel acknowledged execution of cell 6 @ 1700151790893
+11:23:10.895 [info] End cell 6 execution @ 1700151790895, started @ 1700151790893, elapsed time = 0.002s
+11:23:11.675 [info] Handle Execution of Cells 7 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:11.684 [info] Kernel acknowledged execution of cell 7 @ 1700151791684
+11:23:11.688 [info] End cell 7 execution @ 1700151791688, started @ 1700151791684, elapsed time = 0.004s
+11:23:15.035 [info] Handle Execution of Cells 8 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:15.039 [info] Kernel acknowledged execution of cell 8 @ 1700151795039
+11:23:15.041 [info] End cell 8 execution @ 1700151795041, started @ 1700151795039, elapsed time = 0.002s
+11:23:16.071 [info] Handle Execution of Cells 9 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:16.077 [info] Kernel acknowledged execution of cell 9 @ 1700151796076
+11:23:16.079 [info] End cell 9 execution @ 1700151796079, started @ 1700151796076, elapsed time = 0.003s
+11:23:21.237 [info] Handle Execution of Cells 10 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:21.240 [info] Kernel acknowledged execution of cell 10 @ 1700151801240
+11:23:21.243 [info] End cell 10 execution @ 1700151801243, started @ 1700151801240, elapsed time = 0.003s
+11:23:22.030 [info] Handle Execution of Cells 11 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:22.035 [info] Kernel acknowledged execution of cell 11 @ 1700151802035
+11:23:22.038 [info] End cell 11 execution @ 1700151802037, started @ 1700151802035, elapsed time = 0.002s
+11:23:27.622 [info] Handle Execution of Cells 12 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:27.628 [info] Kernel acknowledged execution of cell 12 @ 1700151807627
+11:23:27.630 [info] End cell 12 execution @ 1700151807630, started @ 1700151807627, elapsed time = 0.003s
+11:23:31.676 [info] Handle Execution of Cells 13 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:31.680 [info] Kernel acknowledged execution of cell 13 @ 1700151811680
+11:23:31.683 [info] End cell 13 execution @ 1700151811682, started @ 1700151811680, elapsed time = 0.002s
+11:23:33.575 [info] Handle Execution of Cells 14 for ~/Documents/01_UPenn/02_MEAM5170/05_Madness/src/PlanarWalkerMathProg.ipynb
+11:23:33.594 [info] Kernel acknowledged execution of cell 14 @ 1700151813594
+11:23:33.669 [info] End cell 14 execution @ 1700151813669, started @ 1700151813594, elapsed time = 0.075s
+11:23:33.670 [warn] Cancel all remaining cells due to cancellation or failure in execution

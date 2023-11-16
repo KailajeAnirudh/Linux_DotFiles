@@ -1,0 +1,65 @@
+Visual Studio Code (1.84.2, undefined, desktop)
+Jupyter Extension Version: 2023.10.1100000000.
+Python Extension Version: 2023.20.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/01_UPenn/01_ESE5460/03_Project, Home = /home/anirudhkailaje
+16:46:08.298 [info] Start refreshing Kernel Picker (1699998368298)
+16:46:08.308 [info] Using Pylance
+16:46:08.334 [info] Start refreshing Interpreter Kernel Picker
+16:46:08.565 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb' (disableUI=true)
+16:46:09.210 [warn] Failed to get activated env vars for /bin/python3 in 827ms
+16:46:09.221 [warn] Failed to get activated env vars for /bin/python3 in 630ms
+16:46:09.230 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+16:46:09.274 [info] Process Execution: /bin/python3 -m pip list
+16:46:09.281 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:46:09.289 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-614614ymMZojIodEh0.json
+    > cwd: ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1
+16:46:09.439 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+16:46:09.746 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+16:46:10.013 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/pythonFiles/printJupyterDataDir.py
+16:46:10.406 [info] End refreshing Kernel Picker (1699998368298)
+16:59:42.412 [warn] No interpreter for Pylance for Notebook URI "Untitled-1.ipynb"
+17:00:06.959 [info] Handle Execution of Cells 0 for Untitled-1.ipynb
+17:00:06.961 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for 'Untitled-1.ipynb' (disableUI=false)
+17:00:06.997 [warn] Failed to get activated env vars for /bin/python3 in 35ms
+17:00:07.006 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+17:00:07.012 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-614614bVI1LZUz7S5b.json
+    > cwd: ~/Documents/01_UPenn/01_ESE5460/03_Project
+17:00:07.016 [warn] Failed to get activated env vars for /bin/python3 in 49ms
+17:00:07.024 [info] Process Execution: /bin/python3 -m pip list
+17:00:07.250 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+17:00:07.609 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+17:00:07.933 [info] Kernel acknowledged execution of cell 0 @ 1699999207932
+17:00:08.435 [info] End cell 0 execution @ 1699999208434, started @ 1699999207932, elapsed time = 0.502s
+17:01:23.125 [info] Handle Execution of Cells 1 for Untitled-1.ipynb
+17:01:23.135 [info] Kernel acknowledged execution of cell 1 @ 1699999283135
+17:01:30.926 [info] Ending debug session d448bf5b-e00b-4aca-aaff-2c922f9cf0c4
+17:01:30.926 [info] Ending debug session d448bf5b-e00b-4aca-aaff-2c922f9cf0c4
+17:01:32.027 [info] End cell 1 execution @ 1699999292026, started @ 1699999283135, elapsed time = 8.891s
+17:01:46.713 [warn] No interpreter for Pylance for Notebook URI "~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/Data_Loading.ipynb"
+17:01:46.743 [info] Disposing kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for notebook Untitled-1.ipynb due to selection of another kernel or closing of the notebook
+17:01:46.743 [info] Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+17:01:46.744 [info] Dispose Kernel process 640884.
+17:01:46.997 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/Data_Loading.ipynb' (disableUI=true)
+17:01:47.094 [warn] Failed to get activated env vars for /bin/python3 in 95ms
+17:01:47.108 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+17:01:47.119 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-614614f2VlHwoVSq36.json
+    > cwd: ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1
+17:01:47.353 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+17:01:47.787 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+19:21:25.595 [info] Disposing HostJupyterExecution
+19:21:25.595 [info] Dispose Kernel '~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb' associated with '~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb'
+19:21:25.595 [info] Dispose Kernel process 614745.
+19:21:25.602 [info] Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+19:21:25.602 [info] Dispose Kernel '~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/Data_Loading.ipynb' associated with '~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/Data_Loading.ipynb'
+19:21:25.602 [info] Dispose Kernel process 643897.
+19:21:25.608 [info] Disposing HostJupyterExecution

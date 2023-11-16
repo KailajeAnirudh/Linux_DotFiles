@@ -1,0 +1,14 @@
+2023/11/16-10:40:10.361 a2d Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/16-10:40:10.362 a2d Recovering log #138
+2023/11/16-10:40:10.362 a2d Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/000138.log 
+2023/11/16-10:40:10.363 a2d Delete type=2 #136
+2023/11/16-10:40:10.368 a49 Level-0 table #143: started
+2023/11/16-10:40:10.369 a49 Level-0 table #143: 1895 bytes OK
+2023/11/16-10:40:10.370 a49 Delete type=0 #138
+2023/11/16-10:40:10.371 a21 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at '\x00'\x00\x00\x05' @ 1407 : 1
+2023/11/16-10:40:10.371 a21 Compacting 1@0 + 1@1 files
+2023/11/16-10:40:10.372 a21 Generated table #144@0: 45 keys, 1482 bytes
+2023/11/16-10:40:10.372 a21 Compacted 1@0 + 1@1 files => 1482 bytes
+2023/11/16-10:40:10.373 a21 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/16-10:40:10.374 a21 Delete type=2 #143
+2023/11/16-10:40:10.374 a40 Manual compaction at level-0 from '\x00'\x00\x00\x05' @ 1407 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,99 @@
+Visual Studio Code (1.84.2, undefined, desktop)
+Jupyter Extension Version: 2023.10.1100000000.
+Python Extension Version: 2023.20.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/01_UPenn/99_Ref/01_PyDrake, Home = /home/anirudhkailaje
+14:22:12.695 [info] Start refreshing Kernel Picker (1700076132695)
+14:22:12.697 [info] Using Pylance
+14:22:12.903 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/99_Ref/01_PyDrake/authoring_multibody_simulation.ipynb' (disableUI=true)
+14:22:13.549 [warn] Failed to get activated env vars for /bin/python3 in 832ms
+14:22:13.552 [warn] Failed to get activated env vars for /bin/python3 in 637ms
+14:22:13.572 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+14:22:13.593 [info] Process Execution: /bin/python3 -m pip list
+14:22:13.601 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+14:22:13.609 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1788481L2eg6skxIv8Z.json
+    > cwd: ~/Documents/01_UPenn/99_Ref/01_PyDrake
+14:22:13.737 [info] End refreshing Kernel Picker (1700076132695)
+14:22:13.785 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+14:22:14.003 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+14:22:14.207 [info] Dispose Kernel '~/Documents/01_UPenn/99_Ref/01_PyDrake/authoring_multibody_simulation.ipynb' associated with '~/Documents/01_UPenn/99_Ref/01_PyDrake/authoring_multibody_simulation.ipynb'
+14:22:14.209 [info] Dispose Kernel process 1788574.
+14:22:14.218 [error] Kernel Launcher. launch, Class name = Fv, completed in 1305ms, has a falsy return value, Arg 1: ".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/Documents/01_UPenn/99_Ref/01_PyDrake/authoring_multibody_simulation.ipynb", Arg 4: "~/Documents/01_UPenn/99_Ref/01_PyDrake", Arg 5: "" [Canceled: Canceled
+	at e.throwIfCanceled (~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/out/extension.node.js:2:2324400)
+	at Fv.launchProcess (~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/out/extension.node.js:24:96709)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/out/extension.node.js:24:95154]
+14:22:14.239 [info] Start refreshing Interpreter Kernel Picker
+14:22:14.239 [info] Start refreshing Kernel Picker (1700076134239)
+14:22:14.258 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/99_Ref/01_PyDrake/dynamical_systems.ipynb' (disableUI=true)
+14:22:14.271 [warn] Failed to get activated env vars for /bin/python3 in 9ms
+14:22:14.281 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+14:22:14.301 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1788481sz04yylwwN7J.json
+    > cwd: ~/Documents/01_UPenn/99_Ref/01_PyDrake
+14:22:14.430 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+14:22:14.673 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+14:22:15.005 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/pythonFiles/printJupyterDataDir.py
+14:22:15.397 [info] End refreshing Kernel Picker (1700076134239)
+14:22:23.008 [warn] No interpreter for Pylance for Notebook URI "~/Documents/01_UPenn/99_Ref/01_PyDrake/updating_costs_and_constraints.ipynb"
+14:22:23.023 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/99_Ref/01_PyDrake/updating_costs_and_constraints.ipynb' (disableUI=true)
+14:22:23.047 [warn] Failed to get activated env vars for /bin/python3 in 22ms
+14:22:23.056 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+14:22:23.065 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1788481pq1v2v40Gct5.json
+    > cwd: ~/Documents/01_UPenn/99_Ref/01_PyDrake
+14:22:23.218 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+14:22:23.495 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+14:22:25.044 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/99_Ref/01_PyDrake/linear_program.ipynb' (disableUI=true)
+14:22:25.067 [warn] Failed to get activated env vars for /bin/python3 in 19ms
+14:22:25.076 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+14:22:25.085 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1788481H11uyQdxwTRM.json
+    > cwd: ~/Documents/01_UPenn/99_Ref/01_PyDrake
+14:22:25.211 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+14:22:25.446 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+14:22:36.301 [warn] No interpreter for Pylance for Notebook URI "~/Documents/01_UPenn/99_Ref/01_PyDrake/mathematical_program.ipynb"
+16:03:55.519 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/99_Ref/01_PyDrake/authoring_multibody_simulation.ipynb' (disableUI=true)
+16:03:55.569 [warn] Failed to get activated env vars for /bin/python3 in 49ms
+16:03:55.580 [info] Process Execution: /bin/python3 -m pip list
+16:03:55.583 [warn] Failed to get activated env vars for /bin/python3 in 58ms
+16:03:55.594 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:03:55.605 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1788481aa7bZabSpSPc.json
+    > cwd: ~/Documents/01_UPenn/99_Ref/01_PyDrake
+16:03:55.778 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+16:03:56.067 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+16:09:07.966 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/99_Ref/01_PyDrake/mathematical_program_multibody_plant.ipynb' (disableUI=true)
+16:09:08.003 [warn] Failed to get activated env vars for /bin/python3 in 35ms
+16:09:08.012 [info] Process Execution: /bin/python3 -m pip list
+16:09:08.022 [warn] Failed to get activated env vars for /bin/python3 in 51ms
+16:09:08.031 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:09:08.040 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-17884813csY66l1bk45.json
+    > cwd: ~/Documents/01_UPenn/99_Ref/01_PyDrake
+16:09:08.178 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+16:09:08.447 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+16:46:17.608 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/99_Ref/01_PyDrake/authoring_leaf_systems.ipynb' (disableUI=true)
+16:46:17.678 [warn] Failed to get activated env vars for /bin/python3 in 71ms
+16:46:17.694 [info] Process Execution: /bin/python3 -m pip list
+16:46:17.697 [warn] Failed to get activated env vars for /bin/python3 in 86ms
+16:46:17.711 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+16:46:17.723 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1788481uow5c7PcwADX.json
+    > cwd: ~/Documents/01_UPenn/99_Ref/01_PyDrake
+16:46:17.902 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+16:46:18.120 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.

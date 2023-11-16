@@ -1,0 +1,45 @@
+2023-11-14 11:04:31.541 [info] Getting Manifest... github.copilot
+2023-11-14 11:04:31.656 [info] Installing extension: github.copilot
+2023-11-14 11:04:33.545 [info] Extension signature is verified: github.copilot
+2023-11-14 11:04:33.662 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/github.copilot-1.136.0: github.copilot
+2023-11-14 11:04:33.665 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/github.copilot-1.136.0
+2023-11-14 11:04:33.666 [info] Extracting extension completed. github.copilot
+2023-11-14 11:04:33.672 [info] Extension installed successfully: github.copilot
+2023-11-14 11:04:33.674 [info] Marked extension as uninstalled github.copilot-1.135.0
+2023-11-14 11:04:33.734 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-14 16:44:57.828 [info] Getting Manifest... ms-toolsai.jupyter
+2023-11-14 16:44:57.981 [info] Installing extension: ms-toolsai.jupyter
+2023-11-14 16:44:59.607 [info] Extension signature is verified: ms-toolsai.jupyter
+2023-11-14 16:44:59.814 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64: ms-toolsai.jupyter
+2023-11-14 16:44:59.818 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64
+2023-11-14 16:44:59.822 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-11-14 16:44:59.832 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-11-14 16:44:59.839 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.10.1003070148-linux-x64
+2023-11-14 16:44:59.905 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-15 12:15:51.651 [info] Getting Manifest... github.copilot
+2023-11-15 12:15:51.741 [info] Installing extension: github.copilot
+2023-11-15 12:15:54.408 [info] Extension signature is verified: github.copilot
+2023-11-15 12:15:54.793 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/github.copilot-1.137.0: github.copilot
+2023-11-15 12:15:54.802 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/github.copilot-1.137.0
+2023-11-15 12:15:54.804 [info] Extracting extension completed. github.copilot
+2023-11-15 12:15:54.813 [info] Extension installed successfully: github.copilot
+2023-11-15 12:15:54.816 [info] Marked extension as uninstalled github.copilot-1.136.0
+2023-11-15 12:15:54.887 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

@@ -1,0 +1,92 @@
+Visual Studio Code (1.84.2, undefined, desktop)
+Jupyter Extension Version: 2023.10.1100000000.
+Python Extension Version: 2023.20.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject, Home = /home/anirudhkailaje
+13:52:47.174 [info] Start refreshing Kernel Picker (1700074367174)
+13:52:47.177 [info] Using Pylance
+13:52:47.211 [info] Start refreshing Interpreter Kernel Picker
+13:52:47.699 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb' (disableUI=true)
+13:52:48.211 [warn] Failed to get activated env vars for /bin/python3 in 746ms
+13:52:48.213 [warn] Failed to get activated env vars for /bin/python3 in 502ms
+13:52:48.222 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+13:52:48.245 [info] Process Execution: /bin/python3 -m pip list
+13:52:48.254 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+13:52:48.263 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1738574jrtm0KlYU2c2.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src
+13:52:48.386 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+13:52:48.613 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+13:52:48.753 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1100000000-linux-x64/pythonFiles/printJupyterDataDir.py
+13:52:49.273 [info] End refreshing Kernel Picker (1700074367174)
+13:52:54.213 [info] Restart requested ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb
+13:52:54.216 [info] Dispose Kernel process 1738729.
+13:52:54.234 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+13:52:54.251 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1738574ub47gYDH9Fur.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src
+13:52:54.369 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+13:52:54.567 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+13:52:54.663 [info] Restarted e46a9dd1-4bcd-455e-bbb2-e9c2e19e35fa
+13:52:57.717 [info] Handle Execution of Cells 3 for ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb
+13:52:57.728 [info] Kernel acknowledged execution of cell 3 @ 1700074377728
+13:52:58.212 [info] End cell 3 execution @ 1700074378211, started @ 1700074377728, elapsed time = 0.483s
+13:53:06.213 [info] Handle Execution of Cells 5 for ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb
+13:53:06.226 [info] Kernel acknowledged execution of cell 5 @ 1700074386225
+13:53:06.398 [info] End cell 5 execution @ 1700074386398, started @ 1700074386225, elapsed time = 0.173s
+13:53:06.398 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:54:13.272 [info] Restart requested ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb
+13:54:13.273 [info] Dispose Kernel process 1738981.
+13:54:13.307 [warn] Failed to get activated env vars for /bin/python3 in 23ms
+13:54:13.315 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+13:54:13.321 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1738574HfrEj20gm6Nj.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src
+13:54:13.462 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+13:54:13.675 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+13:54:13.749 [info] Restarted e46a9dd1-4bcd-455e-bbb2-e9c2e19e35fa
+13:54:13.810 [info] Handle Execution of Cells 3,5,7,8,9 for ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb
+13:54:13.824 [info] Kernel acknowledged execution of cell 3 @ 1700074453824
+13:54:14.329 [info] End cell 3 execution @ 1700074454329, started @ 1700074453824, elapsed time = 0.505s
+13:54:14.357 [info] Kernel acknowledged execution of cell 5 @ 1700074454356
+13:54:55.742 [info] End cell 5 execution @ 1700074495742, started @ 1700074454356, elapsed time = 41.386s
+13:54:55.839 [info] Kernel acknowledged execution of cell 7 @ 1700074495838
+13:54:55.988 [info] End cell 7 execution @ 1700074495988, started @ 1700074495838, elapsed time = 0.15s
+13:54:55.988 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:54:55.988 [info] End cell 8 execution @ undefined, started @ undefined, elapsed time = 0s
+13:54:55.988 [info] End cell 9 execution @ undefined, started @ undefined, elapsed time = 0s
+13:55:02.210 [info] Handle Execution of Cells 7 for ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb
+13:55:02.302 [info] Kernel acknowledged execution of cell 7 @ 1700074502301
+13:55:02.315 [info] End cell 7 execution @ 1700074502315, started @ 1700074502301, elapsed time = 0.014s
+13:55:02.315 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:55:55.896 [info] Restart requested ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb
+13:55:55.897 [info] Dispose Kernel process 1741434.
+13:55:55.942 [warn] Failed to get activated env vars for /bin/python3 in 33ms
+13:55:55.949 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+13:55:55.955 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-1738574u4TD2tf9vfK7.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src
+13:55:56.070 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+13:55:56.293 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+13:55:56.376 [info] Restarted e46a9dd1-4bcd-455e-bbb2-e9c2e19e35fa
+13:55:56.637 [info] Handle Execution of Cells 3,5,7,8 for ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb
+13:55:56.648 [info] Kernel acknowledged execution of cell 3 @ 1700074556648
+13:55:57.181 [info] End cell 3 execution @ 1700074557181, started @ 1700074556648, elapsed time = 0.533s
+13:55:57.191 [info] Kernel acknowledged execution of cell 5 @ 1700074557191
+13:56:41.874 [info] End cell 5 execution @ 1700074601874, started @ 1700074557191, elapsed time = 44.683s
+13:56:43.135 [info] Kernel acknowledged execution of cell 7 @ 1700074603134
+13:56:43.310 [info] End cell 7 execution @ 1700074603310, started @ 1700074603134, elapsed time = 0.176s
+13:56:43.310 [warn] Cancel all remaining cells due to cancellation or failure in execution
+13:56:43.311 [info] End cell 8 execution @ undefined, started @ undefined, elapsed time = 0s
+00:48:41.205 [info] Disposing HostJupyterExecution
+00:48:41.205 [info] Dispose Kernel '~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb' associated with '~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb'
+00:48:41.205 [info] Dispose Kernel process 1744593.
+00:48:41.216 [info] Disposing HostJupyterExecution

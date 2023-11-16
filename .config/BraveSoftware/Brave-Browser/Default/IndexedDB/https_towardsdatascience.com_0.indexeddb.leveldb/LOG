@@ -1,0 +1,6 @@
+2023/11/15-17:03:05.035 28f9 Creating DB /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_towardsdatascience.com_0.indexeddb.leveldb since it was missing.
+2023/11/15-17:03:05.037 28f9 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_towardsdatascience.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/15-17:03:14.277 28fa Level-0 table #5: started
+2023/11/15-17:03:14.279 28fa Level-0 table #5: 3116 bytes OK
+2023/11/15-17:03:14.281 28fa Delete type=0 #3
+2023/11/15-17:03:14.281 28fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

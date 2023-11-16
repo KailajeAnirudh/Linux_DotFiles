@@ -1,0 +1,8 @@
+2023-11-16 10:46:32.401 [info] [Info  - 10:46:32 AM] (13699) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-16 10:46:32.404 [info] [Info  - 10:46:32 AM] (13699) Server root directory: /home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-16 10:46:32.406 [info] [Info  - 10:46:32 AM] (13699) Starting service instance "02_Homework"
+2023-11-16 10:46:32.461 [info] [Info  - 10:46:32 AM] (13699) Setting pythonPath for service "02_Homework": "/bin/python3"
+2023-11-16 10:46:32.463 [info] [Info  - 10:46:32 AM] (13699) Setting environmentName for service "02_Homework": "3.11.2 (global)"
+2023-11-16 10:46:32.505 [info] [Info  - 10:46:32 AM] (13699) Assuming Python version 3.11
+2023-11-16 10:46:32.596 [info] [Info  - 10:46:32 AM] (13699) Found 15 source files
+2023-11-16 10:46:37.009 [info] [Info  - 10:46:37 AM] (13699) [BG(1)] Long operation: analyzing: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/leclerc_nima_hw4_prob1.ipynb:pylance-notebook-cell:pylancePrefixCell.py (3180ms)

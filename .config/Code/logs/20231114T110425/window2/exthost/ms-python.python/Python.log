@@ -1,0 +1,172 @@
+2023-11-14 11:05:26.512 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-11-14 11:05:26.512 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-11-14 11:05:26.512 [info] Experiment 'pythonREPLSmartSendcf' is active
+2023-11-14 11:05:26.512 [info] Experiment 'pythonTestAdapter' is active
+2023-11-14 11:05:26.512 [info] Default formatter is set to null for workspace /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework
+2023-11-14 11:05:26.512 [info] Test server listening.
+2023-11-14 11:05:26.512 [info] Python interpreter path: /bin/python3
+2023-11-14 11:05:26.653 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-14 11:05:26.654 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-14 11:05:26.654 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-14 11:05:26.654 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-14 11:05:26.654 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-14 11:05:26.667 [info] > conda info --json
+2023-11-14 11:05:27.951 [info] Starting Pylance language server.
+2023-11-14 11:09:20.645 [info] Using launch configuration in workspace folder.
+2023-11-14 11:09:20.688 [info] CreateEnv Trigger - Skipping for /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py
+2023-11-14 11:09:20.775 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 11:09:20.922 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py
+2023-11-14 11:09:21.953 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 45337 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py 
+2023-11-14 11:10:03.747 [info] Using launch configuration in workspace folder.
+2023-11-14 11:10:03.791 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 11:10:03.888 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 38165 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py 
+2023-11-14 11:26:33.694 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py
+2023-11-14 11:26:40.347 [info] Using launch configuration in workspace folder.
+2023-11-14 11:26:40.403 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 11:26:40.533 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 37531 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py 
+2023-11-14 16:39:00.000 [info] Using launch configuration in workspace folder.
+2023-11-14 16:39:00.099 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 16:39:00.243 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 43645 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py 
+2023-11-14 16:39:00.267 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py
+2023-11-14 17:21:28.047 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py
+2023-11-14 17:21:29.046 [info] Using launch configuration in workspace folder.
+2023-11-14 17:21:29.112 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 17:21:29.261 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 38627 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py 
+2023-11-14 17:22:15.718 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py
+2023-11-14 17:22:16.372 [info] Using launch configuration in workspace folder.
+2023-11-14 17:22:16.446 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 17:22:16.566 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 42921 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py 
+2023-11-14 17:25:05.515 [info] Using launch configuration in workspace folder.
+2023-11-14 17:25:05.566 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 17:25:05.683 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 40253 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/problem2.py 
+2023-11-14 17:34:05.344 [info] Found: /bin/python3 --> /bin/python3.11
+2023-11-14 17:34:05.345 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-11-14 17:34:05.361 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-11-14 17:34:05.361 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-11-14 17:34:05.417 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-14 17:34:05.452 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-14 17:51:37.045 [info] Using launch configuration in workspace folder.
+2023-11-14 17:51:37.131 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 17:51:37.244 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59031 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 17:51:37.314 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 18:02:29.898 [info] Using launch configuration in workspace folder.
+2023-11-14 18:02:30.011 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 18:02:30.135 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51057 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 18:02:30.169 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 18:30:38.683 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 18:32:54.519 [info] Using launch configuration in workspace folder.
+2023-11-14 18:32:54.621 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 18:32:54.744 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 36051 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 18:32:54.786 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 18:48:15.289 [info] Using launch configuration in workspace folder.
+2023-11-14 18:48:15.391 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 18:48:15.508 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 36573 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 18:48:15.568 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 18:48:34.010 [info] Using launch configuration in workspace folder.
+2023-11-14 18:48:34.094 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 18:48:34.207 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 45623 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 18:48:34.284 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 19:07:30.548 [info] Using launch configuration in workspace folder.
+2023-11-14 19:07:30.646 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:07:30.758 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 47417 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:07:30.819 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 19:09:29.865 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 19:09:31.431 [info] Using launch configuration in workspace folder.
+2023-11-14 19:09:31.538 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:09:31.661 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 40161 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:10:29.410 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 19:10:30.359 [info] Using launch configuration in workspace folder.
+2023-11-14 19:10:30.446 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:10:30.563 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 41797 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:11:37.842 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 19:11:39.251 [info] Using launch configuration in workspace folder.
+2023-11-14 19:11:39.323 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:11:39.436 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 40533 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:14:55.662 [info] Using launch configuration in workspace folder.
+2023-11-14 19:14:55.745 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:14:55.855 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 38057 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:16:14.403 [info] Using launch configuration in workspace folder.
+2023-11-14 19:16:14.521 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:16:14.651 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52893 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:16:14.700 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 19:16:35.546 [info] Using launch configuration in workspace folder.
+2023-11-14 19:16:35.643 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:16:35.791 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 41049 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:16:35.819 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 19:18:48.639 [info] Using launch configuration in workspace folder.
+2023-11-14 19:18:48.742 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:18:48.866 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60493 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:18:48.929 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 19:25:20.816 [info] Using launch configuration in workspace folder.
+2023-11-14 19:25:20.864 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:25:20.965 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57991 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:27:13.390 [info] Using launch configuration in workspace folder.
+2023-11-14 19:27:13.472 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:27:13.589 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 46109 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 19:28:11.773 [info] Using launch configuration in workspace folder.
+2023-11-14 19:28:11.838 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 19:28:11.959 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 38227 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 20:09:17.586 [info] Using launch configuration in workspace folder.
+2023-11-14 20:09:17.674 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 20:09:17.779 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 46603 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 20:09:17.858 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 20:15:38.861 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 20:53:38.624 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 20:54:48.881 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 20:54:52.429 [info] Using launch configuration in workspace folder.
+2023-11-14 20:54:52.544 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 20:54:52.655 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60053 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 20:55:37.202 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 20:55:37.810 [info] Using launch configuration in workspace folder.
+2023-11-14 20:55:37.859 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 20:55:37.974 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 33215 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 20:57:14.991 [info] Using launch configuration in workspace folder.
+2023-11-14 20:57:15.040 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 20:57:15.153 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 33053 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 20:59:24.772 [info] Using launch configuration in workspace folder.
+2023-11-14 20:59:24.871 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 20:59:24.982 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 42355 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 21:29:09.427 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 21:29:10.099 [info] Using launch configuration in workspace folder.
+2023-11-14 21:29:10.184 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 21:29:10.306 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 47181 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 21:29:36.484 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 21:29:37.152 [info] Using launch configuration in workspace folder.
+2023-11-14 21:29:37.202 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 21:29:37.328 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55553 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 21:37:03.368 [info] Using launch configuration in workspace folder.
+2023-11-14 21:37:03.450 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 21:37:03.558 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 42987 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 21:37:03.643 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 21:39:24.581 [info] Using launch configuration in workspace folder.
+2023-11-14 21:39:24.654 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 21:39:24.763 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57889 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 21:39:24.853 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 21:44:30.671 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 21:44:31.240 [info] Using launch configuration in workspace folder.
+2023-11-14 21:44:31.329 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 21:44:31.432 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50335 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 21:55:32.014 [info] Using launch configuration in workspace folder.
+2023-11-14 21:55:32.086 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 21:55:32.190 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52589 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 21:55:32.280 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 22:04:58.450 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 22:04:59.594 [info] Using launch configuration in workspace folder.
+2023-11-14 22:04:59.662 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 22:04:59.766 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 42369 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 22:09:57.703 [info] Using launch configuration in workspace folder.
+2023-11-14 22:09:57.819 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 22:09:57.940 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54929 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 22:09:57.973 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 22:11:30.757 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 22:11:32.928 [info] Using launch configuration in workspace folder.
+2023-11-14 22:11:32.985 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 22:11:33.106 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59369 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 22:15:05.964 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 22:15:06.813 [info] Using launch configuration in workspace folder.
+2023-11-14 22:15:06.919 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 22:15:07.037 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52411 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 
+2023-11-14 22:35:49.955 [info] Discover tests for workspace name: 02_Homework - uri: /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py
+2023-11-14 22:35:50.733 [info] Using launch configuration in workspace folder.
+2023-11-14 22:35:50.805 [info] DAP Server launched with command: /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter
+2023-11-14 22:35:50.897 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework ; /usr/bin/env /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51085 -- /home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/problem2.py 

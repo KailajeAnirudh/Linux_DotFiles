@@ -1,0 +1,6 @@
+2023/11/16-11:41:58.635 3 Reusing MANIFEST /home/anirudhkailaje/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/11/16-11:41:58.635 3 Recovering log #3
+2023/11/16-11:41:58.636 3 Reusing old log /home/anirudhkailaje/.config/thorium/Default/Local Storage/leveldb/000003.log 
+2023/11/16-11:43:59.496 3 Level-0 table #5: started
+2023/11/16-11:43:59.498 3 Level-0 table #5: 47511 bytes OK
+2023/11/16-11:43:59.501 3 Delete type=0 #3

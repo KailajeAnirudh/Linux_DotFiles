@@ -1,0 +1,96 @@
+Visual Studio Code (1.84.2, undefined, desktop)
+Jupyter Extension Version: 2023.10.1003070148.
+Python Extension Version: 2023.20.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/01_UPenn/01_ESE5460/03_Project, Home = /home/anirudhkailaje
+18:48:11.776 [info] Start refreshing Kernel Picker (1699919291776)
+18:48:11.782 [info] Using Pylance
+18:48:11.804 [info] Start refreshing Interpreter Kernel Picker
+18:48:12.013 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb' (disableUI=true)
+18:48:12.638 [warn] Failed to get activated env vars for /bin/python3 in 799ms
+18:48:12.640 [warn] Failed to get activated env vars for /bin/python3 in 602ms
+18:48:12.646 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+18:48:12.687 [info] Process Execution: /bin/python3 -m pip list
+18:48:12.693 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+18:48:12.701 [info] Process Execution: /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"67d076d2-7776-42c4-9642-4f6fdf5a0bcc" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-22762cVS1d2tcCibu.json
+    > cwd: ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1
+18:48:12.870 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+18:48:13.141 [info] End refreshing Kernel Picker (1699919291776)
+18:48:13.178 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+18:48:13.389 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1003070148-linux-x64/pythonFiles/printJupyterDataDir.py
+18:49:07.697 [info] Handle Execution of Cells 4 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+18:49:07.704 [info] Kernel acknowledged execution of cell 4 @ 1699919347703
+18:49:07.783 [info] End cell 4 execution @ 1699919347783, started @ 1699919347703, elapsed time = 0.08s
+18:49:07.783 [warn] Cancel all remaining cells due to cancellation or failure in execution
+18:49:10.980 [info] Handle Execution of Cells 1 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+18:49:10.987 [info] Kernel acknowledged execution of cell 1 @ 1699919350987
+18:49:17.689 [info] Interrupt kernel execution
+18:49:17.689 [info] Interrupt requested ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+18:49:17.690 [info] Interrupt kernel execution
+18:49:17.690 [info] Interrupting kernel: pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1
+18:49:17.690 [info] Interrupting kernel via SIGINT
+18:49:18.233 [info] End cell 1 execution @ 1699919358232, started @ 1699919350987, elapsed time = 7.245s
+18:49:18.233 [warn] Cancel all remaining cells due to cancellation or failure in execution
+18:49:18.234 [info] Interrupt requested & sent for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb in notebookEditor.
+18:49:20.212 [info] Handle Execution of Cells 1 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+18:49:20.221 [info] Kernel acknowledged execution of cell 1 @ 1699919360221
+18:49:20.517 [info] End cell 1 execution @ 1699919360517, started @ 1699919360221, elapsed time = 0.296s
+18:49:27.142 [info] Handle Execution of Cells 2 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+18:49:27.150 [info] Kernel acknowledged execution of cell 2 @ 1699919367149
+18:49:27.175 [info] End cell 2 execution @ 1699919367175, started @ 1699919367149, elapsed time = 0.026s
+19:00:14.038 [info] Handle Execution of Cells 1 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:00:14.044 [info] Kernel acknowledged execution of cell 1 @ 1699920014044
+19:00:43.065 [info] End cell 1 execution @ 1699920043065, started @ 1699920014044, elapsed time = 29.021s
+19:01:26.319 [info] Handle Execution of Cells 2 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:01:26.327 [info] Kernel acknowledged execution of cell 2 @ 1699920086327
+19:01:26.848 [info] End cell 2 execution @ 1699920086848, started @ 1699920086327, elapsed time = 0.521s
+19:01:44.449 [info] Handle Execution of Cells 3 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:01:44.458 [info] Kernel acknowledged execution of cell 3 @ 1699920104457
+19:01:44.464 [info] End cell 3 execution @ 1699920104464, started @ 1699920104457, elapsed time = 0.007s
+19:01:44.464 [warn] Cancel all remaining cells due to cancellation or failure in execution
+19:01:47.669 [info] Handle Execution of Cells 3 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:01:47.675 [info] Kernel acknowledged execution of cell 3 @ 1699920107674
+19:01:47.678 [info] End cell 3 execution @ 1699920107677, started @ 1699920107674, elapsed time = 0.003s
+19:01:57.578 [info] Handle Execution of Cells 3 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:01:57.582 [info] Kernel acknowledged execution of cell 3 @ 1699920117582
+19:01:57.584 [info] End cell 3 execution @ 1699920117584, started @ 1699920117582, elapsed time = 0.002s
+19:02:14.450 [info] Handle Execution of Cells 2 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:02:14.455 [info] Kernel acknowledged execution of cell 2 @ 1699920134454
+19:02:14.616 [info] End cell 2 execution @ 1699920134616, started @ 1699920134454, elapsed time = 0.162s
+19:02:27.698 [info] Handle Execution of Cells 2 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:02:27.703 [info] Kernel acknowledged execution of cell 2 @ 1699920147703
+19:02:28.011 [info] End cell 2 execution @ 1699920148010, started @ 1699920147703, elapsed time = 0.307s
+19:02:49.188 [info] Handle Execution of Cells 2 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:02:49.202 [info] Kernel acknowledged execution of cell 2 @ 1699920169202
+19:02:49.263 [info] End cell 2 execution @ 1699920169262, started @ 1699920169202, elapsed time = 0.06s
+19:03:22.090 [info] Handle Execution of Cells 2 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:03:22.099 [info] Kernel acknowledged execution of cell 2 @ 1699920202099
+19:03:22.210 [info] End cell 2 execution @ 1699920202210, started @ 1699920202099, elapsed time = 0.111s
+19:03:33.076 [info] Handle Execution of Cells 2 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:03:33.085 [info] Kernel acknowledged execution of cell 2 @ 1699920213085
+19:03:33.320 [info] End cell 2 execution @ 1699920213320, started @ 1699920213085, elapsed time = 0.235s
+19:03:33.320 [warn] Cancel all remaining cells due to cancellation or failure in execution
+19:04:20.170 [info] Handle Execution of Cells 2 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:04:20.184 [info] Kernel acknowledged execution of cell 2 @ 1699920260184
+19:04:20.536 [info] End cell 2 execution @ 1699920260536, started @ 1699920260184, elapsed time = 0.352s
+19:04:20.536 [warn] Cancel all remaining cells due to cancellation or failure in execution
+19:04:42.810 [info] Restart requested ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:04:42.812 [info] Dispose Kernel process 22992.
+19:04:42.845 [warn] Failed to get activated env vars for /bin/python3 in 24ms
+19:04:42.852 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+19:04:42.859 [info] Process Execution: /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"697cf2fd-c813-42d1-ab28-9e199f7acdf7" --shell=9007 --transport="tcp" --iopub=9009 --f=~/.local/share/jupyter/runtime/kernel-v2-22762YHxQq7wACqfC.json
+    > cwd: ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1
+19:04:42.982 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+19:04:43.167 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+19:04:43.281 [info] Restarted 60e2d94e-8b3d-422c-aff2-fd84929a0cbe
+19:04:59.904 [info] Handle Execution of Cells 1 for ~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb
+19:06:22.447 [info] Disposing HostJupyterExecution
+19:06:22.447 [info] Dispose Kernel '~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb' associated with '~/Documents/01_UPenn/01_ESE5460/03_Project/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/EDA.ipynb'
+19:06:22.447 [info] Dispose Kernel process 47826.
+19:06:22.453 [info] Disposing HostJupyterExecution

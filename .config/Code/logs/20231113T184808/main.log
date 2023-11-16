@@ -1,0 +1,15 @@
+2023-11-13 18:48:09.021 [info] update#setState idle
+2023-11-13 18:48:39.025 [info] update#setState checking for updates
+2023-11-13 18:48:39.120 [info] update#setState idle
+2023-11-13 19:06:22.460 [info] Extension host with pid 22762 exited with code: 0, signal: unknown.
+2023-11-13 19:06:22.499 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 22911]: crashed with code 15 and reason 'killed'
+2023-11-13 21:28:49.734 [info] update#setState checking for updates
+2023-11-13 21:28:49.998 [info] update#setState idle
+2023-11-13 22:28:49.739 [info] update#setState checking for updates
+2023-11-13 22:28:50.010 [info] update#setState idle
+2023-11-13 23:28:49.744 [info] update#setState checking for updates
+2023-11-13 23:28:50.004 [info] update#setState idle
+2023-11-14 00:28:49.748 [info] update#setState checking for updates
+2023-11-14 00:28:50.033 [info] update#setState idle
+2023-11-14 01:28:49.753 [info] update#setState checking for updates
+2023-11-14 01:28:49.987 [info] update#setState idle

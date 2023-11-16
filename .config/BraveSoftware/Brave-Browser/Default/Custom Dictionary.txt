@@ -1,0 +1,7 @@
+Nesterov
+Nesterov's
+Polyak's
+SGD
+Word2Vec
+pretrained
+checksum_v1 = 4c61b781b1d1ab75189063268b39831f

@@ -1,0 +1,21 @@
+2023-11-15 12:37:42.461 [info] [Info  - 12:37:42 PM] (1622104) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-15 12:37:42.462 [info] [Info  - 12:37:42 PM] (1622104) Server root directory: /home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-15 12:37:42.462 [info] [Info  - 12:37:42 PM] (1622104) Starting service instance "03_Project"
+2023-11-15 12:37:42.538 [info] [Info  - 12:37:42 PM] (1622104) Setting pythonPath for service "03_Project": "/bin/python3"
+2023-11-15 12:37:42.547 [info] [Info  - 12:37:42 PM] (1622104) Setting environmentName for service "03_Project": "3.11.2 (global)"
+2023-11-15 12:37:42.559 [info] [Info  - 12:37:42 PM] (1622104) Assuming Python version 3.11
+2023-11-15 12:37:42.807 [info] [Info  - 12:37:42 PM] (1622104) Found 1 source file
+2023-11-15 13:52:49.161 [info] [Info  - 1:52:49 PM] (1738766) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-15 13:52:49.162 [info] [Info  - 1:52:49 PM] (1738766) Server root directory: /home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-15 13:52:49.163 [info] [Info  - 1:52:49 PM] (1738766) Starting service instance "03_FinalProject"
+2023-11-15 13:52:49.207 [info] [Info  - 1:52:49 PM] (1738766) Setting pythonPath for service "03_FinalProject": "/bin/python3"
+2023-11-15 13:52:49.211 [info] [Info  - 1:52:49 PM] (1738766) Setting environmentName for service "03_FinalProject": "3.11.2 (global)"
+2023-11-15 13:52:49.231 [info] [Info  - 1:52:49 PM] (1738766) Assuming Python version 3.11
+2023-11-15 13:52:49.280 [info] [Info  - 1:52:49 PM] (1738766) Found 17 source files
+2023-11-16 00:48:43.792 [info] [Info  - 12:48:43 AM] (2437935) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-16 00:48:43.793 [info] [Info  - 12:48:43 AM] (2437935) Server root directory: /home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-16 00:48:43.795 [info] [Info  - 12:48:43 AM] (2437935) Starting service instance "05_Homework5"
+2023-11-16 00:48:43.819 [info] [Info  - 12:48:43 AM] (2437935) Setting pythonPath for service "05_Homework5": "/bin/python3"
+2023-11-16 00:48:43.819 [info] [Info  - 12:48:43 AM] (2437935) Setting environmentName for service "05_Homework5": "3.11.2 (global)"
+2023-11-16 00:48:43.840 [info] [Info  - 12:48:43 AM] (2437935) Assuming Python version 3.11
+2023-11-16 00:48:43.880 [info] [Info  - 12:48:43 AM] (2437935) Found 15 source files

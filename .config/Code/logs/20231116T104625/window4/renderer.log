@@ -1,0 +1,5 @@
+2023-11-16 10:46:27.978 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-16 10:46:33.515 [info] [perf] Render performance baseline is 94ms
+2023-11-16 11:25:33.092 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/anirudhkailaje/Documents/01_UPenn/99_Ref/01_PyDrake/updating_costs_and_constraints.ipynb notebook/jupyter-notebook
+2023-11-16 11:25:33.326 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-16 11:25:36.292 [info] [perf] Render performance baseline is 20ms

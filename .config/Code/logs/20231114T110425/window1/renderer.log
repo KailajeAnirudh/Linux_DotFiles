@@ -1,0 +1,3 @@
+2023-11-14 11:04:26.986 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-14 11:04:30.818 [info] [perf] Render performance baseline is 21ms
+2023-11-14 11:04:35.091 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb notebook/jupyter-notebook

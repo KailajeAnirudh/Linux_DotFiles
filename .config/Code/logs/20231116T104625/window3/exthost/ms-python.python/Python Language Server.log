@@ -1,0 +1,7 @@
+2023-11-16 10:46:32.199 [info] [Info  - 10:46:32 AM] (13675) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-16 10:46:32.200 [info] [Info  - 10:46:32 AM] (13675) Server root directory: /home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-16 10:46:32.205 [info] [Info  - 10:46:32 AM] (13675) Starting service instance "05_Homework5"
+2023-11-16 10:46:32.265 [info] [Info  - 10:46:32 AM] (13675) Setting pythonPath for service "05_Homework5": "/bin/python3"
+2023-11-16 10:46:32.270 [info] [Info  - 10:46:32 AM] (13675) Setting environmentName for service "05_Homework5": "3.11.2 (global)"
+2023-11-16 10:46:32.324 [info] [Info  - 10:46:32 AM] (13675) Assuming Python version 3.11
+2023-11-16 10:46:32.436 [info] [Info  - 10:46:32 AM] (13675) Found 15 source files

@@ -1,0 +1,24 @@
+2023/11/14-16:27:52.358 28f9 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/14-16:27:52.359 28f9 Recovering log #6
+2023/11/14-16:27:52.370 28f9 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000006.log 
+2023/11/14-16:28:13.138 28fa Level-0 table #11: started
+2023/11/14-16:28:13.146 28fa Level-0 table #11: 3980738 bytes OK
+2023/11/14-16:28:13.147 28fa Delete type=0 #6
+2023/11/14-16:58:47.757 28fa Compacting 1@1 + 1@2 files
+2023/11/14-16:58:47.763 28fa Generated table #12@1: 129 keys, 142854 bytes
+2023/11/14-16:58:47.763 28fa Compacted 1@1 + 1@2 files => 142854 bytes
+2023/11/14-16:58:47.764 28fa compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/14-16:58:47.765 28fa Delete type=2 #8
+2023/11/14-16:58:47.765 28fa Delete type=2 #11
+2023/11/15-10:40:13.906 28fa Level-0 table #14: started
+2023/11/15-10:40:13.914 28fa Level-0 table #14: 3736135 bytes OK
+2023/11/15-10:40:13.916 28fa Delete type=0 #10
+2023/11/15-12:56:28.045 28f9 Compacting 1@1 + 1@2 files
+2023/11/15-12:56:28.059 28f9 Generated table #15@1: 126 keys, 146656 bytes
+2023/11/15-12:56:28.059 28f9 Compacted 1@1 + 1@2 files => 146656 bytes
+2023/11/15-12:56:28.061 28f9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/15-12:56:28.061 28f9 Delete type=2 #12
+2023/11/15-12:56:28.061 28f9 Delete type=2 #14
+2023/11/16-09:12:16.169 28fa Level-0 table #17: started
+2023/11/16-09:12:16.177 28fa Level-0 table #17: 3857527 bytes OK
+2023/11/16-09:12:16.178 28fa Delete type=0 #13

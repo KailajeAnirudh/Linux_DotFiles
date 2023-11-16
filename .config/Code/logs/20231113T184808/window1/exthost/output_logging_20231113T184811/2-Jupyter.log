@@ -1,0 +1,26 @@
+Visual Studio Code (1.84.2, undefined, desktop)
+Jupyter Extension Version: 2023.10.1003070148.
+Python Extension Version: 2023.20.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject, Home = /home/anirudhkailaje
+19:35:53.806 [info] Start refreshing Kernel Picker (1699922153806)
+19:35:53.812 [info] Using Pylance
+19:35:54.338 [warn] Failed to get activated env vars for /bin/python3 in 489ms
+19:35:54.346 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+19:35:54.364 [info] Process Execution: /bin/python3 -m pip list
+19:35:54.857 [info] End refreshing Kernel Picker (1699922153806)
+19:37:58.993 [info] Start refreshing Interpreter Kernel Picker
+19:37:58.993 [info] Start refreshing Kernel Picker (1699922278993)
+19:37:59.001 [warn] No interpreter for Pylance for Notebook URI "~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb"
+19:37:59.054 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src/BipedCollocation.ipynb' (disableUI=true)
+19:37:59.106 [warn] Failed to get activated env vars for /bin/python3 in 32ms
+19:37:59.114 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+19:37:59.127 [info] Process Execution: /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"5c872136-3bd1-4cb8-8652-8844562d2795" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-22755fNVLEFmVzU6G.json
+    > cwd: ~/Documents/01_UPenn/02_MEAM5170/03_FinalProject/src
+19:37:59.257 [info] ipykernel version & path 6.17.0, /usr/lib/python3/dist-packages/ipykernel/__init__.py for /bin/python3
+19:37:59.477 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+19:37:59.649 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2023.10.1003070148-linux-x64/pythonFiles/printJupyterDataDir.py
+19:38:00.192 [info] End refreshing Kernel Picker (1699922278993)

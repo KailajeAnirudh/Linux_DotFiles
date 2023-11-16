@@ -1,0 +1,8 @@
+2023-11-16 10:46:32.785 [info] [Info  - 10:46:32 AM] (13724) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-11-16 10:46:32.785 [info] [Info  - 10:46:32 AM] (13724) Server root directory: /home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-11-16 10:46:32.789 [info] [Info  - 10:46:32 AM] (13724) Starting service instance "05_Madness"
+2023-11-16 10:46:32.895 [info] [Info  - 10:46:32 AM] (13724) Setting pythonPath for service "05_Madness": "/bin/python3"
+2023-11-16 10:46:32.895 [info] [Info  - 10:46:32 AM] (13724) Setting environmentName for service "05_Madness": "3.11.2 (global)"
+2023-11-16 10:46:32.947 [info] [Info  - 10:46:32 AM] (13724) Assuming Python version 3.11
+2023-11-16 10:46:33.057 [info] [Info  - 10:46:33 AM] (13724) Found 18 source files
+2023-11-16 10:46:36.529 [info] [Info  - 10:46:36 AM] (13724) [BG(1)] Long operation: getSemanticTokens full at /home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/05_Madness/src/mathematical_program_multibody_plant.ipynb:pylance-notebook-cell:X14sZmlsZQ==.py (2309ms)

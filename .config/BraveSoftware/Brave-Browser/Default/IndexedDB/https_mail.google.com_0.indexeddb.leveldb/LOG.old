@@ -1,0 +1,12 @@
+2023/11/13-16:31:36.084 9f8 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/13-16:31:36.084 9f8 Recovering log #17
+2023/11/13-16:31:36.085 9f8 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000017.log 
+2023/11/13-16:31:37.151 9f9 Compacting 1@1 + 1@2 files
+2023/11/13-16:31:37.157 9f9 Generated table #20@1: 127 keys, 251740 bytes
+2023/11/13-16:31:37.157 9f9 Compacted 1@1 + 1@2 files => 251740 bytes
+2023/11/13-16:31:37.158 9f9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/13-16:31:37.159 9f9 Delete type=2 #18
+2023/11/13-16:31:37.159 9f9 Delete type=2 #15
+2023/11/13-16:31:50.338 9f8 Level-0 table #22: started
+2023/11/13-16:31:50.355 9f8 Level-0 table #22: 2753286 bytes OK
+2023/11/13-16:31:50.357 9f8 Delete type=0 #17
