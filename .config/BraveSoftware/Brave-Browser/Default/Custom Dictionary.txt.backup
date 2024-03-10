@@ -1,6 +1,8 @@
 Nesterov
 Nesterov's
 Polyak's
+SGD
 Word2Vec
 pretrained
-checksum_v1 = 2874572221277e6fb7ac299cc8c3e862
+variational
+checksum_v1 = 7727dc9b18bda35737915d76e1b6fdb8

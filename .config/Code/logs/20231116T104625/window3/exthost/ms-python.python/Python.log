@@ -1,9 +1,0 @@
-2023-11-16 10:46:29.572 [info] Experiment 'pythonPromptNewFormatterExt' is active
-2023-11-16 10:46:29.572 [info] Experiment 'pythonPromptNewToolsExt' is active
-2023-11-16 10:46:29.572 [info] Experiment 'pythonREPLSmartSendcf' is active
-2023-11-16 10:46:29.572 [info] Experiment 'pythonTestAdapter' is active
-2023-11-16 10:46:29.572 [info] Default formatter is set to null for workspace /home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/02_Homeworks/05_Homework5
-2023-11-16 10:46:29.572 [info] Test server listening.
-2023-11-16 10:46:29.572 [info] Python interpreter path: /bin/python3
-2023-11-16 10:46:30.532 [info] > conda info --json
-2023-11-16 10:46:32.225 [info] Starting Pylance language server.

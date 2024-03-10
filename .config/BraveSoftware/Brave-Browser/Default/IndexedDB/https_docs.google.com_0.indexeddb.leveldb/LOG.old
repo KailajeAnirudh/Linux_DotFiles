@@ -1,15 +1,3 @@
-2023/11/13-12:02:13.373 9f8 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/13-12:02:13.373 9f8 Recovering log #7
-2023/11/13-12:02:13.373 9f8 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000007.log 
-2023/11/13-13:47:27.792 9f9 Level-0 table #12: started
-2023/11/13-13:47:27.794 9f9 Level-0 table #12: 209 bytes OK
-2023/11/13-13:47:27.796 9f9 Delete type=0 #7
-2023/11/13-13:47:27.796 9f9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2023/11/13-13:47:27.796 9f9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 681 : 1
-2023/11/13-13:47:27.796 9f9 Compacting 1@1 + 1@2 files
-2023/11/13-13:47:27.798 9f9 Generated table #13@1: 206 keys, 3046 bytes
-2023/11/13-13:47:27.798 9f9 Compacted 1@1 + 1@2 files => 3046 bytes
-2023/11/13-13:47:27.800 9f9 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/11/13-13:47:27.800 9f9 Delete type=2 #12
-2023/11/13-13:47:27.800 9f9 Delete type=2 #9
-2023/11/13-13:47:27.801 9f9 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 681 : 1 .. (end); will stop at (end)
+2024/02/26-07:54:05.506 9de Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/26-07:54:05.506 9de Recovering log #27
+2024/02/26-07:54:05.508 9de Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000027.log 

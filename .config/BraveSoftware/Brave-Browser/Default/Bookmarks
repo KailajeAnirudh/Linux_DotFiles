@@ -1,5 +1,5 @@
 {
-   "checksum": "a2e5cc24aea8a51c38cb06fa815d5364",
+   "checksum": "3163703fd9ebf2af1f8abd3cebff9e74",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -15,7 +15,7 @@
             "url": "https://drake.mit.edu/"
          }, {
             "date_added": "13344048335673700",
-            "date_last_used": "13344387046333896",
+            "date_last_used": "13346548808795729",
             "guid": "f9314f8c-f7a6-4f40-a485-be5eb461af7b",
             "id": "7",
             "meta_info": {
@@ -57,20 +57,86 @@
             "name": "Zen Flowchart - Mindmap/UVl2nssxDV567RKoZ7U5",
             "type": "url",
             "url": "https://app.zenflowchart.com/mindmap/UVl2nssxDV567RKoZ7U5"
+         }, {
+            "date_added": "13346181243293913",
+            "date_last_used": "13348493110664538",
+            "guid": "b3108a64-645d-4c91-97db-16af4a2dd17a",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "\"Attention\", \"Transformers\", in Neural Network \"Large Language Models\"",
+            "type": "url",
+            "url": "http://bactra.org/notebooks/nn-attention-and-transformers.html"
+         }, {
+            "date_added": "13346358247793526",
+            "date_last_used": "13354302421131532",
+            "guid": "257506fb-1d2e-4185-84f4-5457401d3099",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PipeWire - Debian Wiki",
+            "type": "url",
+            "url": "https://wiki.debian.org/PipeWire"
+         }, {
+            "date_added": "13346532284939182",
+            "date_last_used": "13346998728182521",
+            "guid": "b7d81305-a042-4c90-a039-b80e25cc8d22",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Amazon Web Services Sign-In",
+            "type": "url",
+            "url": "https://us-east-2.signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&code_challenge=8nLVA022O8Tctp4ZwGhTVZ6UseL23kK9YoJTVUaSO6k&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26state%3DhashArgsFromTB_us-east-2_6bfd043b7d26e811&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFoaCXVzLWVhc3QtMiJHMEUCIQD20pwIhzHJM4mcX0dt4ixtJCcOsp0AtZzCMqWZTkPXNwIgeaDY8KPO55OH2TsvRhzzNIKeDHlV3EfsMiq%2Be73WSiIqkwIIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw5MTQ1MzkxODcwMTMiDM1pGmi5kaqEoEgCMSrnAdXrJKcjd0kg0FEadfTXS04%2FMmci7R7T1kZEuzH%2F0Kc%2F36UbWyclqGiV5EjSW5VKigR%2Bo1NWLE8F6LM2q6x6PKTJv2q7yiAbHeZwsGBDB4eOdqMiIdyRNSaB%2FyvTQwWcAsuNEj5H61PVBx3bD%2FVrvhuqEoW%2B570roZ6SkJpo6vze3UC1nM0q2LldVKZJ9iGTj7Srg3tADCxk%2BZPl91AaR4BNp2YiOOiRRYH37h5rW1N69zCUhZuWZUj3FKMOpDFEArjuy%2F6o%2F9xoFMYXRXEQDvTT9bdnA1W6VqmWkrGja7YjG33jDbOUWTC2qM2rBjqPAS0qdpl%2BEjkEEdRrvxz8o3c%2FUryphZavpiYtiWvNIgZafL49cukFqHRu5%2BoUZ%2FP59Tr4JMU7RARGLRfHuqeDSBSct39jylC5KV9DuiAhXiMxMKiLzDJ5UFSBKmJRVO9kG3z7P3o8vjP9IbF4RIHu74lGSO0htAXErJCDrX0Lc09huIjWI7RaR04tr9a%2FmqQ5&X-Amz-Date=20231208T180443Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA5J3WIRNCUORG32MS%2F20231208%2Fus-east-2%2Fsignin%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bbaf519dbf060b32e68431aba5808eb790e7115e3cccd2acf6dc5bc2e406268f"
          } ],
          "date_added": "13343800985349818",
          "date_last_used": "0",
-         "date_modified": "13344380279706853",
+         "date_modified": "13346532284939182",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
          "type": "folder"
       },
       "other": {
-         "children": [  ],
+         "children": [ {
+            "date_added": "13347324922316964",
+            "date_last_used": "0",
+            "guid": "d7de93d5-2ef8-49ac-b7e8-1527704f44a0",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DL | Parsing TensorBoard data locally",
+            "type": "url",
+            "url": "https://laszukdawid.com/blog/2021/01/26/parsing-tensorboard-data-locally/"
+         }, {
+            "date_added": "13349248667317222",
+            "date_last_used": "0",
+            "guid": "5c9ce487-90af-4ad6-9bf3-b6cd86a1ba84",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in",
+            "type": "url",
+            "url": "https://www.amazon.in/"
+         }, {
+            "date_added": "13351723109655311",
+            "date_last_used": "0",
+            "guid": "139360a1-1eed-4896-8f85-8732c87bcaac",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn - University of Pennsylvania | Big Interview",
+            "type": "url",
+            "url": "https://upenn.biginterview.com/members/curriculum/"
+         } ],
          "date_added": "13343800985349820",
          "date_last_used": "0",
-         "date_modified": "0",
+         "date_modified": "13351723109655311",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

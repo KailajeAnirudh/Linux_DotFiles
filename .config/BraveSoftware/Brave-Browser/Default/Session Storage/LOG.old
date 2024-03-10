@@ -1,9 +1,9 @@
-2023/11/14-10:13:12.360 4 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2023/11/14-10:13:12.360 4 Recovering log #79
-2023/11/14-10:13:12.361 4 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000079.log 
-2023/11/14-16:49:33.853 6 Level-0 table #83: started
-2023/11/14-16:49:33.854 6 Level-0 table #83: 19936 bytes OK
-2023/11/14-16:49:33.856 6 Delete type=0 #79
-2023/11/15-15:47:33.488 6 Level-0 table #85: started
-2023/11/15-15:47:33.492 6 Level-0 table #85: 17840 bytes OK
-2023/11/15-15:47:33.495 6 Delete type=0 #82
+2024/03/09-14:27:01.990 4 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2024/03/09-14:27:01.991 4 Recovering log #594
+2024/03/09-14:27:01.992 4 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000594.log 
+2024/03/09-14:53:17.122 6 Level-0 table #598: started
+2024/03/09-14:53:17.125 6 Level-0 table #598: 16354 bytes OK
+2024/03/09-14:53:17.127 6 Delete type=0 #594
+2024/03/09-21:14:07.310 6 Level-0 table #600: started
+2024/03/09-21:14:07.314 6 Level-0 table #600: 12541 bytes OK
+2024/03/09-21:14:07.316 6 Delete type=0 #597

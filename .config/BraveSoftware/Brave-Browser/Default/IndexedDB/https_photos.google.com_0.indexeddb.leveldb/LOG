@@ -1,3 +1,15 @@
-2023/11/06-22:36:21.664 bcd Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/06-22:36:21.664 bcd Recovering log #3
-2023/11/06-22:36:21.665 bcd Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000003.log 
+2024/03/10-17:07:29.750 4ac6 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/10-17:07:29.750 4ac6 Recovering log #15
+2024/03/10-17:07:29.750 4ac6 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000015.log 
+2024/03/10-17:08:01.752 4ac6 Level-0 table #20: started
+2024/03/10-17:08:01.754 4ac6 Level-0 table #20: 209 bytes OK
+2024/03/10-17:08:01.755 4ac6 Delete type=0 #15
+2024/03/10-17:08:01.756 4ac6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/03/10-17:08:01.756 4ac6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 277 : 1
+2024/03/10-17:08:01.756 4ac6 Compacting 1@1 + 1@2 files
+2024/03/10-17:08:01.757 4ac6 Generated table #21@1: 68 keys, 3096 bytes
+2024/03/10-17:08:01.758 4ac6 Compacted 1@1 + 1@2 files => 3096 bytes
+2024/03/10-17:08:01.759 4ac6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/10-17:08:01.759 4ac6 Delete type=2 #20
+2024/03/10-17:08:01.759 4ac6 Delete type=2 #17
+2024/03/10-17:08:01.759 4ac6 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 277 : 1 .. (end); will stop at (end)
