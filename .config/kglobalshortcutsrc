@@ -1,0 +1,16 @@
+[ActivityManager]
+_k_friendly_name=Activity Manager
+switch-to-activity-8b80906b-5747-427e-83f0-b78608ca89ec=none,none,Switch to activity "Default"
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E,Meta+E,Dolphin
+
+[systemsettings.desktop]
+_k_friendly_name=System Settings
+_launch=Tools,Tools,System Settings
+kcm-kscreen=none,none,Display Configuration
+kcm-lookandfeel=none,none,Global Theme
+kcm-users=none,none,Users
+powerdevilprofilesconfig=none,none,Energy Saving
+screenlocker=none,none,Screen Locking

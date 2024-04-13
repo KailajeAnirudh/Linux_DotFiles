@@ -1,0 +1,33 @@
+Visual Studio Code (1.87.2, undefined, desktop)
+Jupyter Extension Version: 2024.2.0.
+Python Extension Version: 2024.4.0.
+Pylance Extension Version: 2024.4.1.
+Platform: linux (x64).
+Workspace folder ~/Documents/01_UPenn/06_ESE6500, Home = /home/anirudhkailaje
+10:13:20.167 [info] Start refreshing Kernel Picker (1712499200167)
+10:13:20.174 [info] Using Pylance
+10:13:20.240 [info] Start refreshing Interpreter Kernel Picker
+10:13:20.755 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for 'Untitled-1.ipynb' (disableUI=true)
+10:13:20.938 [warn] Failed to get activated env vars for /bin/python3 in 683ms
+10:13:20.939 [warn] Failed to get activated env vars for /bin/python3 in 182ms
+10:13:20.970 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+10:13:21.006 [error] Unable to determine site packages path for python /bin/python3 (Unknown)
+10:13:21.006 [error] Unable to determine site packages path for python /bin/python3 (Unknown)
+10:13:21.014 [info] Process Execution: /bin/python3 -m pip list
+10:13:21.022 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+10:13:21.032 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-314816gTdllTv1EDq6.json
+    > cwd: ~/Documents/01_UPenn/06_ESE6500
+10:13:21.032 [info] Kernel process 315022.
+10:13:21.661 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10:13:21.947 [info] Registering Kernel Completion Provider from kernel Python 3.11.2 for language python
+10:13:21.956 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2024.2.0-linux-x64/pythonFiles/printJupyterDataDir.py
+10:13:22.142 [info] End refreshing Kernel Picker (1712499200167)
+10:13:57.107 [info] Disposing kernel .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher for notebook Untitled-1.ipynb due to selection of another kernel or closing of the notebook
+10:13:57.107 [info] Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+10:13:57.108 [info] Dispose Kernel process 315022.
+10:13:57.178 [info] Disposing HostJupyterExecution
+10:13:57.178 [info] Dispose Kernel 'Untitled-1.ipynb' associated with 'Untitled-1.ipynb'
+10:13:57.178 [info] Disposing HostJupyterExecution

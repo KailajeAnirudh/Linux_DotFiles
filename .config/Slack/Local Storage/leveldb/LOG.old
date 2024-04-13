@@ -1,0 +1,9 @@
+2023/11/22-15:34:22.762 2c64c3 Reusing MANIFEST /home/anirudhkailaje/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2023/11/22-15:34:22.763 2c64c3 Recovering log #4
+2023/11/22-15:34:22.764 2c64c3 Reusing old log /home/anirudhkailaje/.config/Slack/Local Storage/leveldb/000004.log 
+2023/11/22-19:26:05.913 2c64c2 Level-0 table #8: started
+2023/11/22-19:26:05.915 2c64c2 Level-0 table #8: 9240 bytes OK
+2023/11/22-19:26:05.917 2c64c2 Delete type=0 #4
+2023/11/23-02:13:46.432 2c64c2 Level-0 table #10: started
+2023/11/23-02:13:46.435 2c64c2 Level-0 table #10: 9736 bytes OK
+2023/11/23-02:13:46.437 2c64c2 Delete type=0 #7

@@ -1,0 +1,5 @@
+2024-04-09 17:13:08.239 [info] Revived process, old id dee9af20a98f8f32f1702d8d5ef65618-5 -> new id 1
+2024-04-09 17:13:08.289 [info] Expanding terminal instance, old id dee9af20a98f8f32f1702d8d5ef65618-5 -> new id 1
+2024-04-09 17:13:08.664 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-04-09 17:13:08.664 [info] Persistent process reconnection "1"
+2024-04-09 17:13:08.681 [info] Persistent process "1": Replaying 7208 chars and 1 size events

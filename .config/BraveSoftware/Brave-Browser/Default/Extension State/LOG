@@ -1,9 +1,6 @@
-2024/03/09-23:21:13.267 4aeb Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
-2024/03/09-23:21:13.268 4aeb Recovering log #198
-2024/03/09-23:21:13.276 4aeb Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Extension State/000198.log 
-2024/03/10-00:50:47.513 4ac6 Level-0 table #203: started
-2024/03/10-00:50:47.535 4ac6 Level-0 table #203: 2525341 bytes OK
-2024/03/10-00:50:47.540 4ac6 Delete type=0 #198
-2024/03/10-15:48:36.223 4ac5 Level-0 table #205: started
-2024/03/10-15:48:36.234 4ac5 Level-0 table #205: 2482558 bytes OK
-2024/03/10-15:48:36.237 4ac5 Delete type=0 #202
+2024/04/12-10:38:20.745 21ad Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
+2024/04/12-10:38:20.745 21ad Recovering log #413
+2024/04/12-10:38:20.749 21ad Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Extension State/000413.log 
+2024/04/12-11:41:32.184 21ae Level-0 table #417: started
+2024/04/12-11:41:32.198 21ae Level-0 table #417: 3437436 bytes OK
+2024/04/12-11:41:32.200 21ae Delete type=0 #413

@@ -1,0 +1,11 @@
+README
+
+--------Collaborations---------------
+
+I collaborated with Srihari Prasad Gopalan to find a bug in my code that caused a failure in the "big" test case.
+He helped me restructured the code to remove unnecesary complexity. 
+
+----------References--------------
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+
+----------

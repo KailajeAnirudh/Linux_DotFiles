@@ -1,0 +1,32 @@
+2024-04-09 17:13:09.672 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.0)
+2024-04-09 17:13:10.155 [info] [Info  - 5:13:10 PM] (714023) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-09 17:13:10.167 [info] [Info  - 5:13:10 PM] (714023) Server root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-09 17:13:10.169 [info] [Info  - 5:13:10 PM] (714023) Starting service instance "07_Homework7"
+2024-04-09 17:13:10.198 [info] [Info  - 5:13:10 PM] (714023) Setting pythonPath for service "07_Homework7": "/bin/python3"
+2024-04-09 17:13:10.199 [info] [Info  - 5:13:10 PM] (714023) Setting environmentName for service "07_Homework7": "3.11.2 (global)"
+2024-04-09 17:13:10.227 [info] [Info  - 5:13:10 PM] (714023) Assuming Python version 3.11.2.final.0
+2024-04-09 17:13:10.301 [info] [Info  - 5:13:10 PM] (714023) No source files found.
+2024-04-09 17:13:10.537 [info] [Info  - 5:13:10 PM] (714023) Background analysis(1) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-09 17:13:10.538 [info] [Info  - 5:13:10 PM] (714023) Background analysis(1) started
+2024-04-09 17:13:10.701 [info] [Info  - 5:13:10 PM] (714023) Indexer background runner(2) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-09 17:13:10.701 [info] [Info  - 5:13:10 PM] (714023) Indexing(2) started
+2024-04-09 17:13:11.239 [info] [Info  - 5:13:11 PM] (714023) Setting pythonPath for service "07_Homework7": "/bin/python3"
+2024-04-09 17:13:11.240 [info] [Info  - 5:13:11 PM] (714023) Setting environmentName for service "07_Homework7": "3.11.2 (global)"
+2024-04-09 17:13:11.270 [info] [Info  - 5:13:11 PM] (714023) Assuming Python version 3.11.2.final.0
+2024-04-09 17:13:11.355 [info] [Info  - 5:13:11 PM] (714023) Found 12 source files
+2024-04-09 17:13:11.860 [info] [Info  - 5:13:11 PM] (714023) scanned(2) 481 files over 1 exec env
+2024-04-09 17:13:12.761 [info] [Info  - 5:13:12 PM] (714023) indexed(2) 310 files over 1 exec env
+2024-04-09 17:13:12.995 [info] [Info  - 5:13:12 PM] (714023) Indexing finished(2).
+2024-04-09 17:13:15.245 [info] [Info  - 5:13:15 PM] (714023) Setting pythonPath for service "07_Homework7": "/bin/python3"
+2024-04-09 17:13:15.245 [info] [Info  - 5:13:15 PM] (714023) Setting environmentName for service "07_Homework7": "3.11.2 (global)"
+2024-04-09 17:13:15.271 [info] [Info  - 5:13:15 PM] (714023) Assuming Python version 3.11.2.final.0
+2024-04-09 17:13:15.325 [info] [Info  - 5:13:15 PM] (714023) Found 12 source files
+2024-04-09 17:13:15.552 [info] [Info  - 5:13:15 PM] (714023) Setting pythonPath for service "07_Homework7": "/bin/python3"
+2024-04-09 17:13:15.552 [info] [Info  - 5:13:15 PM] (714023) Setting environmentName for service "07_Homework7": "3.11.2 (global)"
+2024-04-09 17:13:15.574 [info] [Info  - 5:13:15 PM] (714023) Assuming Python version 3.11.2.final.0
+2024-04-09 17:13:15.650 [info] [Info  - 5:13:15 PM] (714023) Found 12 source files
+2024-04-09 17:13:15.751 [info] [Info  - 5:13:15 PM] (714023) Indexer background runner(3) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-09 17:13:15.751 [info] [Info  - 5:13:15 PM] (714023) Indexing(3) started
+2024-04-09 17:13:16.516 [info] [Info  - 5:13:16 PM] (714023) scanned(3) 481 files over 1 exec env
+2024-04-09 17:13:17.404 [info] [Info  - 5:13:17 PM] (714023) indexed(3) 310 files over 1 exec env
+2024-04-09 17:13:17.646 [info] [Info  - 5:13:17 PM] (714023) Indexing finished(3).

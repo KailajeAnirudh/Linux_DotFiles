@@ -1,10 +1,10 @@
 {
-   "checksum": "3163703fd9ebf2af1f8abd3cebff9e74",
+   "checksum": "97e2b36fbd763db20c03b0c74c57e9a1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13343805174751231",
-            "date_last_used": "0",
+            "date_last_used": "13356321706278615",
             "guid": "d4ec5273-2198-407b-a1b8-45f436a03ed2",
             "id": "5",
             "meta_info": {
@@ -69,31 +69,20 @@
             "type": "url",
             "url": "http://bactra.org/notebooks/nn-attention-and-transformers.html"
          }, {
-            "date_added": "13346358247793526",
-            "date_last_used": "13354302421131532",
-            "guid": "257506fb-1d2e-4185-84f4-5457401d3099",
-            "id": "16",
+            "date_added": "13356034349493981",
+            "date_last_used": "13357151698712967",
+            "guid": "9ac0e4fb-fa2e-4c65-9c82-8353f23e00ad",
+            "id": "32",
             "meta_info": {
                "power_bookmark_meta": ""
             },
-            "name": "PipeWire - Debian Wiki",
+            "name": "Targeted Resume for the University of Pennsylvania",
             "type": "url",
-            "url": "https://wiki.debian.org/PipeWire"
-         }, {
-            "date_added": "13346532284939182",
-            "date_last_used": "13346998728182521",
-            "guid": "b7d81305-a042-4c90-a039-b80e25cc8d22",
-            "id": "18",
-            "meta_info": {
-               "power_bookmark_meta": ""
-            },
-            "name": "Amazon Web Services Sign-In",
-            "type": "url",
-            "url": "https://us-east-2.signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&code_challenge=8nLVA022O8Tctp4ZwGhTVZ6UseL23kK9YoJTVUaSO6k&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26state%3DhashArgsFromTB_us-east-2_6bfd043b7d26e811&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFoaCXVzLWVhc3QtMiJHMEUCIQD20pwIhzHJM4mcX0dt4ixtJCcOsp0AtZzCMqWZTkPXNwIgeaDY8KPO55OH2TsvRhzzNIKeDHlV3EfsMiq%2Be73WSiIqkwIIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw5MTQ1MzkxODcwMTMiDM1pGmi5kaqEoEgCMSrnAdXrJKcjd0kg0FEadfTXS04%2FMmci7R7T1kZEuzH%2F0Kc%2F36UbWyclqGiV5EjSW5VKigR%2Bo1NWLE8F6LM2q6x6PKTJv2q7yiAbHeZwsGBDB4eOdqMiIdyRNSaB%2FyvTQwWcAsuNEj5H61PVBx3bD%2FVrvhuqEoW%2B570roZ6SkJpo6vze3UC1nM0q2LldVKZJ9iGTj7Srg3tADCxk%2BZPl91AaR4BNp2YiOOiRRYH37h5rW1N69zCUhZuWZUj3FKMOpDFEArjuy%2F6o%2F9xoFMYXRXEQDvTT9bdnA1W6VqmWkrGja7YjG33jDbOUWTC2qM2rBjqPAS0qdpl%2BEjkEEdRrvxz8o3c%2FUryphZavpiYtiWvNIgZafL49cukFqHRu5%2BoUZ%2FP59Tr4JMU7RARGLRfHuqeDSBSct39jylC5KV9DuiAhXiMxMKiLzDJ5UFSBKmJRVO9kG3z7P3o8vjP9IbF4RIHu74lGSO0htAXErJCDrX0Lc09huIjWI7RaR04tr9a%2FmqQ5&X-Amz-Date=20231208T180443Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA5J3WIRNCUORG32MS%2F20231208%2Fus-east-2%2Fsignin%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bbaf519dbf060b32e68431aba5808eb790e7115e3cccd2acf6dc5bc2e406268f"
+            "url": "https://resumeworded.com/upenn"
          } ],
          "date_added": "13343800985349818",
          "date_last_used": "0",
-         "date_modified": "13346532284939182",
+         "date_modified": "13356035016726424",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
@@ -124,7 +113,7 @@
             "url": "https://www.amazon.in/"
          }, {
             "date_added": "13351723109655311",
-            "date_last_used": "0",
+            "date_last_used": "13357070852101921",
             "guid": "139360a1-1eed-4896-8f85-8732c87bcaac",
             "id": "24",
             "meta_info": {
@@ -133,10 +122,76 @@
             "name": "Learn - University of Pennsylvania | Big Interview",
             "type": "url",
             "url": "https://upenn.biginterview.com/members/curriculum/"
+         }, {
+            "date_added": "13355077976366585",
+            "date_last_used": "13357172508615885",
+            "guid": "81a99d73-e8f0-4226-9991-53f049ca1103",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Anirudh Kailaje",
+            "type": "url",
+            "url": "https://sites.google.com/view/anirudhkailaje"
+         }, {
+            "date_added": "13355532325260388",
+            "date_last_used": "0",
+            "guid": "8a395a94-524e-426c-a347-33235637e051",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PennDOT - Pennsylvania Driver's Manual",
+            "type": "url",
+            "url": "https://www.dot.state.pa.us/Public/DVSPubsForms/BDL/BDL%20Manuals/Manuals/PA%20Drivers%20Manual%20By%20Chapter/English/PUB%2095.pdf"
+         }, {
+            "date_added": "13355619059368449",
+            "date_last_used": "0",
+            "guid": "0f3bab40-c22f-4d88-9da7-83167490aa8c",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(19) Yashwant Marathe | LinkedIn",
+            "type": "url",
+            "url": "https://www.linkedin.com/in/ymarathe/"
+         }, {
+            "date_added": "13346358247793526",
+            "date_last_used": "13356035018950113",
+            "guid": "257506fb-1d2e-4185-84f4-5457401d3099",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PipeWire - Debian Wiki",
+            "type": "url",
+            "url": "https://wiki.debian.org/PipeWire"
+         }, {
+            "date_added": "13357050557464937",
+            "date_last_used": "0",
+            "guid": "6bc4812b-4ec9-41e3-9cb7-6b531653c9c8",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "What's in a name? | Unproven Algorithms",
+            "type": "url",
+            "url": "https://unprovenalgos.github.io/name"
+         }, {
+            "date_added": "13357250467205674",
+            "date_last_used": "0",
+            "guid": "ff874dd1-e4ef-4a6a-8eef-9b8a145db22f",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Deep Learning Drizzle",
+            "type": "url",
+            "url": "https://deep-learning-drizzle.github.io/index.html#reinf"
          } ],
          "date_added": "13343800985349820",
          "date_last_used": "0",
-         "date_modified": "13351723109655311",
+         "date_modified": "13357250467205674",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

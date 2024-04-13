@@ -1,0 +1,82 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1365,
+      "width": 556,
+      "x": 1122,
+      "y": 5
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1365,
+      "width": 556,
+      "x": 1122,
+      "y": 5
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1365,
+      "width": 556,
+      "x": 1122,
+      "y": 5
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAARiAAAABQAABo0AAAVZAAAEYgAAAAUAAAaNAAAFWQAAAAAAAAAACMAAAARiAAAABQAABo0AAAVZ"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1400,
+        "width": 2240,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1400,
+        "width": 2240
+      },
+      "virtual_geometry": {
+        "height": 1400,
+        "width": 4160,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAACLAAABVUAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "key": "/home/anirudhkailaje/Documents/01_UPenn/99_Ref/links.txt",
+        "pathtoebook": "/home/anirudhkailaje/Documents/01_UPenn/99_Ref/links.txt",
+        "timestamp": "2024-03-28T12:34:46.747Z",
+        "title": "links"
+      },
+      {
+        "key": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/04_Project1_4/02_Measurements/README.md",
+        "pathtoebook": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/04_Project1_4/02_Measurements/README.md",
+        "timestamp": "2024-03-26T18:35:51.458Z",
+        "title": "README"
+      }
+    ]
+  }
+}

@@ -1,7 +1,0 @@
-2023/11/14-10:21:05.219 28fa Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.zenflowchart.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/14-10:21:05.219 28fa Recovering log #3
-2023/11/14-10:21:05.220 28fa Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.zenflowchart.com_0.indexeddb.leveldb/000003.log 
-2023/11/14-17:06:39.570 28fa Level-0 table #5: started
-2023/11/14-17:06:39.574 28fa Level-0 table #5: 128540 bytes OK
-2023/11/14-17:06:39.577 28fa Delete type=0 #3
-2023/11/14-17:06:39.580 28fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

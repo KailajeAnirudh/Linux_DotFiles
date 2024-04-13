@@ -1,0 +1,119 @@
+2024-04-10 16:41:45.102 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.114 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.277 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.300 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.316 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.321 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.324 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.327 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.338 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.390 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.590 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.704 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.790 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.870 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:45.955 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:46.677 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:46.788 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:46.796 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:47.697 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:48.789 [info] Getting Manifest... github.copilot
+2024-04-10 16:41:48.824 [info] Installing extension: github.copilot
+2024-04-10 16:41:48.852 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:48.883 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:48.909 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:50.186 [info] Extension signature is verified: github.copilot
+2024-04-10 16:41:50.464 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/github.copilot-1.179.0: github.copilot
+2024-04-10 16:41:50.467 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/github.copilot-1.179.0
+2024-04-10 16:41:50.468 [info] Extracting extension completed. github.copilot
+2024-04-10 16:41:50.478 [info] Extension installed successfully: github.copilot
+2024-04-10 16:41:50.481 [info] Marked extension as uninstalled github.copilot-1.178.0
+2024-04-10 16:41:50.555 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-10 16:41:57.161 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:57.163 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:57.433 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:57.449 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:57.455 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:57.628 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:57.640 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:57.744 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:57.867 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:57.960 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:58.045 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:58.140 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:59.597 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:59.678 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:41:59.681 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:46:59.770 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:51:59.824 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 16:56:59.915 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 17:01:59.967 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 17:07:00.014 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 17:39:38.874 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 17:44:38.927 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 17:49:38.978 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 17:54:39.198 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 17:59:39.250 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:04:39.307 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:46:29.337 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:51:29.385 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.282 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.286 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.426 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.539 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.553 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.649 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.657 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.667 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.739 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.848 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.898 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:13.956 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:15.557 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:15.651 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:15.653 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:17.457 [info] Getting Manifest... ms-python.python
+2024-04-10 18:56:17.458 [info] Getting Manifest... ms-toolsai.jupyter
+2024-04-10 18:56:17.495 [info] Installing extension: ms-toolsai.jupyter
+2024-04-10 18:56:17.515 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:17.522 [info] Installing extension: ms-python.python
+2024-04-10 18:56:17.560 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:17.564 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:17.610 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:17.626 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:17.665 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 18:56:19.160 [info] Extension signature is verified: ms-toolsai.jupyter
+2024-04-10 18:56:19.485 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64: ms-toolsai.jupyter
+2024-04-10 18:56:19.491 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64
+2024-04-10 18:56:19.496 [info] Extracting extension completed. ms-toolsai.jupyter
+2024-04-10 18:56:19.506 [info] Extension installed successfully: ms-toolsai.jupyter
+2024-04-10 18:56:19.512 [info] Marked extension as uninstalled ms-toolsai.jupyter-2024.3.0-linux-x64
+2024-04-10 18:56:19.578 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-10 18:56:20.949 [info] Extension signature is verified: ms-python.python
+2024-04-10 18:56:22.339 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/ms-python.python-2024.4.1: ms-python.python
+2024-04-10 18:56:22.345 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/ms-python.python-2024.4.1
+2024-04-10 18:56:22.348 [info] Extracting extension completed. ms-python.python
+2024-04-10 18:56:22.362 [info] Extension installed successfully: ms-python.python
+2024-04-10 18:56:22.370 [info] Marked extension as uninstalled ms-python.python-2024.4.0
+2024-04-10 18:56:22.438 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-10 18:56:29.456 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 19:01:15.683 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-10 19:01:29.496 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.

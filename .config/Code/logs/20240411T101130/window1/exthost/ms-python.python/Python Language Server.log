@@ -1,0 +1,38 @@
+2024-04-11 10:11:34.477 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-11 10:11:34.910 [info] [Info  - 10:11:34 AM] (8908) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-11 10:11:34.911 [info] [Info  - 10:11:34 AM] (8908) Server root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-11 10:11:34.911 [info] [Info  - 10:11:34 AM] (8908) Starting service instance "07_IntentEstimation"
+2024-04-11 10:11:34.953 [info] [Info  - 10:11:34 AM] (8908) Setting pythonPath for service "07_IntentEstimation": "/bin/python3"
+2024-04-11 10:11:34.953 [info] [Info  - 10:11:34 AM] (8908) Setting environmentName for service "07_IntentEstimation": "3.11.2 (global)"
+2024-04-11 10:11:34.976 [info] [Info  - 10:11:34 AM] (8908) Assuming Python version 3.11.2.final.0
+2024-04-11 10:11:35.063 [info] [Info  - 10:11:35 AM] (8908) Found 1 source file
+2024-04-11 10:11:35.341 [info] [Info  - 10:11:35 AM] (8908) Background analysis(1) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-11 10:11:35.343 [info] [Info  - 10:11:35 AM] (8908) Background analysis(1) started
+2024-04-11 10:11:35.518 [info] [Info  - 10:11:35 AM] (8908) Indexer background runner(2) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-11 10:11:35.519 [info] [Info  - 10:11:35 AM] (8908) Indexing(2) started
+2024-04-11 10:11:36.311 [info] [Info  - 10:11:36 AM] (8908) scanned(2) 481 files over 1 exec env
+2024-04-11 10:11:37.325 [info] [Info  - 10:11:37 AM] (8908) indexed(2) 310 files over 1 exec env
+2024-04-11 10:11:37.625 [info] [Info  - 10:11:37 AM] (8908) Indexing finished(2).
+2024-04-11 10:11:51.398 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-11 10:11:51.814 [info] [Info  - 10:11:51 AM] (9561) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-11 10:11:51.815 [info] [Info  - 10:11:51 AM] (9561) Server root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-11 10:11:51.815 [info] [Info  - 10:11:51 AM] (9561) Starting service instance "06_Project2_2"
+2024-04-11 10:11:51.835 [info] [Info  - 10:11:51 AM] (9561) Setting pythonPath for service "06_Project2_2": "/bin/python3"
+2024-04-11 10:11:51.835 [info] [Info  - 10:11:51 AM] (9561) Setting environmentName for service "06_Project2_2": "3.11.2 (global)"
+2024-04-11 10:11:51.853 [info] [Info  - 10:11:51 AM] (9561) Assuming Python version 3.11.2.final.0
+2024-04-11 10:11:51.912 [info] [Info  - 10:11:51 AM] (9561) Found 19 source files
+2024-04-11 10:11:52.268 [info] [Info  - 10:11:52 AM] (9561) Background analysis(1) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-11 10:11:52.268 [info] [Info  - 10:11:52 AM] (9561) Background analysis(1) started
+2024-04-11 10:11:52.305 [info] [Info  - 10:11:52 AM] (9561) Indexer background runner(2) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-11 10:11:52.305 [info] [Info  - 10:11:52 AM] (9561) Indexing(2) started
+2024-04-11 10:11:52.907 [info] [Info  - 10:11:52 AM] (9561) scanned(2) 481 files over 1 exec env
+2024-04-11 10:11:53.882 [info] [Info  - 10:11:53 AM] (9561) indexed(2) 310 files over 1 exec env
+2024-04-11 10:11:54.143 [info] [Info  - 10:11:54 AM] (9561) Indexing finished(2).
+2024-04-11 11:31:10.472 [info] [Info  - 11:31:10 AM] (9561) Found 29 source files
+2024-04-11 11:31:15.123 [info] [Info  - 11:31:15 AM] (9561) Found 29 source files
+2024-04-11 11:42:44.234 [info] [Info  - 11:42:44 AM] (9561) Found 34 source files
+2024-04-11 14:35:03.796 [info] [Info  - 2:35:03 PM] (9561) Found 35 source files
+2024-04-11 14:35:11.719 [info] [Info  - 2:35:11 PM] (9561) Found 34 source files
+2024-04-11 14:35:18.787 [info] [Info  - 2:35:18 PM] (9561) Found 34 source files
+2024-04-11 14:38:48.491 [info] [Info  - 2:38:48 PM] (9561) Found 35 source files
+2024-04-11 14:43:13.707 [info] [Info  - 2:43:13 PM] (9561) Found 35 source files

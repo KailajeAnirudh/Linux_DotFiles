@@ -1,0 +1,7 @@
+bashwsl.bash
+*npy*
+*gif
+src/logs/*
+*pycache*
+*svg*
+logs/*

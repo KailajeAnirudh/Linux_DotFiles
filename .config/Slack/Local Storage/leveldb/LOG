@@ -1,0 +1,6 @@
+2024/03/10-17:32:47.322 1025f0 Reusing MANIFEST /home/anirudhkailaje/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2024/03/10-17:32:47.322 1025f0 Recovering log #9
+2024/03/10-17:32:47.327 1025f0 Reusing old log /home/anirudhkailaje/.config/Slack/Local Storage/leveldb/000009.log 
+2024/03/10-20:29:49.238 1025ef Level-0 table #13: started
+2024/03/10-20:29:49.241 1025ef Level-0 table #13: 9800 bytes OK
+2024/03/10-20:29:49.243 1025ef Delete type=0 #9

@@ -14,7 +14,7 @@ set $fm eDP-1
 set $sm HDMI-1
 
 exec_always --no-startup-id picom --experimental-backends -b
-exec_always --no-startup-id xrandr --output eDP-1 --primary --mode 2240x1400 --pos 0x1405 --rotate normal --output HDMI-1 --auto --above eDP-1 --rotate normal --output DP-1 --off --output DP-2 --off --output DP-3 --off --output DP-4 --off
+exec_always --no-startup-id xrandr --output eDP-1 --primary --mode 2240x1400 --pos 0x1405 --rotate normal --output HDMI-1 --auto --right-of eDP-1 --rotate normal --output DP-1 --off --output DP-2 --off --output DP-3 --off --output DP-4 --off
 exec_always --no-startup-id feh --bg-fill /usr/share/backgrounds/Mangalore.jpg
 
 # Font for window titles. Will also be used by the bar unless a different font
@@ -257,10 +257,12 @@ bindsym $mod+Shift+x exec i3lock
 bindsym $mod+p exec --no-startup-id "maim ~/Pictures/$(date +%s).png -s"
 bindsym $mod+b exec --no-startup-id brave-browser
 bindsym $mod+c exec --no-startup-id code
+bindsym $mod+Shift+t exec --no-startup-id gnome-clocks
 bindsym $mod+t exec --no-startup-id blueman-manager
 bindsym $mod+y exec --no-startup-id pavucontrol
 bindsym $mod+n exec --no-startup-id ~/Downloads/Logseq-linux-x64-0.9.20.AppImage
 bindsym $mod+z exec --no-startup-id nautilus
+bindsym $mod+m exec --no-startup-id /usr/local/MATLAB/R2023b/bin/matlab
 
 
 # Start i3bar to display a workspace bar (plus the system information i3status

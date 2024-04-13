@@ -1,0 +1,235 @@
+import numpy as np, os
+from itertools import product
+import torch, torchvision as thv, torch.nn as nn, torch.nn.functional as F
+import matplotlib.pyplot as plt, imageio.v2 as imageio, datetime, logging
+from tqdm import tqdm
+import pickle
+
+runstart = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+
+if not 'src' in os.getcwd():
+    for (root, dir, files) in os.walk(os.getcwd()):
+        if 'src' in dir:
+            os.chdir(os.path.join(root, 'src'))
+            break
+
+folders = ['./logs', './report', './logs/TorchNeuralNetwork']
+for folder in folders:
+    if not os.path.exists(folder):
+        os.mkdir(folder)
+
+
+train = thv.datasets.MNIST(root='./', train=True, download=True)
+test = thv.datasets.MNIST(root='./', train=False, download=True)
+
+# Filter data and targets for digits 0 and 1
+mask_train = (train.targets == 0) | (train.targets == 1)
+mask_test = (test.targets == 0) | (test.targets == 1)
+
+data_train = train.data[mask_train].numpy().reshape(-1, 28 * 28)/255
+target_train = train.targets[mask_train].numpy()
+target_train[target_train == 1] = -1; target_train[target_train == 0] = 1
+
+data_test = test.data[mask_test].numpy().reshape(-1, 28 * 28)/255
+target_test = test.targets[mask_test].numpy()
+target_test[target_test == 1] = -1; target_test[target_test == 0] = 1
+
+regularization_lambdas = np.array([1, 10, 20, 40, 80, 100])
+nesterov_momentum_factors = np.array([0.75, 0.8, 0.85, 0.9, 0.95])
+batch_sizes = np.array([128, 64, 8], dtype=np.uint8)
+
+wt = np.random.standard_normal((28*28))
+w0 = 0
+u0 = np.zeros_like(wt); ut = u0
+uw0 = 0
+lr  = 0.01; niters = 100
+gradient_loss = np.zeros((len(regularization_lambdas), niters))
+
+def get_grad(w, lambda_i, X=data_train, Y=target_train, w0 = 0):
+    sigmoid_arg = np.exp(-Y*(X@w + w0))
+    sigmoid = sigmoid_arg/(1+sigmoid_arg)
+    grad = -(1/X.shape[0])* sigmoid@(Y[:, np.newaxis]*X)+ lambda_i*w
+    gradw0 = -(Y*sigmoid*(1/X.shape[0])).sum() + lambda_i*w0
+    return grad, gradw0
+
+def get_loss(w, lambda_i, X=data_train, Y=target_train, w0 = 0):
+    loss = (1/X.shape[0])*(np.log(1+np.exp(-Y*(X@w + w0)))).sum(axis = 0) + (lambda_i/2)*(np.linalg.norm(w)**2 + w0**2)
+    return loss 
+
+w_init = np.random.standard_normal((28*28))
+test_accuracy = np.zeros(len(regularization_lambdas))
+"""Standard Gradient Descent"""
+for i, lambda_i in enumerate(regularization_lambdas):
+    wt = w_init
+    w0 = 0
+    for t in tqdm(range(niters)):
+        gradw, gradw0 = get_grad(w=wt, lambda_i=lambda_i, w0 = w0)
+        wt = wt - lr*gradw
+        w0 = w0 - lr*gradw0
+        gradient_loss[i, t] = get_loss(w=wt, lambda_i=lambda_i, w0=w0)
+    test_accuracy[i] = (np.sign(data_test@wt + w0) == target_test).sum()/len(target_test)
+    print(f"Test Accuracy for lambda {lambda_i}: {test_accuracy[i]}")
+
+m = regularization_lambdas[np.argmax(test_accuracy)]
+
+slopes = np.zeros(len(regularization_lambdas))
+log_losses = np.log(gradient_loss)
+for i in range(log_losses.shape[0]):
+    log_loss = log_losses[i][log_losses[i]>1.5]
+    t = np.arange(len(log_loss))
+    if len(log_loss)>1:
+        fit = np.polyfit(t, log_loss, 1)
+        slopes[i] = fit[0]
+
+"""Plotting Gradient Descent Results"""
+fig = plt.figure()
+for i in range(gradient_loss.shape[0]):
+    plt.semilogy(np.array(range(gradient_loss.shape[1])), gradient_loss[i], label = f'$\lambda$: {regularization_lambdas[i]}')
+for i in range(gradient_loss.shape[0]):
+    plt.text(50, np.log(10**(i+1)), f'Slope for $\lambda = {regularization_lambdas[i]} : {slopes[i]:.4f}$')
+plt.text(50, np.log(10**(i+2)), f'Kappa for best fit: {-1/slopes[np.argmax(test_accuracy)]}')
+plt.ylabel('Training Loss (log-scale)')
+plt.xlabel('Weight updates')
+plt.legend()
+plt.savefig('/home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/report/GD/Gradient Descent.png')
+plt.show()
+
+
+get_rho = lambda l: ((l/m)**0.5-1)/((l/m)**0.5 +1)
+ls = np.array([25, 50, 100, 200, 250, 500, 1000])
+nesterov_momentum_factors = np.array([get_rho(l) for l in ls])
+nesterov_loss = np.zeros((len(nesterov_momentum_factors),niters))
+lambda_i = m
+"""Nesterov's Method"""
+for i, rho in enumerate(nesterov_momentum_factors):
+    wt = w_init
+    w0 = 0
+    u = wt; u0 = w0
+    for t in tqdm(range(niters)):
+        gradw, gradw0 = get_grad(w=wt, lambda_i=lambda_i, w0=w0)
+        u1 = wt - lr*gradw
+        u0_1 = w0 - lr*gradw0
+        wt = (1+rho)*u1 - rho*u
+        w0 = (1+rho)*u0_1 - rho*u0
+        u = u1
+        u0 = u0_1
+        nesterov_loss[i,t] = get_loss(w=wt, lambda_i=lambda_i, w0=w0)
+
+
+slopes = np.zeros(len(nesterov_momentum_factors))
+log_losses = np.log(nesterov_loss)
+for i in range(log_losses.shape[0]):
+    log_loss = log_losses[i][log_losses[i]>1.5]
+    t = np.arange(len(log_loss))
+    if len(log_loss)>1:
+        fit = np.polyfit(t, log_loss, 1)
+        slopes[i] = fit[0]
+
+max_slope = slopes[ls == 100]
+kappa = (1/(-max_slope))**2
+"""Plotting Nesterov Gradient Descent Results"""
+fig = plt.figure()
+for i in range(len(nesterov_momentum_factors)):
+    plt.semilogy(np.array(range(nesterov_loss.shape[1])), nesterov_loss[i], label = f'L = {ls[i]}')
+for i in range(nesterov_loss.shape[0]):
+    plt.text(50, np.log(10**(i+1)), f'Slope for $L = {ls[i]} : {slopes[i]:.4f}$')
+plt.ylabel('Training Loss (log-scale)')
+plt.xlabel('Weight updates')
+plt.legend()
+plt.title(f'Nesterov Gradient Descent with $\lambda = ${m}')
+plt.savefig(f'/home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/report/Nesterov/Nesterov Gradient Descent with lambda {m}.png')
+plt.show()
+
+"""Stochastic Gradient Descent"""
+
+SGD_loss = np.zeros((len(batch_sizes), niters))
+for i, batch_size in enumerate(batch_sizes):
+    wt = w_init
+    w0 = 0
+    for t in tqdm(range(niters)):
+        idx = np.random.randint(data_train.shape[0], size=batch_size)
+        x = data_train[idx]
+        y = target_train[idx]
+        gradw, gradw0 = get_grad(w=wt, X= x, Y=y,lambda_i=lambda_i, w0 = w0)
+        wt = wt - lr*gradw
+        w0 = w0 - lr*gradw0
+        SGD_loss[i, t] = get_loss(w=wt, lambda_i=lambda_i, w0=w0)
+
+slopes = np.zeros(len(batch_sizes))
+log_losses = np.log(SGD_loss)
+for i in range(log_losses.shape[0]):
+    log_loss = log_losses[i][log_losses[i]>1.5]
+    t = np.arange(len(log_loss))
+    if len(log_loss)>1:
+        fit = np.polyfit(t, log_loss, 1)
+        slopes[i] = fit[0]
+
+"""Plotting SGD Results"""
+fig = plt.figure()
+for i in range(len(batch_sizes)):
+    plt.semilogy(np.arange(SGD_loss.shape[1]), SGD_loss[i], label = f'Batch size: {batch_sizes[i]}')
+for i in range(SGD_loss.shape[0]):
+    plt.text(50, np.log(10**(i+1)), f'Slope for $batch size = {batch_sizes[i]} : {slopes[i]:.4f}$')
+plt.ylabel('Training Loss (log-scale)')
+plt.xlabel('Weight Updates')
+plt.legend()
+plt.title(f'Stochastic Gradient Descent with Batch Size{batch_sizes[i]}')
+plt.savefig(f'/home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/report/SGD/Stochastic Gradient Descent.png')
+plt.show()
+
+
+
+"""SGD with Nesterov's Method"""
+SGD_nesterov_loss = np.zeros((len(batch_sizes), niters))
+rho = (kappa**0.5 -1)/(kappa**0.5 +1)
+for i, batch_size in enumerate(batch_sizes):
+    wt = w_init
+    w0 = 0
+    u = wt; u0 = w0
+    for t in tqdm(range(niters)):
+        idx = np.random.randint(data_train.shape[0], size=batch_size)
+        x = data_train[idx]
+        y = target_train[idx]
+        gradw, gradw0 = get_grad(w=wt, X= x, Y= y, lambda_i=lambda_i, w0=w0)
+        u1 = wt - lr*gradw
+        u0_1 = w0 - lr*gradw0
+        wt = (1+rho)*u1 - rho*u
+        w0 = (1+rho)*u0_1 - rho*u0
+        u = u1
+        u0 = u0_1
+        SGD_nesterov_loss[i,t] = get_loss(w=wt, lambda_i=lambda_i, w0=w0)
+
+slopes = np.zeros(len(batch_sizes))
+log_losses = np.log(SGD_nesterov_loss)
+for i in range(log_losses.shape[0]):
+    log_loss = log_losses[i][log_losses[i]>1.5]
+    t = np.arange(len(log_loss))
+    if len(log_loss)>1:
+        fit = np.polyfit(t, log_loss, 1)
+        slopes[i] = fit[0]
+
+"""Plotting Nesterov SGD"""
+fig = plt.figure()
+for i in range(len(batch_sizes)):
+    plt.semilogy(np.arange(SGD_nesterov_loss.shape[1]), SGD_nesterov_loss[i], label = f'Batch Size: {batch_sizes[i]}')
+plt.ylabel('Training Loss (log-scale)')
+plt.xlabel('Weight Updates')
+plt.legend()
+plt.title(f'Nesterov Stochastic Gradient Descent with Batch Size{batch_sizes[i]}')
+plt.savefig(f'/home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/report/NesterovSGD/Nestereov Stochastic Gradient Descent.png')
+plt.show()
+
+
+fig = plt.figure()
+plt.semilogy(np.array(range(gradient_loss.shape[1])), gradient_loss[np.argmax(test_accuracy)], label = f'Gradient Descent')
+plt.semilogy(np.arange(nesterov_loss.shape[1]), nesterov_loss[ls==100].ravel(), label = 'Nesterov Gradient Descent')
+plt.semilogy(np.arange(SGD_loss.shape[1]), SGD_loss[0].ravel(), label = 'SGD')
+plt.semilogy(np.arange(SGD_nesterov_loss.shape[1]), SGD_nesterov_loss[0].ravel(), label = 'Nesterov SGD')
+plt.xlabel('Weight Updates')
+plt.ylabel('Training loss')
+plt.legend()
+plt.savefig(f'/home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4/src/report/Comparison.png')
+plt.show()
+
+with open('Losses.pickle', 'wb') as f:
+    pickle.dump((gradient_loss, nesterov_loss, SGD_loss, SGD_nesterov_loss), f)

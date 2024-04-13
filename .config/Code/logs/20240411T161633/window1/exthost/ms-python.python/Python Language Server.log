@@ -1,0 +1,18 @@
+2024-04-11 16:16:35.748 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-11 16:16:36.246 [info] [Info  - 4:16:36 PM] (4574) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-11 16:16:36.246 [info] [Info  - 4:16:36 PM] (4574) Server root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-11 16:16:36.246 [info] [Info  - 4:16:36 PM] (4574) Starting service instance "06_Project2_2"
+2024-04-11 16:16:36.273 [info] [Info  - 4:16:36 PM] (4574) Setting pythonPath for service "06_Project2_2": "/bin/python3"
+2024-04-11 16:16:36.273 [info] [Info  - 4:16:36 PM] (4574) Setting environmentName for service "06_Project2_2": "3.11.2 (global)"
+2024-04-11 16:16:36.294 [info] [Info  - 4:16:36 PM] (4574) Assuming Python version 3.11.2.final.0
+2024-04-11 16:16:36.428 [info] [Info  - 4:16:36 PM] (4574) Found 35 source files
+2024-04-11 16:16:36.718 [info] [Info  - 4:16:36 PM] (4574) Background analysis(1) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-11 16:16:36.718 [info] [Info  - 4:16:36 PM] (4574) Background analysis(1) started
+2024-04-11 16:16:36.865 [info] [Info  - 4:16:36 PM] (4574) Indexer background runner(2) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-11 16:16:36.865 [info] [Info  - 4:16:36 PM] (4574) Indexing(2) started
+2024-04-11 16:16:37.933 [info] [Info  - 4:16:37 PM] (4574) scanned(2) 481 files over 1 exec env
+2024-04-11 16:16:39.066 [info] [Info  - 4:16:39 PM] (4574) indexed(2) 310 files over 1 exec env
+2024-04-11 16:16:39.366 [info] [Info  - 4:16:39 PM] (4574) Indexing finished(2).
+2024-04-11 16:33:32.822 [info] [Info  - 4:33:32 PM] (4574) Found 34 source files
+2024-04-11 16:33:41.292 [info] [Info  - 4:33:41 PM] (4574) Found 30 source files
+2024-04-11 16:35:50.653 [info] [Info  - 4:35:50 PM] (4574) Found 31 source files

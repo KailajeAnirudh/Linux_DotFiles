@@ -1,3 +1,18 @@
-2024/03/10-17:57:16.937 10f8a6 Reusing MANIFEST /home/anirudhkailaje/.config/Code/Local Storage/leveldb/MANIFEST-000001
-2024/03/10-17:57:16.937 10f8a6 Recovering log #158
-2024/03/10-17:57:16.937 10f8a6 Reusing old log /home/anirudhkailaje/.config/Code/Local Storage/leveldb/000158.log 
+2024/04/11-16:16:33.161 1058 Reusing MANIFEST /home/anirudhkailaje/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2024/04/11-16:16:33.165 1058 Recovering log #267
+2024/04/11-16:16:33.165 1058 Reusing old log /home/anirudhkailaje/.config/Code/Local Storage/leveldb/000267.log 
+2024/04/11-16:42:13.125 1058 Level-0 table #271: started
+2024/04/11-16:42:13.128 1058 Level-0 table #271: 11347 bytes OK
+2024/04/11-16:42:13.129 1058 Delete type=0 #267
+2024/04/11-19:13:20.404 1058 Level-0 table #273: started
+2024/04/11-19:13:20.405 1058 Level-0 table #273: 11263 bytes OK
+2024/04/11-19:13:20.407 1058 Delete type=0 #270
+2024/04/11-19:13:20.407 1058 Compacting 4@0 + 1@1 files
+2024/04/11-19:13:20.409 1058 Generated table #274@0: 23 keys, 2663 bytes
+2024/04/11-19:13:20.409 1058 Compacted 4@0 + 1@1 files => 2663 bytes
+2024/04/11-19:13:20.411 1058 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/11-19:13:20.411 1058 Delete type=2 #268
+2024/04/11-19:13:20.411 1058 Delete type=2 #271
+2024/04/11-19:13:20.411 1058 Delete type=2 #273
+2024/04/11-19:13:20.411 1058 Delete type=2 #263
+2024/04/11-19:13:20.411 1058 Delete type=2 #265

@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/anirudhkailaje/.cache/ibus/dbus-DTwhFoF3,guid=1cfbf2e553975e6ac400cfe565ed334d
-IBUS_DAEMON_PID=2638
+IBUS_ADDRESS=unix:abstract=/home/anirudhkailaje/.cache/ibus/dbus-XGQhwcKS,guid=82b1cf872a7605b28c16218d661a9066
+IBUS_DAEMON_PID=5974

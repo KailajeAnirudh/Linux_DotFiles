@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "jupyter.askForKernelRestart": false,
+    "files.autoSave": "afterDelay",
+    "editor.minimap.maxColumn": 100,
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "window.zoomLevel": 2,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
+}

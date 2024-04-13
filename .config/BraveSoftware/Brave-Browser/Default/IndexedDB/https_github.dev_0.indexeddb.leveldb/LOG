@@ -1,39 +1,8 @@
-2024/02/21-16:21:37.357 a4d2 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_github.dev_0.indexeddb.leveldb/MANIFEST-000001
-2024/02/21-16:21:37.358 a4d2 Recovering log #49
-2024/02/21-16:21:37.369 a4d2 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_github.dev_0.indexeddb.leveldb/000049.log 
-2024/02/21-16:21:40.550 a4d2 Level-0 table #54: started
-2024/02/21-16:21:40.556 a4d2 Level-0 table #54: 646591 bytes OK
-2024/02/21-16:21:40.557 a4d2 Delete type=0 #49
-2024/02/21-16:27:43.140 a4d1 Compacting 1@1 + 1@2 files
-2024/02/21-16:27:43.149 a4d1 Generated table #55@1: 791 keys, 133222 bytes
-2024/02/21-16:27:43.149 a4d1 Compacted 1@1 + 1@2 files => 133222 bytes
-2024/02/21-16:27:43.150 a4d1 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/02/21-16:27:43.151 a4d1 Delete type=2 #51
-2024/02/21-16:27:43.151 a4d1 Delete type=2 #54
-2024/02/21-16:44:45.322 a4d2 Level-0 table #57: started
-2024/02/21-16:44:45.329 a4d2 Level-0 table #57: 677582 bytes OK
-2024/02/21-16:44:45.331 a4d2 Delete type=0 #53
-2024/02/21-16:52:39.329 a4d1 Compacting 1@1 + 1@2 files
-2024/02/21-16:52:39.335 a4d1 Generated table #58@1: 794 keys, 137777 bytes
-2024/02/21-16:52:39.336 a4d1 Compacted 1@1 + 1@2 files => 137777 bytes
-2024/02/21-16:52:39.337 a4d1 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/02/21-16:52:39.337 a4d1 Delete type=2 #55
-2024/02/21-16:52:39.337 a4d1 Delete type=2 #57
-2024/02/21-17:00:49.326 a4d2 Level-0 table #60: started
-2024/02/21-17:00:49.335 a4d2 Level-0 table #60: 556796 bytes OK
-2024/02/21-17:00:49.339 a4d2 Delete type=0 #56
-2024/02/21-17:10:22.661 a4d1 Compacting 1@1 + 1@2 files
-2024/02/21-17:10:22.669 a4d1 Generated table #61@1: 794 keys, 140832 bytes
-2024/02/21-17:10:22.670 a4d1 Compacted 1@1 + 1@2 files => 140832 bytes
-2024/02/21-17:10:22.670 a4d1 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/02/21-17:10:22.671 a4d1 Delete type=2 #58
-2024/02/21-17:10:22.671 a4d1 Delete type=2 #60
-2024/02/21-21:32:02.959 a4d1 Level-0 table #63: started
-2024/02/21-21:32:02.973 a4d1 Level-0 table #63: 660484 bytes OK
-2024/02/21-21:32:02.976 a4d1 Delete type=0 #59
-2024/02/21-21:45:39.367 a4d1 Compacting 1@1 + 1@2 files
-2024/02/21-21:45:39.376 a4d1 Generated table #64@1: 804 keys, 132991 bytes
-2024/02/21-21:45:39.376 a4d1 Compacted 1@1 + 1@2 files => 132991 bytes
-2024/02/21-21:45:39.378 a4d1 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/02/21-21:45:39.378 a4d1 Delete type=2 #61
-2024/02/21-21:45:39.378 a4d1 Delete type=2 #63
+2024/04/12-11:52:08.319 21a1 Creating DB /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_github.dev_0.indexeddb.leveldb since it was missing.
+2024/04/12-11:52:08.323 21a1 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_github.dev_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/12-12:17:13.266 21a2 Level-0 table #5: started
+2024/04/12-12:17:13.276 21a2 Level-0 table #5: 688822 bytes OK
+2024/04/12-12:17:13.279 21a2 Delete type=0 #3
+2024/04/12-14:03:12.857 21a2 Level-0 table #7: started
+2024/04/12-14:03:12.865 21a2 Level-0 table #7: 516459 bytes OK
+2024/04/12-14:03:12.868 21a2 Delete type=0 #4

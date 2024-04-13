@@ -1,0 +1,82 @@
+import torch
+import torch.nn as nn
+import numpy as np, matplotlib.pyplot as plt
+import torch.optim as optim
+
+class MLP(nn.Module):
+    def __init__(self):
+        super().__init__()
+
+        self.m = nn.Sequential(
+            nn.Linear(1,200), 
+            nn.ReLU(),
+            nn.BatchNorm1d(200),
+            nn.Dropout(0.01),
+            nn.Linear(200, 200), 
+            nn.ReLU(),
+            nn.BatchNorm1d(200),
+            nn.Dropout(0.01),
+            nn.Linear(200,1)
+            )
+
+        print('Num parameters: ', sum([p.numel() for p in self.m.parameters()]))
+
+    def forward(self, x):
+        return self.m(x)
+    
+def f_star(x):
+    return torch.sin(10*torch.pi*x**4)
+
+def del_fin(n, model):
+    x = torch.linspace(0,1, n)
+    pred_y = model(x)
+    y = f_star(x)
+    return torch.abs(y-pred_y).max()
+
+def del_fout(n, model):
+    x = torch.linspace(0,1.5,n)
+    pred_y = model(x)
+    y = f_star(x)
+    return torch.abs(y-pred_y).max()
+
+x_train = torch.linspace(0,1, 1000)
+y_train = f_star(x_train)
+# indexes = np.arange(0, len(x_train))
+batch_size = 16
+criterion = nn.MSELoss()
+lr_max = 3e-4
+lr = 1e-3
+model = MLP()
+optimizer = optim.SGD(model.parameters(), lr = lr, weight_decay=1e-6, nesterov=True, momentum=0.9)
+lrs = []
+train_loss = []
+epochs = 250
+T_max = 250
+T_0  = T_max/5
+for t in range(T_max):
+    lrs.append(lr)
+    if t <= T_0:
+        lr = 10**(-4) + (t/T_0)*lr_max  
+    else: 
+        lr = lr_max*np.cos((np.pi/2)*((t-T_0)/(T_max-T_0))) + 10**(-6)
+    # ii = np.random.randint(0, len(x_train), size=batch_size)
+    # x = x_train[ii].reshape(-1,1)
+    # y = y_train[ii].reshape(-1,1)
+    x = x_train.reshape(-1,1); y = y_train.reshape(-1,1)
+    ypred = model(x)
+    optimizer.zero_grad()
+    loss = criterion(ypred, y)
+    loss.backward()
+    optimizer.step()
+    # lr *= 1.05
+    train_loss.append(loss.item())
+    for g in optimizer.param_groups:
+        g['lr'] = lr
+
+fig = plt.figure()
+# plt.plot(lrs)
+plt.plot(train_loss)
+plt.show()
+    
+
+

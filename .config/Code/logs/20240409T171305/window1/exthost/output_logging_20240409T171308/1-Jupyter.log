@@ -1,0 +1,31 @@
+Visual Studio Code (1.87.2, undefined, desktop)
+Jupyter Extension Version: 2024.2.0.
+Python Extension Version: 2024.4.0.
+Pylance Extension Version: 2024.4.1.
+Platform: linux (x64).
+Workspace folder ~/Documents/01_UPenn/05_MEAM5430/07_Homework7, Home = /home/anirudhkailaje
+17:13:08.552 [info] Start refreshing Kernel Picker (1712697188552)
+17:13:08.558 [info] Using Pylance
+17:13:08.690 [info] Start refreshing Interpreter Kernel Picker
+17:13:09.094 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, 3.11.2) for '~/Documents/01_UPenn/05_MEAM5430/07_Homework7/Homework7.ipynb' (disableUI=true)
+17:13:09.181 [warn] Failed to get activated env vars for /bin/python3 in 374ms
+17:13:09.183 [warn] Failed to get activated env vars for /bin/python3 in 82ms
+17:13:09.195 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+17:13:09.219 [error] Unable to determine site packages path for python /bin/python3 (Unknown)
+17:13:09.219 [error] Unable to determine site packages path for python /bin/python3 (Unknown)
+17:13:09.229 [info] Process Execution: /bin/python3 -m pip list
+17:13:09.238 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+17:13:09.247 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-713747fD6ddEUSiTrf.json
+    > cwd: ~/Documents/01_UPenn/05_MEAM5430/07_Homework7
+17:13:09.247 [info] Kernel process 713984.
+17:13:09.805 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+17:13:10.156 [info] Registering Kernel Completion Provider from kernel Python 3.11.2 for language python
+17:13:10.166 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2024.2.0-linux-x64/pythonFiles/printJupyterDataDir.py
+17:13:10.265 [info] End refreshing Kernel Picker (1712697188552)
+17:13:31.246 [info] Disposing HostJupyterExecution
+17:13:31.247 [info] Dispose Kernel '~/Documents/01_UPenn/05_MEAM5430/07_Homework7/Homework7.ipynb' associated with '~/Documents/01_UPenn/05_MEAM5430/07_Homework7/Homework7.ipynb'
+17:13:31.247 [info] Dispose Kernel process 713984.
+17:13:31.260 [info] Disposing HostJupyterExecution

@@ -1,0 +1,2 @@
+2024-04-09 18:52:12.740 [error] electron #21: https://update.code.visualstudio.com/api/update/linux-x64/stable/5c3e652f63e798a5ac2f31ffd0d863669328dc4c - error undefined net::ERR_CONNECTION_RESET
+2024-04-09 20:02:54.851 [error] electron #28: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED

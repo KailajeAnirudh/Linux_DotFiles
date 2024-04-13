@@ -1,14 +1,2 @@
-2024/03/09-23:21:13.324 4aca Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/09-23:21:13.324 4aca Recovering log #729
-2024/03/09-23:21:13.324 4aca Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/000729.log 
-2024/03/09-23:21:13.324 4aca Delete type=2 #727
-2024/03/09-23:21:13.330 4ac6 Level-0 table #734: started
-2024/03/09-23:21:13.331 4ac6 Level-0 table #734: 980 bytes OK
-2024/03/09-23:21:13.332 4ac6 Delete type=0 #729
-2024/03/09-23:21:13.332 4ad1 Manual compaction at level-0 from '\x00\xbd\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xbe\x00\x00\x00' @ 0 : 0; will stop at '\x00\xbd\x00\x00\x05' @ 6011 : 1
-2024/03/09-23:21:13.332 4ad1 Compacting 1@0 + 1@1 files
-2024/03/09-23:21:13.333 4ad1 Generated table #735@0: 72 keys, 1980 bytes
-2024/03/09-23:21:13.333 4ad1 Compacted 1@0 + 1@1 files => 1980 bytes
-2024/03/09-23:21:13.334 4ad1 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/03/09-23:21:13.334 4ad1 Delete type=2 #734
-2024/03/09-23:21:13.334 4ad1 Manual compaction at level-0 from '\x00\xbd\x00\x00\x05' @ 6011 : 1 .. '\x00\xbe\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/12-11:08:20.771 21a1 Creating DB /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb since it was missing.
+2024/04/12-11:08:20.775 21a1 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_oocalimimngaihdkbihfgmpkcpnmlaoa_0.indexeddb.leveldb/MANIFEST-000001

@@ -1,0 +1,18 @@
+2024-04-09 20:58:32.251 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.0)
+2024-04-09 20:58:32.966 [info] [Info  - 8:58:32 PM] (312352) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-09 20:58:32.966 [info] [Info  - 8:58:32 PM] (312352) Server root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-09 20:58:32.967 [info] [Info  - 8:58:32 PM] (312352) Starting service instance "06_Project2_2"
+2024-04-09 20:58:33.008 [info] [Info  - 8:58:33 PM] (312352) Setting pythonPath for service "06_Project2_2": "/bin/python3"
+2024-04-09 20:58:33.008 [info] [Info  - 8:58:33 PM] (312352) Setting environmentName for service "06_Project2_2": "3.11.2 (global)"
+2024-04-09 20:58:33.040 [info] [Info  - 8:58:33 PM] (312352) Assuming Python version 3.11.2.final.0
+2024-04-09 20:58:33.173 [info] [Info  - 8:58:33 PM] (312352) Found 19 source files
+2024-04-09 20:58:33.587 [info] [Info  - 8:58:33 PM] (312352) Background analysis(1) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-09 20:58:33.591 [info] [Info  - 8:58:33 PM] (312352) Background analysis(1) started
+2024-04-09 20:58:33.802 [info] [Info  - 8:58:33 PM] (312352) Indexer background runner(2) root directory: file:///home/anirudhkailaje/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-09 20:58:33.802 [info] [Info  - 8:58:33 PM] (312352) Indexing(2) started
+2024-04-09 20:58:35.003 [info] [Info  - 8:58:35 PM] (312352) scanned(2) 481 files over 1 exec env
+2024-04-09 20:58:39.661 [info] [Info  - 8:58:39 PM] (312352) [IDX(2)] Long operation: index execution environment file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2 (3249ms)
+2024-04-09 20:58:39.698 [info] [Info  - 8:58:39 PM] (312352) [IDX(2)] Long operation: index packages file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2 (3323ms)
+2024-04-09 20:58:39.698 [info] [Info  - 8:58:39 PM] (312352) indexed(2) 310 files over 1 exec env
+2024-04-09 20:58:40.150 [info] [Info  - 8:58:40 PM] (312352) Indexing finished(2).
+2024-04-09 21:02:27.575 [info] [Info  - 9:02:27 PM] (312352) Found 20 source files

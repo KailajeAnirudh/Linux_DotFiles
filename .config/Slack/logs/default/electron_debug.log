@@ -1,0 +1,62 @@
+[2389309:1121/124755.041263:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[2389309:1121/124755.102186:ERROR:browser_main_loop.cc(275)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2391448:1121/124836.018155:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[2391448:1121/124836.087507:ERROR:browser_main_loop.cc(275)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2391448:1121/124913.941696:ERROR:browser_main_loop.cc(275)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2391448:1121/124913.941968:ERROR:browser_main_loop.cc(275)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2909369:1122/153422.901081:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[2909369:1122/153423.057901:ERROR:browser_main_loop.cc(275)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2909369:1122/153423.058414:ERROR:browser_main_loop.cc(275)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1058278:0310/173247.431117:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[1058278:0310/173248.893116:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1058278:0310/173248.894544:ERROR:browser_main_loop.cc(276)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1058341:0310/173252.833220:WARNING:spdy_session.cc(2711)] Received RST for invalid stream1
+[1058341:0310/173253.083367:WARNING:spdy_session.cc(2711)] Received RST for invalid stream1
+[1058341:0310/173253.243251:WARNING:spdy_session.cc(2711)] Received RST for invalid stream3
+[1058341:0310/173253.369572:WARNING:spdy_session.cc(2711)] Received RST for invalid stream3
+[1058341:0310/173254.643951:WARNING:spdy_session.cc(2711)] Received RST for invalid stream5
+[1058341:0310/173254.857578:WARNING:spdy_session.cc(2711)] Received RST for invalid stream5
+[1058341:0310/173256.619163:WARNING:spdy_session.cc(2711)] Received RST for invalid stream7
+[1058341:0310/173256.994657:WARNING:spdy_session.cc(2711)] Received RST for invalid stream7
+[1058341:0310/173259.580197:WARNING:spdy_session.cc(2711)] Received RST for invalid stream9
+[1058341:0310/173259.672391:WARNING:spdy_session.cc(2711)] Received RST for invalid stream9
+[1058341:0310/173304.074538:WARNING:spdy_session.cc(2711)] Received RST for invalid stream11
+[1058341:0310/173304.447467:WARNING:spdy_session.cc(2711)] Received RST for invalid stream11
+[1058341:0310/173310.402611:WARNING:spdy_session.cc(2711)] Received RST for invalid stream13
+[1058341:0310/173311.553123:WARNING:spdy_session.cc(2711)] Received RST for invalid stream13
+[1058341:0310/173320.599493:WARNING:spdy_session.cc(2711)] Received RST for invalid stream15
+[1058341:0310/173321.519865:WARNING:spdy_session.cc(2711)] Received RST for invalid stream15
+[1058341:0310/173335.593310:WARNING:spdy_session.cc(2711)] Received RST for invalid stream17
+[1058341:0310/173338.171996:WARNING:spdy_session.cc(2711)] Received RST for invalid stream17
+[1058341:0310/173400.302667:WARNING:spdy_session.cc(2711)] Received RST for invalid stream19
+[1058341:0310/173401.191854:WARNING:spdy_session.cc(2711)] Received RST for invalid stream19
+[1058341:0310/173431.296275:WARNING:spdy_session.cc(2711)] Received RST for invalid stream21
+[1058341:0310/173436.023230:WARNING:spdy_session.cc(2711)] Received RST for invalid stream21
+[1058341:0310/173528.421387:WARNING:spdy_session.cc(2711)] Received RST for invalid stream23
+[1058341:0310/173530.280696:WARNING:spdy_session.cc(2711)] Received RST for invalid stream23
+[1058341:0310/173639.246519:WARNING:spdy_session.cc(2711)] Received RST for invalid stream25
+[1058341:0310/173656.345707:WARNING:spdy_session.cc(2711)] Received RST for invalid stream25
+[1058341:0310/173826.334040:WARNING:spdy_session.cc(2711)] Received RST for invalid stream27
+[1058341:0310/173903.732431:WARNING:spdy_session.cc(2711)] Received RST for invalid stream27
+[1058341:0310/174108.972956:WARNING:spdy_session.cc(2711)] Received RST for invalid stream29
+[1058341:0310/174207.604108:WARNING:spdy_session.cc(2711)] Received RST for invalid stream29
+[1058341:0310/174558.130915:WARNING:spdy_session.cc(2711)] Received RST for invalid stream31
+[1058341:0310/174624.164179:WARNING:spdy_session.cc(2711)] Received RST for invalid stream31
+[1058341:0310/175254.975245:WARNING:spdy_session.cc(2711)] Received RST for invalid stream33
+[1058341:0310/175314.354497:WARNING:spdy_session.cc(2711)] Received RST for invalid stream33
+[1058341:0310/180300.165010:WARNING:spdy_session.cc(2711)] Received RST for invalid stream35
+[1058341:0310/180301.980612:WARNING:spdy_session.cc(2711)] Received RST for invalid stream35
+[1058341:0310/181640.224904:WARNING:spdy_session.cc(2711)] Received RST for invalid stream37
+[1058341:0310/181758.299855:WARNING:spdy_session.cc(2711)] Received RST for invalid stream37
+[1058341:0310/183843.677103:WARNING:spdy_session.cc(2711)] Received RST for invalid stream39
+[1058341:0310/183932.430621:WARNING:spdy_session.cc(2711)] Received RST for invalid stream39
+[1058341:0310/190925.258369:WARNING:spdy_session.cc(2711)] Received RST for invalid stream41
+[1058341:0310/191119.916771:WARNING:spdy_session.cc(2711)] Received RST for invalid stream41
+[1058341:0310/200304.369099:WARNING:spdy_session.cc(2711)] Received RST for invalid stream43
+[1058341:0310/200345.002554:WARNING:spdy_session.cc(2711)] Received RST for invalid stream43
+[1058341:0310/210304.372343:WARNING:spdy_session.cc(2711)] Received RST for invalid stream45
+[1058341:0310/210344.996555:WARNING:spdy_session.cc(2711)] Received RST for invalid stream45
+[1058341:0310/220304.378433:WARNING:spdy_session.cc(2711)] Received RST for invalid stream47
+[1058341:0310/220345.003393:WARNING:spdy_session.cc(2711)] Received RST for invalid stream47
+[1058341:0310/230304.376799:WARNING:spdy_session.cc(2711)] Received RST for invalid stream49
+[1058341:0310/230345.005820:WARNING:spdy_session.cc(2711)] Received RST for invalid stream49

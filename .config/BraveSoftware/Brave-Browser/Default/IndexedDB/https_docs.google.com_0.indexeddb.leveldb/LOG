@@ -1,3 +1,2 @@
-2024/02/28-07:33:37.717 fd4 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/02/28-07:33:37.718 fd4 Recovering log #27
-2024/02/28-07:33:37.719 fd4 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000027.log 
+2024/04/12-11:36:32.312 21a1 Creating DB /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
+2024/04/12-11:36:32.315 21a1 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001

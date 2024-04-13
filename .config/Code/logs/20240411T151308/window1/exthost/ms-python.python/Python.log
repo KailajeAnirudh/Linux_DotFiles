@@ -1,0 +1,62 @@
+2024-04-11 15:13:11.378 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-11 15:13:11.378 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-11 15:13:11.378 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-11 15:13:11.378 [info] Experiment 'pythonTestAdapter' is active
+2024-04-11 15:13:11.378 [info] Default formatter is set to null for workspace /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2
+2024-04-11 15:13:11.378 [info] Test server listening.
+2024-04-11 15:13:11.378 [info] Python interpreter path: /bin/python3
+2024-04-11 15:13:11.389 [info] > pyenv which python
+2024-04-11 15:13:11.389 [info] cwd: .
+2024-04-11 15:13:11.492 [info] > conda info --json
+2024-04-11 15:13:11.527 [info] > ~/.conda/bin/conda info --json
+2024-04-11 15:13:11.653 [info] > ~/anaconda3/bin/conda info --json
+2024-04-11 15:13:12.839 [info] Starting Pylance language server.
+2024-04-11 15:19:17.047 [info] Send text to terminal:  /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 54821 -- /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/test.py 
+2024-04-11 15:20:28.599 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 15:20:30.811 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 15:20:33.516 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 15:20:40.640 [info] Send text to terminal: 
+2024-04-11 15:20:40.640 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2 ; /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 38703 -- /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py 
+2024-04-11 15:23:59.746 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 15:24:40.876 [info] Send text to terminal: 
+2024-04-11 15:24:40.876 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2 ; /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 43117 -- /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/test.py 
+2024-04-11 16:03:25.377 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:03:28.347 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:03:34.696 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:03:56.219 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:13.497 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:05:23.959 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:25.038 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:26.751 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:28.034 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:36.206 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:41.292 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:44.471 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:49.081 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:51.935 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:05:59.204 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:01.004 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:05.779 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:09.181 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:10.448 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:12.247 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:13.610 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:20.125 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:21.795 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:24.401 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:29.007 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:40.423 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:47.357 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/estimate_pose_ransac.py
+2024-04-11 16:06:54.383 [info] Send text to terminal: 
+2024-04-11 16:06:54.383 [info] Send text to terminal:  cd /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2 ; /bin/python3 /home/anirudhkailaje/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 54199 -- /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/test.py 
+2024-04-11 16:10:34.841 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:10:38.240 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:10:40.985 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:10:42.281 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:14:04.951 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:14:06.815 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:14:16.294 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:14:20.034 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:14:22.819 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:14:24.247 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py
+2024-04-11 16:14:26.677 [info] Discover tests for workspace name: 06_Project2_2 - uri: /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2/proj2_2/util/code/estimate_pose_ransac.py

@@ -1,0 +1,115 @@
+2024-04-10 18:56:13.440 [info] Extension host with pid 365664 started
+2024-04-10 18:56:13.440 [info] Skipping acquiring lock for /home/anirudhkailaje/.config/Code/User/workspaceStorage/d716d0e5591bc003dcc7f633b0517954.
+2024-04-10 18:56:13.501 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-10 18:56:13.507 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-10 18:56:13.521 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-10 18:56:13.559 [info] Eager extensions activated
+2024-04-10 18:56:13.588 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-10 18:56:13.590 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-10 18:56:13.713 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7799
+2024-04-10 18:56:14.114 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7799
+2024-04-10 18:56:14.126 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-04-10 18:56:49.192 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:56:51.819 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-10 18:57:25.038 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:57:30.136 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:57:38.514 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:58:13.594 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:58:28.982 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7799
+2024-04-10 18:58:56.782 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:59:01.867 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:59:35.587 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:59:40.685 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:59:48.283 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 18:59:55.469 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 19:00:08.813 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 19:00:14.760 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7799
+2024-04-10 19:01:04.039 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7800
+2024-04-10 19:01:05.143 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7799
+2024-04-10 19:01:23.955 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7799
+2024-04-10 19:01:35.055 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1605
+2024-04-10 19:01:40.100 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1595
+2024-04-10 19:01:45.145 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1595
+2024-04-10 19:01:56.169 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1605
+2024-04-10 19:02:03.972 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1605
+2024-04-10 19:02:20.233 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1605
+2024-04-10 19:02:25.271 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-04-10 19:02:30.310 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-04-10 19:02:35.350 [warning] [Decorations] CAPPING events from decorations provider vscode.git 381
+2024-04-10 19:02:57.235 [warning] [Decorations] CAPPING events from decorations provider vscode.git 366
+2024-04-10 19:03:02.266 [warning] [Decorations] CAPPING events from decorations provider vscode.git 366
+2024-04-10 19:03:11.422 [warning] [Decorations] CAPPING events from decorations provider vscode.git 348
+2024-04-10 19:03:12.509 [warning] [Decorations] CAPPING events from decorations provider vscode.git 347
+2024-04-10 19:03:19.002 [warning] [Decorations] CAPPING events from decorations provider vscode.git 347
+2024-04-10 19:04:53.053 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-10 19:04:53.081 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at h.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at T.<computed>.F.charCodeAt.T.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22984)
+	at a.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945802)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at o.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at a.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-04-10 19:04:53.082 [error] Canceled: Canceled
+	at new O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:46998)
+	at h.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:5539)
+	at T.<computed>.F.charCodeAt.T.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:149:2993)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186335)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at E.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185097)
+	at d.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:186874)
+	at d.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185866)
+	at d.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:185773)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:22984)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:324866)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:325825
+	at a.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1051703)
+	at s.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:659)
+	at s.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:729)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:945)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964886)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970920
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970906)
+	at o.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3830)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at o.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:948059)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3927)
+	at a (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:714)
+	at m.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:9967)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7816
+	at Array.map (<anonymous>)
+	at m.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:7803)
+	at m.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:8077)
+	at a.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:9917)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:6342)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-04-10 19:04:53.082 [info] Extension host with pid 365664 exiting with code 0

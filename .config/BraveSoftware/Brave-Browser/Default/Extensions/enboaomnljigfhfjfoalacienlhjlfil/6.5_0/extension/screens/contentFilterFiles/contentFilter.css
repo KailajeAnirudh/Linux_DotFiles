@@ -1,0 +1,256 @@
+#contentFilterScreen .segmentedPicker {
+    width: 100%;
+    background: var(--elements-underlay-background);
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+#contentFilterScreen .segmentedPicker .option {
+    width: 25%;
+    font-size: 14px;
+    padding: 5px;
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 7.5px;
+    transition: 0.15s;
+    color: var(--primary-text-color);
+    overflow-y: hidden;
+    text-overflow: ellipsis;
+}
+
+#contentFilterScreen .segmentedPicker .option:not([active]):hover {
+    opacity: 0.7;
+}
+
+#contentFilterScreen .segmentedPicker .option[active] {
+    background: var(--submit-button-background);
+    color: #fff;
+}
+
+#contentFilterScreen .textField {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 14px;
+    padding: 10px 15px;
+    background: var(--elements-underlay-background);
+    border: 1px solid var(--elements-underlay-background);
+    border-radius: 7px;
+    color: var(--primary-text-color);
+}
+
+#contentFilterScreen .textField.error {
+    border-color: var(--destruct-button-background);
+}
+
+
+#contentFilterScreen .filterAddWrapper {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+#contentFilterScreen .filterAddWrapper .submitButton {
+    width: 60px;
+    padding: 0;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#contentFilterScreen .filterRulesWrapper {
+    background: var(--elements-underlay-background);
+    border-radius: 10px;
+    padding: 5px 15px;
+    overflow-y: scroll;
+    max-height: 250px;
+    display: none;
+}
+
+#contentFilterScreen .filterRulesWrapper .filterRuleItem {
+    border-bottom: 1px solid var(--separator-color);
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#contentFilterScreen .filterRulesWrapper .filterRuleItem .label {
+    font-size: 14px;
+    text-align: left;
+    color: var(--primary-text-color);
+    overflow: hidden;
+}
+
+#contentFilterScreen .filterRulesWrapper .filterRuleItem:last-child {
+    border-bottom: none;
+}
+
+#contentFilterScreen .filterRulesWrapper .filterRuleItem .delete {
+    flex: 0 0 20px;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    cursor: pointer;
+    transition: 0.15s;
+    margin-left: 5px;
+}
+
+#contentFilterScreen .filterRulesWrapper .filterRuleItem .delete:after {
+    font-family: "Font Awesome 6 Free";
+    content: "\f00d";
+    position: absolute;
+    top: 2px;
+    left: 3px;
+    color: var(--destruct-button-background);
+    font-size: 20px;
+}
+
+#contentFilterScreen .filterRulesWrapper .filterRuleItem .delete:hover {
+    opacity: 0.8;
+}
+
+#contentFilterScreen .filterRulesEmptyMessage {
+    padding: 20px 0;
+}
+
+#contentFilterScreen .filterRulesEmptyMessage .filterMessageIcon {
+    color: var(--primary-color-on-primary-background);
+    margin-bottom: 10px;
+    font-size: 34px;
+}
+
+#contentFilterScreen .filterRulesEmptyMessage .filterMessageHeadline {
+    font-size: 16px;
+    color: var(--primary-color-on-primary-background);
+    font-weight: 500;
+    margin-bottom: 5px;
+    line-height: 24px;
+}
+
+#contentFilterScreen .filterRulesEmptyMessage .filterMessageSubhedline {
+    font-size: 14px;
+    color: var(--secondary-color-on-primary-background);
+    line-height: 22px;
+}
+
+
+
+#contentFilterScreen .modernFormBlockItemsWrapper {
+    background: var(--elements-underlay-background);
+    border-radius: 10px;
+    padding: 5px 15px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+#contentFilterScreen .modernFormBlockItemsWrapper:has(.switchLabel) {
+    cursor: pointer;
+}
+
+#contentFilterScreen .modernFormBlockItemsWrapper:has(.switchLabel):hover .labelSpan {
+    opacity: 0.8;
+}
+
+#contentFilterScreen .modernFormBlockItemsWrapper:has(.switchLabel):hover  .slider {
+    opacity: 0.9;
+}
+
+#contentFilterScreen .modernFormBlockItemsWrapper:has(.switchLabel) {
+    width: 100%;
+}
+
+#contentFilterScreen .modernFormBlockItemsWrapper.nomb {
+    margin-bottom: 0;
+}
+
+#contentFilterScreen label.label .modernFormBlockItem {
+    width: 100%;
+}
+
+#contentFilterScreen .modernFormBlockItem {
+    padding: 8px 0;
+    box-sizing: border-box;
+}
+
+#contentFilterScreen .switchLabel {
+    position: relative;
+    display: inline-block;
+    width: 43px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-left: 10px;
+}
+
+#contentFilterScreen .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+#contentFilterScreen .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--action-item-background);
+    -webkit-transition: 0.1s;
+    transition: 0.1s;
+}
+
+#contentFilterScreen .slider:before {
+    position: absolute;
+    content: "";
+    height: 21px;
+    width: 21px;
+    left: 1.5px;
+    bottom: 1.7px;
+    background-color: #fff;
+    -webkit-transition: 0.1s;
+    transition: 0.1s;
+}
+
+#contentFilterScreen input:checked + .slider {
+    background-color: var(--submit-button-background);
+}
+
+#contentFilterScreen input:focus + .slider {
+    box-shadow: 0 0 1px var(--submit-button-background);
+}
+
+#contentFilterScreen input:checked + .slider:before {
+    -webkit-transform: translateX(19px);
+    -ms-transform: translateX(19px);
+    transform: translateX(19px);
+}
+
+#contentFilterScreen .slider.round {
+    border-radius: 34px;
+}
+
+#contentFilterScreen .slider.round:before {
+    border-radius: 50%;
+}
+
+#contentFilterScreen .switchWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+#contentFilterScreen .switchWrapper .labelSpan {
+    transition: 0.15s;
+    color: var(--primary-text-color);
+}
+
+#contentFilterScreen .label {
+    font-size: 14px;
+    text-align: left;
+    transition: 0.15s;
+    display: flex;
+}
+

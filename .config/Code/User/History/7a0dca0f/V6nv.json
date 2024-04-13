@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "jupyter.askForKernelRestart": false,
+    "files.autoSave": "afterDelay",
+    "editor.minimap.maxColumn": 100,
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ]
+}

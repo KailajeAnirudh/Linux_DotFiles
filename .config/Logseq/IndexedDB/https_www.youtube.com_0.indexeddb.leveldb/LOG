@@ -1,0 +1,15 @@
+2024/03/27-13:01:30.114 1622 Reusing MANIFEST /home/anirudhkailaje/.config/Logseq/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/27-13:01:30.114 1622 Recovering log #15
+2024/03/27-13:01:30.115 1622 Reusing old log /home/anirudhkailaje/.config/Logseq/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000015.log 
+2024/03/27-13:11:29.545 1623 Level-0 table #20: started
+2024/03/27-13:11:29.547 1623 Level-0 table #20: 21221 bytes OK
+2024/03/27-13:11:29.549 1623 Delete type=0 #15
+2024/03/27-13:11:29.549 1623 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/03/27-13:11:29.549 1623 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xc3Q\x0e\xe8xB\x00\x03\x00\x00\x00\x00\x00\xc0S@' @ 2687 : 1
+2024/03/27-13:11:29.549 1623 Compacting 1@1 + 1@2 files
+2024/03/27-13:11:29.551 1623 Generated table #21@1: 59 keys, 1360 bytes
+2024/03/27-13:11:29.551 1623 Compacted 1@1 + 1@2 files => 1360 bytes
+2024/03/27-13:11:29.553 1623 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/27-13:11:29.553 1623 Delete type=2 #20
+2024/03/27-13:11:29.553 1623 Delete type=2 #17
+2024/03/27-13:11:29.554 1623 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xc3Q\x0e\xe8xB\x00\x03\x00\x00\x00\x00\x00\xc0S@' @ 2687 : 1 .. (end); will stop at (end)

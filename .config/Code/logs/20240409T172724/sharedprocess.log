@@ -1,0 +1,62 @@
+2024-04-09 17:27:34.642 [info] Getting Manifest... github.copilot-chat
+2024-04-09 17:27:34.643 [info] Getting Manifest... ms-toolsai.jupyter
+2024-04-09 17:27:34.644 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2024-04-09 17:27:34.645 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2024-04-09 17:27:34.646 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2024-04-09 17:27:35.141 [info] Installing extension: ms-vscode-remote.remote-ssh
+2024-04-09 17:27:35.150 [info] Installing extension: github.copilot-chat
+2024-04-09 17:27:35.182 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2024-04-09 17:27:35.183 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2024-04-09 17:27:35.192 [info] Installing extension: ms-toolsai.jupyter
+2024-04-09 17:27:39.910 [info] Extension signature is verified: ms-toolsai.vscode-jupyter-cell-tags
+2024-04-09 17:27:39.921 [info] Extension signature is verified: ms-toolsai.vscode-jupyter-slideshow
+2024-04-09 17:27:39.937 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6: ms-toolsai.vscode-jupyter-slideshow
+2024-04-09 17:27:39.938 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9: ms-toolsai.vscode-jupyter-cell-tags
+2024-04-09 17:27:39.939 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6
+2024-04-09 17:27:39.940 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2024-04-09 17:27:39.940 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9
+2024-04-09 17:27:39.941 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2024-04-09 17:27:39.950 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2024-04-09 17:27:39.953 [info] Extension signature is verified: ms-vscode-remote.remote-ssh
+2024-04-09 17:27:39.955 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2024-04-09 17:27:39.957 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2024-04-09 17:27:39.960 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2024-04-09 17:27:39.993 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/ms-vscode-remote.remote-ssh-0.110.1: ms-vscode-remote.remote-ssh
+2024-04-09 17:27:39.994 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/ms-vscode-remote.remote-ssh-0.110.1
+2024-04-09 17:27:39.996 [warning] [remote-ssh]: Couldn't find message for key setting.usseExecServer.description.
+2024-04-09 17:27:39.996 [info] Extracting extension completed. ms-vscode-remote.remote-ssh
+2024-04-09 17:27:40.001 [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+2024-04-09 17:27:40.004 [info] Marked extension as uninstalled ms-vscode-remote.remote-ssh-0.109.0
+2024-04-09 17:27:40.026 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-09 17:27:40.058 [info] Extension signature is verified: github.copilot-chat
+2024-04-09 17:27:40.140 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/github.copilot-chat-0.14.0: github.copilot-chat
+2024-04-09 17:27:40.143 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/github.copilot-chat-0.14.0
+2024-04-09 17:27:40.144 [info] Extracting extension completed. github.copilot-chat
+2024-04-09 17:27:40.149 [info] Extension installed successfully: github.copilot-chat
+2024-04-09 17:27:40.151 [info] Marked extension as uninstalled github.copilot-chat-0.13.1
+2024-04-09 17:27:40.222 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-09 17:27:43.735 [info] Extension signature is verified: ms-toolsai.jupyter
+2024-04-09 17:27:43.867 [info] Extracted extension to file:///home/anirudhkailaje/.vscode/extensions/ms-toolsai.jupyter-2024.3.0-linux-x64: ms-toolsai.jupyter
+2024-04-09 17:27:43.871 [info] Renamed to /home/anirudhkailaje/.vscode/extensions/ms-toolsai.jupyter-2024.3.0-linux-x64
+2024-04-09 17:27:43.876 [info] Extracting extension completed. ms-toolsai.jupyter
+2024-04-09 17:27:43.883 [info] Extension installed successfully: ms-toolsai.jupyter
+2024-04-09 17:27:43.888 [info] Marked extension as uninstalled ms-toolsai.jupyter-2024.2.0-linux-x64
+2024-04-09 17:27:43.914 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/anirudhkailaje/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)

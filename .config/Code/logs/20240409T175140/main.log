@@ -1,0 +1,16 @@
+2024-04-09 17:51:40.854 [info] update#setState idle
+2024-04-09 17:52:10.856 [info] update#setState checking for updates
+2024-04-09 17:52:11.391 [info] update#setState idle
+2024-04-09 18:52:10.882 [info] update#setState checking for updates
+2024-04-09 18:52:12.740 [error] Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:108522)
+    at SimpleURLLoaderWrapper.emit (node:events:517:28)
+2024-04-09 18:52:12.742 [info] update#setState idle
+2024-04-09 20:27:49.067 [info] update#setState checking for updates
+2024-04-09 20:27:49.247 [info] update#setState idle
+2024-04-09 21:27:49.072 [info] update#setState checking for updates
+2024-04-09 21:27:49.214 [info] update#setState idle
+2024-04-09 22:27:49.076 [info] update#setState checking for updates
+2024-04-09 22:27:49.261 [info] update#setState idle
+2024-04-10 01:06:38.753 [info] update#setState checking for updates
+2024-04-10 01:06:39.329 [info] update#setState idle

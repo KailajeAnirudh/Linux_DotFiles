@@ -1,0 +1,36 @@
+{
+   "author": "Dev Astora",
+   "background": {
+      "scripts": [ "js/manageSites.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "img/128-gs-icon-off.png",
+         "16": "img/16-gs-icon-off.png",
+         "32": "img/32-gs-icon-off.png",
+         "48": "img/48-gs-icon-off.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "GrayScale the Web"
+   },
+   "content_scripts": [ {
+      "js": [ "js/tinycolor-min.js", "js/manageSites.js", "js/content.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Removes all color from websites, turning them gray. Can be set for specific sites and tabs, or for all sites.",
+   "icons": {
+      "128": "img/128-gs-icon-on.png",
+      "16": "img/16-gs-icon-on.png",
+      "32": "img/32-gs-icon-on.png",
+      "48": "img/48-gs-icon-on.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAket6uqd45Zx4JLqsLU64YwCJ1k/QmfDGARa1Xjd+IAdtoumagvuPhqcEccXiJF9GYr1AcSYq3z8Il4ylBAOYGrrUjjaMjSp9pJO0Uzri5gU4RkgMDAZCCjhBqF47Guq1qb/IcDC+Zdskq6ZOpXyo5wt6aUNUkj9hjc0PCTcEfqBVPRWymNqwQq1LE4yO8nuXcL/b3RAmZGaEshiN8mE31ad81lYG5Ry7LV59KMf3i1vtMb/KKJCNaOkncpk3SwpuYqK6Lsav3Rrqn97qfW+z6lDpdmPahiPZhJjYsNJ1anJ9IUu1WJs9K2kZMKptGFxhBIAyIGp/HSx5tHOze4kO5QIDAQAB",
+   "manifest_version": 2,
+   "name": "Grayscale the Web - Save Sites",
+   "options_page": "options.html",
+   "permissions": [ "storage", "tabs", "webNavigation" ],
+   "short_name": "Gray the Web",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.6"
+}

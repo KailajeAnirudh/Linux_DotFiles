@@ -1,29 +1,15 @@
-2024/03/09-23:21:13.440 4ac6 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
-2024/03/09-23:21:13.441 4ac6 Recovering log #407
-2024/03/09-23:21:13.447 4ac6 Level-0 table #410: started
-2024/03/09-23:21:13.453 4ac6 Level-0 table #410: 2590706 bytes OK
-2024/03/09-23:21:13.454 4ac6 Delete type=0 #407
-2024/03/09-23:21:13.454 4ad1 Compacting 4@0 + 1@1 files
-2024/03/09-23:21:13.471 4ad1 Generated table #412@0: 2 keys, 92733 bytes
-2024/03/09-23:21:13.471 4ad1 Compacted 4@0 + 1@1 files => 92733 bytes
-2024/03/09-23:21:13.472 4ad1 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/03/10-12:09:35.463 4ad1 Compacting 1@1 + 1@2 files
-2024/03/10-12:09:35.465 4ad1 Generated table #413@1: 17 keys, 95497 bytes
-2024/03/10-12:09:35.465 4ad1 Compacted 1@1 + 1@2 files => 95497 bytes
-2024/03/10-12:09:35.466 4ad1 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/03/10-12:09:35.467 4ad1 Delete type=2 #398
-2024/03/10-12:09:35.467 4ad1 Delete type=2 #405
-2024/03/10-12:09:35.467 4ad1 Delete type=2 #412
-2024/03/10-12:09:35.467 4ad1 Delete type=2 #401
-2024/03/10-12:09:35.467 4ad1 Delete type=2 #410
-2024/03/10-12:09:35.467 4ad1 Delete type=2 #403
-2024/03/10-12:09:35.467 4ad1 Delete type=2 #408
-2024/03/10-15:04:54.875 4ac6 Level-0 table #415: started
-2024/03/10-15:04:54.884 4ac6 Level-0 table #415: 2590456 bytes OK
-2024/03/10-15:04:54.886 4ac6 Delete type=0 #411
-2024/03/10-17:07:47.665 4aca Compacting 1@1 + 1@2 files
-2024/03/10-17:07:47.670 4aca Generated table #416@1: 17 keys, 95505 bytes
-2024/03/10-17:07:47.670 4aca Compacted 1@1 + 1@2 files => 95505 bytes
-2024/03/10-17:07:47.671 4aca compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/03/10-17:07:47.671 4aca Delete type=2 #415
-2024/03/10-17:07:47.671 4aca Delete type=2 #413
+2024/04/12-10:38:21.093 21a2 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2024/04/12-10:38:21.094 21a2 Recovering log #629
+2024/04/12-10:38:21.100 21a2 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000629.log 
+2024/04/12-11:38:21.356 21a1 Level-0 table #632: started
+2024/04/12-11:38:21.367 21a1 Level-0 table #632: 2639647 bytes OK
+2024/04/12-11:38:21.369 21a1 Delete type=0 #629
+2024/04/12-11:38:21.369 21a1 Compacting 4@0 + 1@1 files
+2024/04/12-11:38:21.383 21a1 Generated table #633@0: 2 keys, 111083 bytes
+2024/04/12-11:38:21.383 21a1 Compacted 4@0 + 1@1 files => 111083 bytes
+2024/04/12-11:38:21.384 21a1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/12-11:38:21.384 21a1 Delete type=2 #628
+2024/04/12-11:38:21.384 21a1 Delete type=2 #620
+2024/04/12-11:38:21.384 21a1 Delete type=2 #632
+2024/04/12-11:38:21.384 21a1 Delete type=2 #626
+2024/04/12-11:38:21.384 21a1 Delete type=2 #622

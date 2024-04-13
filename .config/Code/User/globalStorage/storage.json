@@ -13,7 +13,6 @@
             "file:///home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/05_Madness": "__default__profile__",
             "file:///home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/04_Homework4": "__default__profile__",
             "file:///home/anirudhkailaje/Documents/01_UPenn/01_ESE5460": "__default__profile__",
-            "file:///home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/02_Homeworks": "__default__profile__",
             "file:///home/anirudhkailaje/Documents/01_UPenn/99_Ref/01_PyDrake": "__default__profile__",
             "vscode-remote://ssh-remote%2Bec2-54-175-26-223.compute-1.amazonaws.com/home/ubuntu": "__default__profile__",
             "vscode-remote://ssh-remote%2Bec2-184-72-144-143.compute-1.amazonaws.com/home/ubuntu": "__default__profile__",
@@ -52,12 +51,28 @@
             "file:///home/anirudhkailaje/Downloads/submission": "__default__profile__",
             "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2": "__default__profile__",
             "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2": "__default__profile__",
-            "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/01_Project1_1": "__default__profile__",
-            "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/03_Project1_3": "__default__profile__",
             "file:///home/anirudhkailaje/.logseq/plugins/logseq-git": "__default__profile__",
             "file:///home/anirudhkailaje/.logseq/plugins/logseq-luma": "__default__profile__",
             "file:///home/anirudhkailaje/Documents/01_UPenn/99_Ref": "__default__profile__",
-            "file:///home/anirudhkailaje/Documents/01_UPenn": "__default__profile__"
+            "file:///home/anirudhkailaje/Documents/01_UPenn": "__default__profile__",
+            "file:///home/anirudhkailaje/.logseq/plugins/logseq-grammarly": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/01_Project1_1": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/04_Project1_4/02_Measurements": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/03_Homework3": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/02_Homeworks": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/04_HW4": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/05_Homework5": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/03_Project1_3": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/PathFinding": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/04_Project1_4": "__default__profile__",
+            "file:///home/anirudhkailaje/Downloads": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/06_Homework6": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/05_Project2_1": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/06_ESE6500": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/07_Homework7": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation": "__default__profile__",
+            "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -67,7 +82,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/anirudhkailaje/Documents/01_UPenn"
+                "folderUri": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/01_Project1_1"
+            },
+            {
+                "folderUri": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2"
             }
         ],
         "emptyWindows": []
@@ -110,8 +128,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -120,111 +137,111 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn"
+                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/99_Ref",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/99_Ref",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/99_Ref"
+                                    "label": "~/Documents/01_UPenn/07_IntentEstimation"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/.logseq/plugins/logseq-git",
-                                        "path": "/home/anirudhkailaje/.logseq/plugins/logseq-git",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.logseq/plugins/logseq-git"
+                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/01_Project1_1",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/01_Project1_1",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/07_Homework7",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/07_Homework7",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/01_Project1_1"
+                                    "label": "~/Documents/01_UPenn/05_MEAM5430/07_Homework7"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/03_Project1_3",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/03_Project1_3",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/06_ESE6500",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/06_ESE6500",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/03_Project1_3"
+                                    "label": "~/Documents/01_UPenn/06_ESE6500"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/05_Project2_1",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/05_Project2_1",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2"
+                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/05_Project2_1"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/06_Homework6",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/06_Homework6",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2"
+                                    "label": "~/Documents/01_UPenn/05_MEAM5430/06_Homework6"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Downloads/submission",
-                                        "path": "/home/anirudhkailaje/Downloads/submission",
+                                        "external": "file:///home/anirudhkailaje/Downloads",
+                                        "path": "/home/anirudhkailaje/Downloads",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/submission"
+                                    "label": "~/Downloads"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/02_Homework2",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/02_Homework2",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/04_Project1_4",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/04_Project1_4",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/05_MEAM5430/02_Homework2"
+                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/04_Project1_4"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/03_FinalProject",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/02_MEAM5170/03_FinalProject",
+                                        "external": "file:///home/anirudhkailaje/Documents/PathFinding",
+                                        "path": "/home/anirudhkailaje/Documents/PathFinding",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/02_MEAM5170/03_FinalProject"
+                                    "label": "~/Documents/PathFinding"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -233,111 +250,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2/code/README.txt",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2/code/README.txt",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2/code/README.txt"
+                                    "label": "~/Documents/01_UPenn/07_IntentEstimation/estmatro.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2/code/graph_hbd.py",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2/code/graph_hbd.py",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/07_Homework7/Homework7.ipynb",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/07_Homework7/Homework7.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2/code/graph_hbd.py"
+                                    "label": "~/Documents/01_UPenn/05_MEAM5430/07_Homework7/Homework7.ipynb"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2/code/graph_search2.py",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2/code/graph_search2.py",
+                                        "external": "file:///home/anirudhkailaje/Documents/04_Misc/02_Logseq/journals/2024_03_06.md",
+                                        "path": "/home/anirudhkailaje/Documents/04_Misc/02_Logseq/journals/2024_03_06.md",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/meam620/proj1_2/code/graph_search2.py"
+                                    "label": "~/Documents/04_Misc/02_Logseq/journals/2024_03_06.md"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/test/meam620/proj1_2/code/graph_search.py",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/test/meam620/proj1_2/code/graph_search.py",
+                                        "external": "file:///home/anirudhkailaje/Documents/PathFinding/PAthfinding.py",
+                                        "path": "/home/anirudhkailaje/Documents/PathFinding/PAthfinding.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/04_MEAM6200/01_Projects/02_Project1_2/test/meam620/proj1_2/code/graph_search.py"
+                                    "label": "~/Documents/PathFinding/PAthfinding.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Downloads/se3_control.py",
-                                        "path": "/home/anirudhkailaje/Downloads/se3_control.py",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/06_Homework6/SliderInteration.ipynb",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/06_Homework6/SliderInteration.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/se3_control.py"
+                                    "label": "~/Documents/01_UPenn/05_MEAM5430/06_Homework6/SliderInteration.ipynb"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Downloads/waypoint_traj.py",
-                                        "path": "/home/anirudhkailaje/Downloads/waypoint_traj.py",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/06_Homework6/UAV_Database.ipynb",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/06_Homework6/UAV_Database.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/waypoint_traj.py"
+                                    "label": "~/Documents/01_UPenn/05_MEAM5430/06_Homework6/UAV_Database.ipynb"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/02_Homework2/AerofoilData.ipynb",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/02_Homework2/AerofoilData.ipynb",
+                                        "external": "file:///media/anirudhkailaje/DEBIAN%2012_2/01_Project1_1/code/se3_control.py",
+                                        "path": "/media/anirudhkailaje/DEBIAN 12_2/01_Project1_1/code/se3_control.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/05_MEAM5430/02_Homework2/AerofoilData.ipynb"
+                                    "label": "/media/anirudhkailaje/DEBIAN 12_2/01_Project1_1/code/se3_control.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/05_Homework5/Anirudh_HW5.py",
-                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/01_ESE5460/02_Homework/05_Homework5/Anirudh_HW5.py",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/03_Homework3/super_cub.py",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/03_Homework3/super_cub.py",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/01_UPenn/01_ESE5460/02_Homework/05_Homework5/Anirudh_HW5.py"
+                                    "label": "~/Documents/01_UPenn/05_MEAM5430/03_Homework3/super_cub.py"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Downloads/hw5_problem2.py",
-                                        "path": "/home/anirudhkailaje/Downloads/hw5_problem2.py",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/03_Homework3/Super_Cub_Aero.ipynb",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/03_Homework3/Super_Cub_Aero.ipynb",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/hw5_problem2.py"
+                                    "label": "~/Documents/01_UPenn/05_MEAM5430/03_Homework3/Super_Cub_Aero.ipynb"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/anirudhkailaje/Downloads/bibtex.bbl",
-                                        "path": "/home/anirudhkailaje/Downloads/bibtex.bbl",
+                                        "external": "file:///home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/03_Homework3/MEAM543_HW4_Anirudh.pdf",
+                                        "path": "/home/anirudhkailaje/Documents/01_UPenn/05_MEAM5430/03_Homework3/MEAM543_HW4_Anirudh.pdf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/bibtex.bbl"
+                                    "label": "~/Documents/01_UPenn/05_MEAM5430/03_Homework3/MEAM543_HW4_Anirudh.pdf"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -467,12 +484,20 @@
                                     "label": "&&Settings"
                                 },
                                 {
+                                    "id": "workbench.view.extensions",
+                                    "label": "&&Extensions"
+                                },
+                                {
                                     "id": "workbench.action.openGlobalKeybindings",
                                     "label": "Keyboard Shortcuts"
                                 },
                                 {
                                     "id": "workbench.action.openSnippets",
                                     "label": "Configure User Snippets"
+                                },
+                                {
+                                    "id": "workbench.action.tasks.openUserTasks",
+                                    "label": "User Tasks"
                                 },
                                 {
                                     "id": "submenuitem.ThemesSubMenu",
@@ -500,6 +525,13 @@
                                 {
                                     "id": "settings.filterByOnline",
                                     "label": "&&Online Services Settings"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.userDataSync.actions.turnOn",
+                                    "label": "Backup and Sync Settings..."
                                 }
                             ]
                         }
@@ -664,6 +696,10 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
+                        "id": "workbench.action.toggleMultiCursorModifier",
+                        "label": "Switch to Ctrl+Click for Multi-Cursor"
+                    },
+                    {
                         "id": "editor.action.toggleColumnSelection",
                         "label": "Column &&Selection Mode"
                     }
@@ -743,13 +779,17 @@
                                     "submenu": {
                                         "items": [
                                             {
-                                                "id": "workbench.action.activityBarLocation.side",
-                                                "label": "&&Side",
+                                                "id": "workbench.action.activityBarLocation.default",
+                                                "label": "&&Default",
                                                 "checked": true
                                             },
                                             {
                                                 "id": "workbench.action.activityBarLocation.top",
                                                 "label": "&&Top"
+                                            },
+                                            {
+                                                "id": "workbench.action.activityBarLocation.bottom",
+                                                "label": "&&Bottom"
                                             },
                                             {
                                                 "id": "workbench.action.activityBarLocation.hide",
@@ -856,7 +896,7 @@
                                 },
                                 {
                                     "id": "breadcrumbs.toggle",
-                                    "label": "&&Breadcrumbs",
+                                    "label": "Toggle &&Breadcrumbs",
                                     "checked": true
                                 },
                                 {
@@ -1000,6 +1040,10 @@
                         "label": "E&&xtensions"
                     },
                     {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -1023,8 +1067,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -1032,8 +1075,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1042,8 +1084,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1425,6 +1466,10 @@
                         "label": "Editor Playgrou&&nd"
                     },
                     {
+                        "id": "update.showCurrentReleaseNotes",
+                        "label": "Show &&Release Notes"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -1449,6 +1494,10 @@
                     {
                         "id": "workbench.action.openRequestFeatureUrl",
                         "label": "&&Search Feature Requests"
+                    },
+                    {
+                        "id": "workbench.action.openIssueReporter",
+                        "label": "Report &&Issue"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1523,6 +1572,10 @@
             "workbench.action.openSettings": {
                 "label": "Ctrl+,",
                 "userSettingsLabel": "ctrl+,"
+            },
+            "workbench.view.extensions": {
+                "label": "Ctrl+Shift+X",
+                "userSettingsLabel": "ctrl+shift+x"
             },
             "workbench.action.openGlobalKeybindings": {
                 "label": "Ctrl+K Ctrl+S",
@@ -1719,10 +1772,6 @@
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
-            },
-            "workbench.view.extensions": {
-                "label": "Ctrl+Shift+X",
-                "userSettingsLabel": "ctrl+shift+x"
             },
             "workbench.actions.view.problems": {
                 "label": "Ctrl+Shift+M",
@@ -1950,15 +1999,15 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/anirudhkailaje/Documents/01_UPenn",
-            "backupPath": "/home/anirudhkailaje/.config/Code/Backups/336313897ad5da90528d5fb64035d6cc",
+            "folder": "file:///home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2",
+            "backupPath": "/home/anirudhkailaje/.config/Code/Backups/c423747e5b555a453def73fda61d87b2",
             "uiState": {
                 "mode": 1,
-                "x": 962,
-                "y": 529,
-                "width": 953,
-                "height": 260,
-                "zoomLevel": 0
+                "x": 5,
+                "y": 5,
+                "width": 2230,
+                "height": 1365,
+                "zoomLevel": 1
             }
         },
         "openedWindows": []

@@ -1,0 +1,33 @@
+2024-04-07 10:13:19.168 [info] Started local extension host with pid 314816.
+2024-04-07 10:13:19.220 [error] Extension 'ms-python.debugpy' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): portsAttributes, contribIssueReporter
+product.json (WINS): portsAttributes
+2024-04-07 10:13:19.220 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, handleIssueUri, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent
+2024-04-07 10:13:19.264 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-04-07 10:13:19.265 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-04-07 10:13:22.084 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/anirudhkailaje)
+2024-04-07 10:13:22.084 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2024-04-07 10:13:22.107 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-04-07 10:13:22.107 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code 15, signal: unknown
+2024-04-07 10:13:23.216 [info] [perf] Render performance baseline is 26ms
+2024-04-07 10:13:37.826 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2024-04-07 10:13:39.333 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/anirudhkailaje/.config/Code/logs/20240325T085845/window1/exthost/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /home/anirudhkailaje)
+2024-04-07 10:13:39.333 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/anirudhkailaje/.config/Code/logs/20240325T085845/window1/exthost/vscode.git' failed: No such file or directory
+2024-04-07 10:13:39.346 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-04-07 10:13:39.348 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code 15, signal: unknown
+2024-04-07 10:13:39.523 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)
+2024-04-07 10:13:56.756 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2024-04-07 10:13:57.104 [warning] [backup tracker] suspended, ignoring dirty change event untitled:Untitled-1.ipynb?jupyter-notebook notebook/jupyter-notebook
+2024-04-07 10:13:57.108 [warning] [backup tracker] suspended, ignoring unregister event untitled:Untitled-1.ipynb?jupyter-notebook notebook/jupyter-notebook
+2024-04-07 10:13:57.839 [info] Started local extension host with pid 316351.
+2024-04-07 10:13:57.863 [error] Extension 'ms-python.debugpy' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): portsAttributes, contribIssueReporter
+product.json (WINS): portsAttributes
+2024-04-07 10:13:57.863 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, handleIssueUri, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent
+2024-04-07 10:13:57.894 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-04-07 10:13:57.894 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-04-07 10:14:01.483 [info] [perf] Render performance baseline is 18ms

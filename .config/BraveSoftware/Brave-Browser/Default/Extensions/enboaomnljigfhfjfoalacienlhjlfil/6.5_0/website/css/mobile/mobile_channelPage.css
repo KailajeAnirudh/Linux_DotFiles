@@ -1,0 +1,95 @@
+/* ------------------ Hide Banner ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_channel_banner="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-page-header-banner {
+    display: none!important;
+}
+
+/* ------------------ Grayscale Banner ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_grayscale_channel_banner="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-page-header-banner {
+    filter: grayscale(1)!important;
+}
+
+/* ------------------ Hide Channel Avatar ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_page_hide_channel_avatar="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-page-header-section ytm-profile-icon {
+    display: none!important;
+}
+
+/* ------------------ Grayscale Channel Avatar ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_page_grayscale_channel_avatar="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-page-header-section ytm-profile-icon {
+    filter: grayscale(1)!important;
+}
+
+/* ------------------ Hide Channel Name ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_channel_name="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-page-header-section .c4-tabbed-header-page-header-title,
+
+/* ------------------ Hide Badge - Verified ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_channel_name_badge="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-page-header-section .c4-tabbed-header-page-header-title ytm-metadata-badge-renderer,
+
+/* ------------------ Hide Channel ID @ ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_channel_id="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-page-header-section .c4-tabbed-header-page-header-handle,
+
+/* ------------------ Hide Channel Links ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_links="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-channel-header-links-view-model,
+
+/* ------------------ Hide Channel Subscribers Counter ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_channel_subscribers_counter="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-page-header-metadata .c4-tabbed-header-page-header-metadata-item:nth-child(2),
+
+/* ------------------ Hide Channel Videos Counter ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_channel_videos_counter="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-page-header-metadata .c4-tabbed-header-page-header-metadata-item:nth-child(3),
+
+/* ------------------ Hide Button - Subscribe ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_button_subscribe="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) .c4-tabbed-header-modern-buttons ytm-subscribe-button-renderer,
+
+/* ------------------ Hide Channel Tagline ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_tagline="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-channel-tagline-renderer,
+
+/* ------------------ Hide Menu Buttons Row ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_channel_menu_buttons_row="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-single-column-browse-results-renderer .single-column-browse-results-tab-bar.cbox[is-channel="true"],
+
+/* ------------------ Hide Button - Search ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_channel_menu_button_search="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) yt-tab-group-shape .yt-tab-shape-wiz.yt-tab-shape-wiz__tab--last-tab,
+
+/* ------------------ Hide Home Tab Section - Videos ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_home_tab_section_videos="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-shelf-renderer:has(a[href*="/videos?view=0&sort=dd"].shelf-header-endpoint),
+
+/* ------------------ Hide Home Tab Section - Popular Videos ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_home_tab_section_popular_videos="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-shelf-renderer:has(a[href*="/videos?view=0&sort=p"].shelf-header-endpoint),
+
+/* ------------------ Hide Home Tab Section - Shorts ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_home_tab_section_shorts="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-reel-shelf-renderer,
+
+/* ------------------ Hide Home Tab Section - Playlist ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_home_tab_section_playlist="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-shelf-renderer:has(a[href*="playlist?list="].shelf-header-endpoint),
+
+/* ------------------ Hide Home Tab Section - Releases ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_home_tab_section_releases="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-shelf-renderer:has(a[href*="/releases"].shelf-header-endpoint),
+
+/* ------------------ Hide Home Tab Section - Live ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_home_tab_section_live="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-shelf-renderer:has(a[href*="live_view="].shelf-header-endpoint),
+
+/* ------------------ Hide Home Tab Section - Featured Channels ------------------ */
+
+html[untrap_is_mobile="true"][untrap_global_enable="true"][untrap_channel_hide_home_tab_section_featured_channels="true"] ytm-browse:has(ytm-c4-tabbed-header-renderer) ytm-shelf-renderer:has(a.compact-media-item-image[href*="/@"])
+
+{
+    display: none!important;
+}

@@ -1,3 +1,9 @@
-2024/03/09-23:21:12.980 4ae2 Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/MANIFEST-000001
-2024/03/09-23:21:12.980 4ae2 Recovering log #7
-2024/03/09-23:21:12.984 4ae2 Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/000007.log 
+2024/04/12-10:38:20.218 21af Reusing MANIFEST /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/MANIFEST-000001
+2024/04/12-10:38:20.222 21af Recovering log #17
+2024/04/12-10:38:20.222 21af Reusing old log /home/anirudhkailaje/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/000017.log 
+2024/04/12-11:46:32.088 21a3 Compacting 1@1 + 1@2 files
+2024/04/12-11:46:32.090 21a3 Generated table #20@1: 182 keys, 15866 bytes
+2024/04/12-11:46:32.090 21a3 Compacted 1@1 + 1@2 files => 15866 bytes
+2024/04/12-11:46:32.091 21a3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/12-11:46:32.092 21a3 Delete type=2 #18
+2024/04/12-11:46:32.092 21a3 Delete type=2 #15

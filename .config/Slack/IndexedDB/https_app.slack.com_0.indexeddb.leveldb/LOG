@@ -1,0 +1,11 @@
+2024/03/10-17:32:50.371 1025ef Reusing MANIFEST /home/anirudhkailaje/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/10-17:32:50.371 1025ef Recovering log #3
+2024/03/10-17:32:50.373 1025ef Reusing old log /home/anirudhkailaje/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000003.log 
+2024/03/10-17:32:50.560 1025ef Level-0 table #5: started
+2024/03/10-17:32:50.561 1025ef Level-0 table #5: 17285 bytes OK
+2024/03/10-17:32:50.562 1025ef Delete type=0 #3
+2024/03/10-17:32:50.563 1025ef Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/10-17:32:53.326 1025ef Level-0 table #7: started
+2024/03/10-17:32:53.327 1025ef Level-0 table #7: 1122 bytes OK
+2024/03/10-17:32:53.328 1025ef Delete type=0 #4
+2024/03/10-17:32:53.328 1025ef Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

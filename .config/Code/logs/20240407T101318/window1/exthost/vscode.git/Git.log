@@ -1,0 +1,37 @@
+2024-04-07 10:13:20.978 [info] Log level: Info
+2024-04-07 10:13:20.978 [info] Validating found git in: "git"
+2024-04-07 10:13:20.978 [info] Using git "2.39.2" from "git"
+2024-04-07 10:13:20.978 [info] > git rev-parse --show-toplevel [7ms]
+2024-04-07 10:13:20.978 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2024-04-07 10:13:20.978 [info] Open repository: /home/anirudhkailaje
+2024-04-07 10:13:20.978 [info] > git rev-parse --show-toplevel [13ms]
+2024-04-07 10:13:20.978 [info] > git config --get commit.template [21ms]
+2024-04-07 10:13:20.999 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-04-07 10:13:21.004 [info] Open repository: /home/anirudhkailaje/Documents/01_UPenn/06_ESE6500/Robotics-Learning
+2024-04-07 10:13:21.005 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2024-04-07 10:13:21.051 [info] > git config --get commit.template [5ms]
+2024-04-07 10:13:21.073 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-04-07 10:13:21.084 [warning] ENOENT: no such file or directory, open '/home/anirudhkailaje/Documents/01_UPenn/06_ESE6500/Robotics-Learning/.git/refs/remotes/origin/main'
+2024-04-07 10:13:21.085 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 10:13:21.164 [info] > git status -z -uall [71ms]
+2024-04-07 10:13:21.186 [info] > git config --get commit.template [9ms]
+2024-04-07 10:13:21.187 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-04-07 10:13:21.194 [warning] ENOENT: no such file or directory, open '/home/anirudhkailaje/Documents/01_UPenn/06_ESE6500/Robotics-Learning/.git/refs/remotes/origin/main'
+2024-04-07 10:13:21.195 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-07 10:13:21.261 [info] > git status -z -uall [59ms]
+2024-04-07 10:13:21.569 [info] > git check-ignore -v -z --stdin [11ms]
+2024-04-07 10:13:21.570 [info] > git check-ignore -v -z --stdin [2ms]
+2024-04-07 10:13:21.596 [info] > git status -z -uall [523ms] (cancelled)
+2024-04-07 10:13:21.771 [info] > git show --textconv :02_UnscentedKalmanFilter/estimate_rot.py [8ms]
+2024-04-07 10:13:21.772 [info] > git ls-files --stage -- /home/anirudhkailaje/Documents/01_UPenn/06_ESE6500/Robotics-Learning/02_UnscentedKalmanFilter/estimate_rot.py [1ms]
+2024-04-07 10:13:21.781 [info] > git cat-file -s 835f887191462dd9152220aff834ad1d661bd805 [1ms]
+2024-04-07 10:13:58.497 [info] Log level: Info
+2024-04-07 10:13:58.497 [info] Validating found git in: "git"
+2024-04-07 10:13:58.497 [info] Using git "2.39.2" from "git"
+2024-04-07 10:13:58.497 [info] > git rev-parse --show-toplevel [4ms]
+2024-04-07 10:13:58.504 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-04-07 10:13:58.510 [info] Open repository: /home/anirudhkailaje
+2024-04-07 10:13:58.519 [info] > git config --get commit.template [2ms]
+2024-04-07 10:13:58.536 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-04-07 10:13:58.988 [info] > git status -z -uall [391ms] (cancelled)
+2024-04-07 10:13:59.093 [info] > git check-ignore -v -z --stdin [4ms]

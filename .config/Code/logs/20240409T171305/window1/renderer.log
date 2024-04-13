@@ -1,0 +1,28 @@
+2024-04-09 17:13:07.915 [info] Started local extension host with pid 713747.
+2024-04-09 17:13:07.930 [error] Extension 'ms-python.debugpy' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): portsAttributes, contribIssueReporter
+product.json (WINS): portsAttributes
+2024-04-09 17:13:07.930 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, handleIssueUri, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent
+2024-04-09 17:13:07.958 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-04-09 17:13:07.958 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-04-09 17:13:08.813 [error] Unable to read file '/home/anirudhkailaje/.config/Code/logs/20240409T171305/window1/exthost/output_logging_20240409T171308/1-Jupyter.log' (Error: Unable to resolve nonexistent file '/home/anirudhkailaje/.config/Code/logs/20240409T171305/window1/exthost/output_logging_20240409T171308/1-Jupyter.log'): Error: Unable to read file '/home/anirudhkailaje/.config/Code/logs/20240409T171305/window1/exthost/output_logging_20240409T171308/1-Jupyter.log' (Error: Unable to resolve nonexistent file '/home/anirudhkailaje/.config/Code/logs/20240409T171305/window1/exthost/output_logging_20240409T171308/1-Jupyter.log')
+    at n.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:653:19968)
+    at n.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:653:19763)
+    at async n.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:653:19075)
+    at async r.O (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1659:45472)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1659:44669
+2024-04-09 17:13:15.467 [info] [perf] Render performance baseline is 20ms
+2024-04-09 17:13:26.235 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/anirudhkailaje/.config/Code/logs/20240326T174143/window1' failed: No such file or directory (EUNKNOWN) (path: /home/anirudhkailaje)
+2024-04-09 17:13:26.236 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/anirudhkailaje/.config/Code/logs/20240326T174143/window1' failed: No such file or directory
+2024-04-09 17:13:31.742 [info] Started local extension host with pid 714846.
+2024-04-09 17:13:31.790 [error] Extension 'ms-python.debugpy' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): portsAttributes, contribIssueReporter
+product.json (WINS): portsAttributes
+2024-04-09 17:13:31.791 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, contribIssueReporter
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, handleIssueUri, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent
+2024-04-09 17:13:31.821 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-04-09 17:13:31.822 [error] [ms-python.python]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-04-09 17:13:34.452 [info] [perf] Render performance baseline is 21ms

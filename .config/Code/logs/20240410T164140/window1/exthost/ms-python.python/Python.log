@@ -1,0 +1,97 @@
+2024-04-10 16:41:44.558 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-10 16:41:44.558 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-10 16:41:44.558 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-10 16:41:44.558 [info] Experiment 'pythonTestAdapter' is active
+2024-04-10 16:41:44.558 [info] Default formatter is set to null for workspace /home/anirudhkailaje/Documents/01_UPenn/04_MEAM6200/01_Projects/06_Project2_2
+2024-04-10 16:41:44.558 [info] Test server listening.
+2024-04-10 16:41:44.558 [info] Python interpreter path: /bin/python3
+2024-04-10 16:41:44.572 [info] > pyenv which python
+2024-04-10 16:41:44.572 [info] cwd: .
+2024-04-10 16:41:44.693 [info] > conda info --json
+2024-04-10 16:41:44.765 [info] > ~/.conda/bin/conda info --json
+2024-04-10 16:41:44.785 [info] > ~/anaconda3/bin/conda info --json
+2024-04-10 16:41:45.986 [info] Starting Pylance language server.
+2024-04-10 16:42:14.230 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-10 16:42:14.230 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-10 16:42:14.230 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-10 16:42:14.230 [info] Experiment 'pythonTestAdapter' is active
+2024-04-10 16:42:14.230 [info] Default formatter is set to null for workspace /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation
+2024-04-10 16:42:14.234 [info] Test server listening.
+2024-04-10 16:42:14.238 [info] > hatch env show --json
+2024-04-10 16:42:14.238 [info] cwd: .
+2024-04-10 16:42:14.247 [info] Python interpreter path: /bin/python3
+2024-04-10 16:42:14.593 [info] > conda info --json
+2024-04-10 16:42:14.603 [info] > ~/.conda/bin/conda info --json
+2024-04-10 16:42:14.614 [info] > ~/anaconda3/bin/conda info --json
+2024-04-10 16:42:14.620 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.4.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.0/python_files/interpreterInfo.py
+2024-04-10 16:42:14.662 [info] > pyenv which python
+2024-04-10 16:42:14.662 [info] cwd: .
+2024-04-10 16:42:15.898 [info] Starting Pylance language server.
+2024-04-10 16:42:20.800 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:42:24.221 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:42:29.281 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:42:32.430 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:42:35.069 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:43:18.637 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:43:22.882 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:43:27.688 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:43:36.485 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:43:39.353 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:43:42.856 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:43:45.327 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:43:46.882 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:43:48.179 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:45:00.590 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:45:05.985 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:45:09.583 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:45:14.327 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:45:23.719 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:00.370 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:03.430 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:04.637 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:06.196 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:08.530 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:10.731 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:17.397 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:25.693 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:28.016 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:29.367 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:33.090 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:38.410 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:41.164 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:52.596 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:57:58.583 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:02.739 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:06.625 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:10.007 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:11.289 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:14.720 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:17.337 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:34.788 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:49.214 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:50.696 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:52.197 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:58:59.058 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:59:01.211 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:59:02.920 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:59:04.855 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:59:14.780 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:59:18.825 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:59:38.492 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:59:43.823 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 16:59:52.675 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:00:07.241 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:00:16.413 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:00:24.202 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:00:28.900 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:00:30.154 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:00:31.777 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:00:40.577 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:00:42.629 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:00:56.438 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:01:03.486 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:01:14.760 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:01:22.109 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:01:25.699 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:01:33.010 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
+2024-04-10 17:37:33.557 [info] Discover tests for workspace name: 07_IntentEstimation - uri: /home/anirudhkailaje/Documents/01_UPenn/07_IntentEstimation/estmatro.py
